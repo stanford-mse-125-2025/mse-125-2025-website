@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: MS&E 125
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: MS&E 125
 ---
 
 # {{ site.tagline }}
@@ -12,14 +12,104 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{% if site.announcements %}
+<!-- {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %}
+{% endif %} -->
 
-## Just the Class
+## Course Description
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+An increasing amount of data is now generated in a variety of disciplines, 
+ranging from finance and economics, to the natural and social sciences.
+Making use of this information requires both statistical tools and an
+understanding of how the substantive scientific questions should drive
+the analysis. In this hands-on course, we learn to explore and analyze
+real-world datasets. We cover techniques for summarizing and describing data,
+methods for statistical inference, and principles for effectively communicating 
+results.
+
+Prerequisites:
+MS&E 120 or equivalent, and CS 106A or equivalent
+
+## Instructors
+
+Josh Grossman (Instructor) (jgrossman at stanford dot edu)
+
+[Will Cai](http://www.whereiswillcai.com/) (TA) (willcai at stanford dot edu)
+
+[Alex Chohlas-Wood](https://www.alexchohlaswood.com/) (TA) (alexcw at stanford dot edu)
+
+## Schedule
+
+Lecture: Tuesdays & Thursdays @ 9:45 AM - 11:45 AM PT at TBD Location
+
+Discussion Section: XX @ XX - XX PT (Zoom)
+
+Office Hours:
+- XX @ XX - XX PT (Instructor Name)
+- XX @ XX - XX PT (XX, in person at Location)
+- XX @ XX - XX PT (XX, Zoom)
+- XX @ XX - XX PT (XX)
+- XX @ XX - XX PT (rotating instructors, Zoom)
+
+Zoom links posted on [Canvas](https://canvas.stanford.edu/)
+
+Office hours are a great opportunity to discuss not only topics directly related to the course, 
+but also anything else that's on your mind beyond the class, including, for example, 
+questions about career trajectories, and [research opportunities](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research) in MS&E and beyond.
+
+Please note that there are no regular office hours during the first week of class, but feel free to schedule an appointment if you would like to meet.
+
+If you would like to request some music to play at the beginning of lecture, please fill out [this form](https://forms.gle/ECG7nW7ykKQXx5yS6)!
+
+## Evaluation
+
+- 6 homework assignments (50%)
+- 2 take-home quizzes (25%)
+- Project proposal and final project (20%)
+- Attendance and participation (5%)
+
+## Study groups
+
+We encourage you to work together in groups to solidify your understanding of the course material. 
+If you would like assistance forming a study group, please complete [this form](https://forms.gle/j2mvdr3bfBkMcqF3A) by XX at XXpm PT. 
+Our goal is to form the study groups the following day, 
+so students can begin discussing the first homework assignment.
+
+## Course communication 
+
+We use the [Ed platform](https://canvas.stanford.edu/) to manage course questions and discussion.
+
+We highly encourage you to use our (anonymous) 
+[comment box](https://forms.gle/WzuDbpi1H4siTgfz9)
+to let us know which aspects of the class
+are going well and which could be improved.
+
+## Diversity statement
+
+It is our intent that students from all backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. We aim to present materials and conduct activities in ways that are respectful of this diversity. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally or for other students or student groups.
+
+## Computing environment
+
+We primarily use [R](http://www.r-project.org/), and [RStudio](http://www.rstudio.com/) is the recommended interface.
+We extensively use the suite of [tidyverse](https://www.tidyverse.org/) packages.
+
+## Textbooks (Optional)
+
+[All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/), by Larry Wasserman
+[R for Data Science](http://r4ds.had.co.nz), by Garrett Grolemund and Hadley Wickham
+[Statistics](http://books.wwnorton.com/books/webad.aspx?id=11597), by David Freedman, Robert Pisani, and Roger Purves
+[Natural Experiments in the Social Sciences](http://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/natural-experiments-social-sciences-design-based-approach), by Thad Dunning
+
+All of the key resources for this class are avilable online, free of charge. 
+However, please note that the MS&E department has an 
+[Opportunity Fund](https://forms.gle/QQKJArhELRVYeFnr7)
+through which students may request financial assistance to purchase any necessary course materials.
+
+
+<!-- ## Just the Class
+
+TEST TEST Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
@@ -62,4 +152,4 @@ $ bundle exec jekyll serve
 1. Point your web browser to [http://localhost:4000](http://localhost:4000)
 1. Reload your web browser after making a change to preview its effect.
 
-For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/). -->
