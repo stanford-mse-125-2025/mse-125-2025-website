@@ -25,7 +25,7 @@ seo:
 1. TOC
 {:toc}
 
-## Course Description
+## Course description
 
 An increasing amount of data is now generated in a variety of disciplines, 
 ranging from finance and economics, to the natural and social sciences.
@@ -70,7 +70,7 @@ Please note that there are no regular office hours during the first week of clas
 
 If you would like to request some music to play at the beginning of lecture, please fill out [this form](https://forms.gle/ECG7nW7ykKQXx5yS6)!
 
-## Assignments, quizzes, project, and grading
+<!-- ## Assignments, quizzes, project, and grading
 
 ### Due dates
 
@@ -96,9 +96,9 @@ Final project due Monday, May 30, 9pm PT
 
 Peer evaluations due Tuesday, May 31, 9pm PT
 
-Take-home Quiz 2 on Thursday, June 2, 12:01am PT to 11:59pm PT
+Take-home Quiz 2 on Thursday, June 2, 12:01am PT to 11:59pm PT -->
 
-### Grading policies
+## Grading policies
 
 - 7 homework assignments (50%)
 - 2 take-home quizzes (25%)
@@ -112,7 +112,7 @@ You are welcome to work with others to master the principles and approaches used
 solve the homework problems, but the work you turn in should be your own.
 Under no circumstance should you seek out or look at solutions to assignments given in previous years.
 
-### Quiz details
+<!-- ### Quiz details
 
 You will have 24 hours to complete each quiz.
 The quizzes are open book/computer.
@@ -143,7 +143,7 @@ Your group should
 sign up for a [15-minute meeting slot](https://docs.google.com/spreadsheets/d/18Epg8PxHLWXZTWMLRf_lAweGtxcwaqg9NU0A8gvP9L8/edit?usp=sharing).
 It is ideal if all members of your group can attend the meeting but, at a minimum, two members should be present. (This meeting is a required part of the assignment.)
 
-Upon completing the project, we'll ask each student to evaluate the contributions of their team members, and we'll consider these peer-reviews when determining final grades.
+Upon completing the project, we'll ask each student to evaluate the contributions of their team members, and we'll consider these peer-reviews when determining final grades. -->
 
 ## Study groups
 
@@ -180,6 +180,14 @@ All of the key resources for this class are avilable online, free of charge.
 However, please note that the MS&E department has an 
 [Opportunity Fund](https://forms.gle/QQKJArhELRVYeFnr7)
 through which students may request financial assistance to purchase any necessary course materials.
+
+## Access and accommodations
+
+Stanford is committed to providing equal educational opportunities for students with disabilities. 
+
+If you experience disability, please register with the Office of Accessible Education (OAE). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty. To get started, or to re-initiate services, please visit [oae.stanford.edu](oae.stanford.edu).
+
+If you already have an Academic Accommodation Letter, we invite you to share your letter with us. Academic Accommodation Letters should be shared at the earliest possible opportunity so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.
 
 ## Diversity statement
 

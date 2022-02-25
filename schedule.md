@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule of topics
+title: Topic schedule
 description: Tentative course schedule.
 ---
 
@@ -44,7 +44,7 @@ Optional reading: Part III of S]tatistics, and selected topics from Chapter 13 o
 
 April 25-29, 2022
 
-Panel on data science careers in government, academia and non-profits; take-home quiz
+Panel on data science careers in government, academia, and non-profits; take-home quiz
 
 Optional reading: None
 
@@ -60,7 +60,7 @@ Optional reading: Selected topics from Chapter 13 of All of Statistics
 
 May 9-13, 2022
 
-Logistic regression, multinomial logistic regression, model evaluation
+Logistic regression, model evaluation
 
 Optional reading: Selected topics from Chapter 13 of All of Statistics
 

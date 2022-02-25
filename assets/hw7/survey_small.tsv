@@ -1,0 +1,401 @@
+state	sex	race	age	education	party	ideology	state_contestedness	vote
+AK	female	white	45-64	college graduate	A	moderate	solid B	A
+AK	female	white	18-29	some college	B	conservative	solid B	B
+AL	female	white	30-44	high school graduate	B	conservative	solid B	B
+AL	female	white	45-64	high school graduate	B	conservative	solid B	B
+AR	female	white	65+	high school graduate	A	moderate	solid B	A
+AR	female	white	45-64	some college	B	conservative	solid B	B
+AZ	female	hispanic	18-29	some college	B	moderate	solid B	B
+AZ	female	white	30-44	college graduate	B	moderate	solid B	B
+CA	male	hispanic	45-64	college graduate	A	moderate	solid A	A
+CA	male	white	65+	college graduate	B	conservative	solid A	B
+CO	male	white	30-44	college graduate	B	conservative	battleground	B
+CO	female	white	30-44	some college	B	conservative	battleground	B
+CT	male	white	45-64	high school graduate	other	moderate	solid A	B
+CT	female	white	45-64	some college	other	conservative	solid A	B
+DE	female	white	45-64	some college	other	moderate	solid A	A
+DE	male	black	30-44	college graduate	A	moderate	solid A	A
+FL	male	white	65+	college graduate	B	conservative	battleground	B
+FL	female	white	18-29	college graduate	A	conservative	battleground	A
+GA	male	white	30-44	high school graduate	other	conservative	solid B	B
+GA	female	black	30-44	some college	A	moderate	solid B	A
+IA	female	white	45-64	college graduate	other	moderate	battleground	A
+IA	female	white	30-44	college graduate	other	moderate	battleground	A
+ID	male	white	45-64	college graduate	other	liberal	solid B	A
+ID	male	white	45-64	college graduate	other	conservative	solid B	B
+IL	male	white	45-64	college graduate	B	conservative	solid A	B
+IL	female	white	45-64	some college	A	moderate	solid A	A
+IN	female	white	30-44	high school graduate	B	moderate	solid B	B
+IN	male	white	45-64	some college	other	moderate	solid B	B
+KS	female	white	45-64	college graduate	other	moderate	solid B	A
+KS	male	white	45-64	some college	other	conservative	solid B	B
+KY	female	white	30-44	college graduate	B	conservative	solid B	B
+KY	female	white	30-44	college graduate	other	moderate	solid B	B
+LA	female	black	18-29	high school graduate	A	liberal	solid B	A
+LA	male	white	30-44	high school graduate	B	moderate	solid B	A
+MA	female	other	45-64	some college	other	liberal	solid A	A
+MA	male	white	45-64	some college	other	moderate	solid A	B
+MD	male	white	30-44	some college	A	moderate	solid A	A
+MD	female	white	30-44	some college	A	liberal	solid A	A
+ME	male	white	45-64	high school graduate	other	conservative	solid A	B
+ME	male	white	45-64	high school graduate	A	liberal	solid A	A
+MI	female	other	45-64	some college	A	liberal	quasi-battleground	A
+MI	male	white	30-44	college graduate	B	conservative	quasi-battleground	B
+MN	male	white	30-44	college graduate	other	moderate	quasi-battleground	A
+MN	female	white	45-64	high school graduate	other	moderate	quasi-battleground	B
+MO	female	white	45-64	college graduate	B	conservative	solid B	A
+MO	female	white	45-64	college graduate	other	conservative	solid B	B
+MS	female	black	18-29	some college	other	moderate	solid B	A
+MS	female	white	30-44	college graduate	other	moderate	solid B	A
+MT	male	white	30-44	college graduate	A	liberal	solid B	A
+MT	male	hispanic	30-44	some college	B	liberal	solid B	A
+NC	female	white	30-44	college graduate	A	liberal	quasi-battleground	B
+NC	female	white	18-29	some college	A	liberal	quasi-battleground	A
+ND	male	white	30-44	high school graduate	B	conservative	solid B	B
+ND	female	white	30-44	some college	B	conservative	solid B	B
+NE	female	white	30-44	college graduate	B	moderate	solid B	A
+NE	female	white	65+	college graduate	A	moderate	solid B	A
+NH	female	white	30-44	college graduate	A	liberal	battleground	A
+NH	male	white	45-64	college graduate	B	moderate	battleground	A
+NJ	female	white	45-64	some college	other	moderate	solid A	B
+NJ	male	white	30-44	high school graduate	B	conservative	solid A	B
+NM	female	white	30-44	college graduate	other	moderate	quasi-battleground	A
+NM	male	hispanic	65+	high school graduate	B	conservative	quasi-battleground	B
+NV	male	white	65+	some college	B	conservative	quasi-battleground	B
+NV	male	white	30-44	college graduate	other	moderate	quasi-battleground	B
+NY	male	white	45-64	college graduate	other	moderate	solid A	A
+NY	female	other	18-29	some college	A	liberal	solid A	A
+OH	female	white	45-64	some college	A	liberal	battleground	A
+OH	female	white	45-64	some college	other	conservative	battleground	B
+OK	female	black	18-29	some college	A	moderate	solid B	A
+OK	male	white	18-29	some college	other	conservative	solid B	B
+OR	male	white	65+	college graduate	A	liberal	solid A	A
+OR	female	white	45-64	college graduate	other	moderate	solid A	B
+PA	male	white	45-64	high school graduate	A	moderate	quasi-battleground	A
+PA	female	white	18-29	high school graduate	other	moderate	quasi-battleground	A
+RI	female	white	18-29	college graduate	B	moderate	solid A	B
+RI	female	white	45-64	college graduate	other	moderate	solid A	A
+SC	male	black	45-64	high school graduate	A	moderate	solid B	A
+SC	female	white	18-29	college graduate	B	moderate	solid B	B
+SD	female	white	65+	high school graduate	B	conservative	solid B	B
+SD	male	white	18-29	some college	A	liberal	solid B	A
+TN	female	white	45-64	some college	other	moderate	solid B	A
+TN	male	white	65+	college graduate	other	conservative	solid B	B
+TX	female	black	30-44	high school graduate	A	liberal	solid B	A
+TX	female	black	18-29	some college	A	conservative	solid B	A
+UT	female	white	65+	college graduate	B	conservative	solid B	B
+UT	female	white	45-64	high school graduate	A	moderate	solid B	A
+VA	male	black	45-64	some college	A	moderate	battleground	A
+VA	female	white	45-64	college graduate	B	moderate	battleground	B
+VT	male	white	30-44	some college	other	moderate	solid A	A
+VT	female	white	30-44	high school graduate	A	liberal	solid A	A
+WA	female	white	45-64	college graduate	other	liberal	solid A	B
+WA	female	white	18-29	college graduate	other	moderate	solid A	B
+WI	female	white	45-64	some college	other	liberal	quasi-battleground	A
+WI	female	white	18-29	high school graduate	B	conservative	quasi-battleground	B
+WV	male	white	45-64	high school graduate	other	moderate	solid B	A
+WV	female	white	45-64	college graduate	B	conservative	solid B	B
+WY	male	white	18-29	high school graduate	A	moderate	solid B	B
+WY	female	white	45-64	college graduate	A	moderate	solid B	A
+CA	female	white	45-64	college graduate	B	conservative	solid A	B
+CA	female	hispanic	45-64	some college	other	conservative	solid A	A
+AL	male	black	18-29	high school graduate	A	moderate	solid B	A
+MA	male	black	30-44	college graduate	other	moderate	solid A	A
+MS	female	white	45-64	high school graduate	B	conservative	solid B	B
+IA	male	white	30-44	college graduate	A	liberal	battleground	A
+MD	female	black	18-29	college graduate	A	liberal	solid A	A
+OR	male	white	45-64	college graduate	A	moderate	solid A	A
+WA	female	white	65+	college graduate	B	moderate	solid A	B
+NH	male	black	45-64	high school graduate	other	liberal	battleground	A
+MI	female	white	45-64	some college	other	conservative	quasi-battleground	B
+KS	female	white	30-44	some college	B	moderate	solid B	B
+NY	female	white	45-64	high school graduate	A	moderate	solid A	A
+CA	female	hispanic	45-64	some college	A	moderate	solid A	A
+CA	female	white	18-29	some college	other	moderate	solid A	A
+NC	male	white	30-44	college graduate	A	liberal	quasi-battleground	A
+NY	female	white	18-29	some college	A	liberal	solid A	A
+TX	female	black	45-64	college graduate	A	moderate	solid B	A
+VA	male	white	45-64	college graduate	other	moderate	battleground	A
+OK	male	white	30-44	high school graduate	A	conservative	solid B	B
+LA	female	white	18-29	high school graduate	B	moderate	solid B	B
+NY	female	black	30-44	some college	A	moderate	solid A	A
+WI	female	white	65+	college graduate	B	conservative	quasi-battleground	B
+GA	male	white	30-44	some college	B	conservative	solid B	B
+MD	female	black	45-64	some college	A	conservative	solid A	A
+NJ	male	black	30-44	college graduate	A	liberal	solid A	A
+AZ	male	white	18-29	high school graduate	other	liberal	solid B	A
+SD	male	white	65+	some college	other	conservative	solid B	A
+VA	female	white	30-44	college graduate	other	moderate	battleground	B
+PA	male	white	18-29	some college	other	moderate	quasi-battleground	A
+MD	female	white	45-64	high school graduate	B	conservative	solid A	B
+NJ	male	white	45-64	college graduate	other	moderate	solid A	A
+KY	male	white	45-64	high school graduate	A	conservative	solid B	B
+NY	female	white	45-64	college graduate	A	liberal	solid A	A
+PA	male	white	45-64	high school graduate	A	liberal	quasi-battleground	A
+NJ	male	white	45-64	some college	B	moderate	solid A	B
+MD	male	white	65+	college graduate	other	moderate	solid A	A
+CA	male	white	65+	college graduate	other	moderate	solid A	A
+KY	female	black	30-44	high school graduate	A	moderate	solid B	A
+NY	female	black	45-64	didn't graduate from HS	other	moderate	solid A	A
+MI	female	white	45-64	college graduate	A	moderate	quasi-battleground	A
+MI	female	white	45-64	college graduate	other	moderate	quasi-battleground	B
+NV	female	white	45-64	high school graduate	B	conservative	quasi-battleground	B
+MI	male	white	30-44	high school graduate	B	conservative	quasi-battleground	B
+TX	female	white	45-64	college graduate	A	moderate	solid B	A
+OH	male	white	30-44	some college	other	conservative	battleground	A
+WI	male	white	45-64	college graduate	B	conservative	quasi-battleground	B
+NY	female	white	45-64	college graduate	B	moderate	solid A	B
+MI	female	white	30-44	college graduate	B	conservative	quasi-battleground	B
+NJ	male	hispanic	18-29	college graduate	A	moderate	solid A	A
+NY	male	black	30-44	college graduate	A	moderate	solid A	A
+FL	female	white	18-29	some college	A	liberal	battleground	B
+MO	female	white	45-64	high school graduate	other	conservative	solid B	B
+NY	male	white	30-44	high school graduate	B	moderate	solid A	B
+MT	male	white	18-29	high school graduate	other	conservative	solid B	B
+IL	female	white	30-44	some college	A	moderate	solid A	A
+MS	female	white	65+	college graduate	other	conservative	solid B	B
+AR	female	white	30-44	some college	A	moderate	solid B	A
+IL	female	white	18-29	some college	A	conservative	solid A	A
+IA	female	white	30-44	college graduate	other	liberal	battleground	A
+IA	female	white	45-64	college graduate	B	moderate	battleground	B
+TX	female	white	45-64	college graduate	other	moderate	solid B	B
+OK	male	other	30-44	high school graduate	A	moderate	solid B	A
+OH	female	white	30-44	some college	A	moderate	battleground	B
+PA	female	white	18-29	high school graduate	B	conservative	quasi-battleground	B
+KS	male	white	30-44	college graduate	B	conservative	solid B	B
+MO	male	other	18-29	college graduate	B	conservative	solid B	B
+KY	male	white	18-29	high school graduate	B	moderate	solid B	B
+NY	female	white	18-29	college graduate	other	liberal	solid A	A
+CA	male	white	18-29	some college	other	conservative	solid A	B
+NY	male	white	45-64	college graduate	B	conservative	solid A	B
+CA	male	white	30-44	some college	B	conservative	solid A	B
+OH	female	white	65+	college graduate	A	moderate	battleground	A
+MO	male	white	45-64	high school graduate	other	moderate	solid B	B
+CA	female	white	65+	some college	B	moderate	solid A	B
+NC	male	black	45-64	high school graduate	A	moderate	quasi-battleground	A
+OH	female	white	45-64	some college	A	liberal	battleground	A
+MN	female	white	45-64	some college	B	conservative	quasi-battleground	B
+CA	female	black	30-44	some college	A	moderate	solid A	A
+SC	male	white	65+	college graduate	A	liberal	solid B	A
+MO	female	white	45-64	college graduate	other	conservative	solid B	B
+IN	female	white	65+	high school graduate	A	liberal	solid B	A
+CA	male	white	30-44	college graduate	A	liberal	solid A	A
+PA	female	white	45-64	college graduate	B	conservative	quasi-battleground	B
+NY	female	white	45-64	college graduate	other	conservative	solid A	B
+NY	female	white	30-44	college graduate	other	moderate	solid A	A
+NY	female	white	45-64	college graduate	A	moderate	solid A	B
+MN	male	white	45-64	college graduate	A	liberal	quasi-battleground	A
+MA	female	white	45-64	college graduate	A	liberal	solid A	A
+IL	male	white	45-64	high school graduate	A	moderate	solid A	A
+NY	male	white	30-44	college graduate	B	conservative	solid A	B
+FL	female	white	45-64	college graduate	B	conservative	battleground	B
+KS	female	white	65+	college graduate	B	moderate	solid B	A
+AL	male	white	30-44	high school graduate	B	conservative	solid B	B
+IL	male	white	18-29	high school graduate	A	moderate	solid A	A
+PA	male	white	45-64	college graduate	B	conservative	quasi-battleground	B
+IL	male	white	65+	some college	B	moderate	solid A	B
+MN	female	hispanic	18-29	some college	A	moderate	quasi-battleground	A
+MD	female	other	30-44	college graduate	other	liberal	solid A	A
+MI	male	black	30-44	high school graduate	A	liberal	quasi-battleground	A
+TX	male	white	45-64	college graduate	B	conservative	solid B	A
+IL	female	hispanic	45-64	college graduate	B	moderate	solid A	B
+CA	male	other	45-64	some college	A	conservative	solid A	A
+TN	female	white	45-64	some college	other	conservative	solid B	B
+NY	female	hispanic	30-44	college graduate	B	conservative	solid A	B
+CA	female	white	30-44	college graduate	B	conservative	solid A	B
+FL	female	white	45-64	college graduate	A	liberal	battleground	A
+MI	male	other	45-64	some college	other	moderate	quasi-battleground	B
+CA	female	other	18-29	some college	other	moderate	solid A	A
+NC	male	black	45-64	some college	A	moderate	quasi-battleground	A
+NC	male	white	65+	high school graduate	A	moderate	quasi-battleground	A
+NJ	male	hispanic	18-29	some college	other	moderate	solid A	A
+LA	male	black	18-29	some college	A	moderate	solid B	A
+PA	male	white	65+	some college	B	moderate	quasi-battleground	B
+CO	female	white	45-64	some college	other	moderate	battleground	A
+WA	male	white	18-29	college graduate	other	moderate	solid A	A
+MA	male	white	18-29	college graduate	B	moderate	solid A	B
+CA	male	white	30-44	college graduate	other	liberal	solid A	A
+NY	female	black	18-29	some college	A	liberal	solid A	A
+CA	female	black	45-64	some college	A	liberal	solid A	A
+CA	male	white	45-64	high school graduate	other	liberal	solid A	B
+MA	male	white	45-64	college graduate	A	moderate	solid A	A
+SC	male	black	18-29	some college	A	liberal	solid B	A
+VA	male	black	45-64	some college	other	moderate	battleground	A
+LA	male	black	45-64	some college	A	moderate	solid B	A
+MO	female	white	45-64	some college	B	conservative	solid B	B
+PA	female	white	45-64	college graduate	A	moderate	quasi-battleground	A
+CA	female	white	65+	high school graduate	B	moderate	solid A	B
+CA	female	white	45-64	college graduate	A	liberal	solid A	A
+PA	male	white	18-29	some college	A	liberal	quasi-battleground	A
+FL	female	other	30-44	some college	B	conservative	battleground	B
+IL	male	white	30-44	college graduate	other	moderate	solid A	B
+TX	male	white	45-64	high school graduate	other	moderate	solid B	B
+NV	female	white	45-64	college graduate	A	liberal	quasi-battleground	A
+GA	female	black	45-64	some college	A	liberal	solid B	A
+IL	female	white	18-29	college graduate	B	conservative	solid A	B
+VA	male	white	45-64	college graduate	A	liberal	battleground	A
+MO	male	white	30-44	college graduate	other	moderate	solid B	A
+NY	male	hispanic	45-64	college graduate	other	liberal	solid A	A
+CA	male	black	30-44	some college	A	moderate	solid A	A
+IL	female	white	30-44	college graduate	other	moderate	solid A	B
+NV	female	white	18-29	college graduate	B	moderate	quasi-battleground	B
+OH	female	white	30-44	college graduate	other	conservative	battleground	B
+OH	male	white	45-64	college graduate	B	moderate	battleground	A
+PA	female	white	45-64	college graduate	B	conservative	quasi-battleground	B
+CA	male	white	18-29	college graduate	other	liberal	solid A	A
+CA	male	white	30-44	college graduate	other	moderate	solid A	B
+NJ	male	white	65+	high school graduate	other	moderate	solid A	B
+TX	male	white	30-44	some college	B	liberal	solid B	B
+LA	male	black	18-29	high school graduate	A	conservative	solid B	A
+CA	female	white	45-64	college graduate	A	liberal	solid A	A
+IL	male	white	45-64	didn't graduate from HS	A	moderate	solid A	A
+NJ	female	white	30-44	college graduate	A	moderate	solid A	A
+TN	female	white	18-29	high school graduate	B	moderate	solid B	B
+OH	male	white	65+	college graduate	B	conservative	battleground	B
+MI	male	white	30-44	college graduate	B	conservative	quasi-battleground	B
+PA	male	black	30-44	college graduate	A	moderate	quasi-battleground	A
+FL	male	black	30-44	some college	A	conservative	battleground	A
+MS	male	white	18-29	high school graduate	A	liberal	solid B	A
+CA	male	white	18-29	some college	other	moderate	solid A	A
+VA	female	white	45-64	college graduate	A	moderate	battleground	A
+MI	male	black	30-44	high school graduate	A	moderate	quasi-battleground	A
+MA	male	white	65+	high school graduate	A	moderate	solid A	A
+MD	female	black	30-44	college graduate	A	liberal	solid A	A
+MN	female	other	45-64	college graduate	A	moderate	quasi-battleground	A
+IA	female	white	18-29	some college	other	moderate	battleground	A
+MO	female	white	30-44	college graduate	B	conservative	solid B	B
+IA	female	white	30-44	college graduate	other	conservative	battleground	A
+MI	male	white	45-64	high school graduate	B	liberal	quasi-battleground	B
+NJ	male	white	30-44	some college	B	moderate	solid A	B
+IL	male	white	45-64	some college	B	conservative	solid A	B
+FL	male	white	65+	college graduate	B	conservative	battleground	B
+NC	female	white	65+	college graduate	A	liberal	quasi-battleground	A
+IL	male	white	45-64	some college	B	moderate	solid A	A
+CA	female	hispanic	65+	college graduate	B	conservative	solid A	B
+IN	male	other	65+	didn't graduate from HS	A	moderate	solid B	B
+IL	male	white	65+	college graduate	A	moderate	solid A	A
+KY	male	white	30-44	some college	A	moderate	solid B	B
+NY	female	other	18-29	high school graduate	A	liberal	solid A	A
+NY	female	white	45-64	college graduate	B	conservative	solid A	B
+TX	male	white	18-29	college graduate	B	moderate	solid B	B
+FL	female	white	18-29	college graduate	other	liberal	battleground	A
+NJ	female	black	30-44	college graduate	A	liberal	solid A	A
+MO	male	white	30-44	some college	other	conservative	solid B	B
+AK	male	white	30-44	college graduate	A	liberal	solid B	A
+FL	female	white	45-64	high school graduate	A	moderate	battleground	B
+IL	female	white	18-29	some college	other	liberal	solid A	A
+VA	female	white	30-44	college graduate	other	moderate	battleground	A
+IN	female	hispanic	65+	college graduate	B	moderate	solid B	B
+MS	female	white	65+	high school graduate	B	moderate	solid B	B
+NY	male	white	45-64	some college	other	liberal	solid A	A
+CA	male	other	30-44	some college	B	conservative	solid A	B
+CA	female	other	30-44	college graduate	A	conservative	solid A	A
+GA	female	white	30-44	some college	B	conservative	solid B	B
+CA	male	white	65+	some college	other	moderate	solid A	B
+CA	female	black	30-44	high school graduate	A	moderate	solid A	A
+PA	female	white	30-44	some college	B	conservative	quasi-battleground	B
+OH	female	white	30-44	high school graduate	B	moderate	battleground	B
+IL	female	white	18-29	some college	B	moderate	solid A	A
+MD	female	white	65+	some college	A	moderate	solid A	A
+CA	male	other	30-44	college graduate	other	liberal	solid A	A
+IN	male	black	18-29	college graduate	A	liberal	solid B	A
+MA	female	white	65+	college graduate	other	conservative	solid A	B
+WI	female	white	30-44	college graduate	other	moderate	quasi-battleground	A
+CT	male	white	30-44	some college	A	liberal	solid A	A
+FL	female	white	45-64	high school graduate	B	conservative	battleground	B
+CA	female	white	45-64	some college	B	conservative	solid A	B
+CA	female	white	65+	high school graduate	B	liberal	solid A	A
+NC	female	black	30-44	some college	A	conservative	quasi-battleground	A
+NY	female	white	45-64	some college	other	liberal	solid A	A
+NY	male	black	18-29	college graduate	A	liberal	solid A	A
+OH	female	white	18-29	college graduate	B	conservative	battleground	B
+OK	male	white	45-64	college graduate	B	moderate	solid B	B
+NY	male	white	30-44	college graduate	B	conservative	solid A	B
+MI	female	black	30-44	college graduate	A	moderate	quasi-battleground	A
+CA	male	white	18-29	didn't graduate from HS	other	moderate	solid A	A
+OH	female	white	45-64	college graduate	other	moderate	battleground	B
+NY	female	white	30-44	college graduate	A	moderate	solid A	A
+CA	male	black	18-29	college graduate	A	conservative	solid A	A
+MI	male	white	18-29	some college	B	conservative	quasi-battleground	B
+MI	female	white	18-29	high school graduate	A	liberal	quasi-battleground	A
+GA	male	black	18-29	high school graduate	A	moderate	solid B	A
+MO	male	black	45-64	college graduate	B	moderate	solid B	A
+VA	female	white	45-64	some college	A	liberal	battleground	A
+AL	male	white	45-64	some college	B	moderate	solid B	B
+MI	male	white	65+	college graduate	B	conservative	quasi-battleground	B
+NY	female	white	18-29	college graduate	A	liberal	solid A	A
+PA	female	white	18-29	high school graduate	A	moderate	quasi-battleground	A
+CA	female	hispanic	45-64	college graduate	other	moderate	solid A	A
+IL	female	white	18-29	high school graduate	A	liberal	solid A	A
+CA	female	white	65+	college graduate	other	moderate	solid A	A
+AL	male	other	18-29	some college	B	conservative	solid B	B
+MO	female	white	45-64	some college	A	moderate	solid B	A
+MA	male	white	45-64	college graduate	other	liberal	solid A	A
+CA	female	other	18-29	college graduate	A	moderate	solid A	A
+AL	female	black	30-44	didn't graduate from HS	A	moderate	solid B	A
+MA	male	white	30-44	college graduate	B	liberal	solid A	B
+PA	female	black	45-64	some college	A	liberal	quasi-battleground	A
+IL	female	white	65+	some college	A	moderate	solid A	A
+CA	female	other	45-64	some college	B	conservative	solid A	B
+CA	male	white	30-44	some college	B	moderate	solid A	B
+IN	female	white	65+	high school graduate	B	conservative	solid B	B
+AZ	female	white	65+	college graduate	A	liberal	solid B	A
+SC	male	white	45-64	college graduate	other	conservative	solid B	B
+NH	female	other	30-44	college graduate	other	moderate	battleground	B
+OR	female	white	45-64	high school graduate	A	moderate	solid A	A
+MT	female	other	18-29	some college	A	moderate	solid B	A
+AL	female	hispanic	18-29	some college	A	moderate	solid B	A
+IA	female	white	30-44	college graduate	other	moderate	battleground	B
+MI	female	white	65+	some college	other	conservative	quasi-battleground	B
+PA	male	white	30-44	college graduate	A	liberal	quasi-battleground	A
+GA	female	black	30-44	high school graduate	A	liberal	solid B	A
+NY	male	white	45-64	some college	B	conservative	solid A	A
+AK	female	white	45-64	college graduate	other	conservative	solid B	B
+AL	male	black	30-44	high school graduate	A	liberal	solid B	A
+AR	male	black	30-44	some college	A	liberal	solid B	A
+AZ	female	white	45-64	some college	A	liberal	solid B	A
+CA	male	white	65+	high school graduate	other	conservative	solid A	B
+CO	female	white	30-44	some college	B	moderate	battleground	B
+CT	female	white	18-29	some college	A	liberal	solid A	A
+DE	female	white	30-44	college graduate	A	liberal	solid A	A
+FL	female	white	18-29	some college	other	moderate	battleground	A
+GA	male	white	18-29	high school graduate	B	conservative	solid B	B
+IA	male	white	30-44	college graduate	other	moderate	battleground	A
+ID	female	white	18-29	some college	B	conservative	solid B	B
+IL	female	black	30-44	didn't graduate from HS	A	moderate	solid A	A
+IN	male	white	30-44	college graduate	B	conservative	solid B	B
+KS	female	white	30-44	college graduate	other	moderate	solid B	A
+KY	female	white	18-29	didn't graduate from HS	B	conservative	solid B	B
+LA	female	black	18-29	high school graduate	A	conservative	solid B	A
+MA	female	white	18-29	college graduate	other	moderate	solid A	A
+MD	female	white	30-44	college graduate	B	moderate	solid A	B
+ME	female	white	65+	high school graduate	A	liberal	solid A	A
+MI	female	white	30-44	college graduate	B	conservative	quasi-battleground	B
+MN	female	white	45-64	college graduate	other	moderate	quasi-battleground	A
+MO	male	white	30-44	high school graduate	B	conservative	solid B	B
+MS	female	white	18-29	some college	B	moderate	solid B	B
+MT	male	white	18-29	some college	A	moderate	solid B	B
+NC	female	white	45-64	college graduate	A	liberal	quasi-battleground	A
+ND	male	white	45-64	some college	other	conservative	solid B	B
+NE	female	white	45-64	college graduate	other	moderate	solid B	A
+NH	female	white	45-64	college graduate	A	moderate	battleground	A
+NJ	male	hispanic	45-64	didn't graduate from HS	A	moderate	solid A	A
+NM	female	white	45-64	high school graduate	other	conservative	quasi-battleground	B
+NV	female	white	45-64	college graduate	B	moderate	quasi-battleground	A
+NY	male	white	45-64	college graduate	B	conservative	solid A	B
+OH	male	white	45-64	college graduate	other	conservative	battleground	B
+OK	male	white	45-64	high school graduate	B	moderate	solid B	A
+OR	female	white	30-44	college graduate	A	moderate	solid A	A
+PA	female	other	45-64	college graduate	A	moderate	quasi-battleground	A
+RI	female	white	30-44	some college	B	conservative	solid A	B
+SC	male	white	45-64	college graduate	other	conservative	solid B	B
+SD	female	other	30-44	some college	A	liberal	solid B	A
+TN	female	white	30-44	college graduate	B	moderate	solid B	B
+TX	male	white	45-64	high school graduate	B	moderate	solid B	B
+UT	female	white	18-29	college graduate	B	conservative	solid B	B
+VA	female	black	18-29	some college	A	moderate	battleground	A
+VT	female	white	65+	college graduate	other	conservative	solid A	A
+WA	female	white	65+	high school graduate	A	moderate	solid A	A
+WI	female	white	30-44	college graduate	B	conservative	quasi-battleground	B
+WV	female	white	45-64	some college	B	conservative	solid B	B
+WY	male	white	18-29	some college	other	liberal	solid B	A

@@ -2,11 +2,10 @@
 layout: page
 title: Assignment 1
 description: Details for Assignment 1. 
+nav_exclude: true
 ---
 
 # Assignment 1: Exploring and visualizing data with `dplyr` and `ggplot2`
-
-**Due Date: XX, XX, 2022, XXpm PT**
 
 Unless otherwise stated, assignments are to be done individually.
 You are welcome to work with others to master the principles and approaches used to
@@ -90,9 +89,14 @@ str_sub("Hello, world",start=-1)
 
 Prepare a short report detailing your results. The report should include
 the plots you generated and a brief discussion of your findings.
+
+Be sure to read [these report tips](report_tips.md) before preparing your submission. 
+Reports that are difficult to parse may lose credit. 
+
 Please submit the following:
-(1) your report as a single PDF file; and (2) a single, fully functional R
-script or R markdown file that we can run to reproduce all the numerical results and plots in your report.
+1. your report as a single PDF file
+2. a single, fully functional R script or R markdown file that we can run to reproduce all the numerical results and plots in your report.
+
 We will put the original data files (`female_names.tsv.gz` and `male_names.tsv.gz`) into 
 the same directory as your script before running it, 
 so your script should load the data from the local directory using relative path names.

@@ -1,0 +1,1001 @@
+id	state	sex	race	age	education	ideology
+1	NY	male	white	45-64	college graduate	moderate
+2	AL	female	white	30-44	high school graduate	conservative
+3	NH	female	white	30-44	college graduate	liberal
+4	MI	female	white	18-29	some college	liberal
+5	CO	female	white	30-44	some college	conservative
+6	NC	female	other	30-44	college graduate	moderate
+7	NY	female	black	45-64	didn't graduate from HS	moderate
+8	MO	female	white	30-44	college graduate	conservative
+9	NY	female	black	18-29	college graduate	moderate
+10	PA	female	other	45-64	college graduate	moderate
+11	CO	female	white	30-44	some college	conservative
+12	MD	male	white	30-44	some college	moderate
+13	NY	female	white	45-64	college graduate	liberal
+14	TX	female	white	30-44	college graduate	conservative
+15	NC	female	white	30-44	college graduate	liberal
+16	CO	female	white	30-44	some college	moderate
+17	IL	female	white	45-64	some college	conservative
+18	MA	male	white	45-64	didn't graduate from HS	liberal
+19	OR	male	white	65+	college graduate	liberal
+20	OH	female	black	45-64	some college	liberal
+21	NC	male	white	45-64	college graduate	moderate
+22	OK	female	white	45-64	some college	conservative
+23	CA	female	white	45-64	some college	conservative
+24	WI	male	white	45-64	high school graduate	liberal
+25	CA	female	white	30-44	some college	moderate
+26	FL	male	white	65+	high school graduate	moderate
+27	IA	female	white	30-44	some college	conservative
+28	NJ	male	white	45-64	high school graduate	moderate
+29	MN	male	white	65+	high school graduate	moderate
+30	WI	male	black	45-64	high school graduate	moderate
+31	GA	female	white	45-64	some college	conservative
+32	TX	female	other	18-29	college graduate	conservative
+33	PA	male	white	18-29	college graduate	moderate
+34	CA	female	white	18-29	college graduate	liberal
+35	MA	female	black	45-64	college graduate	moderate
+36	WA	male	white	65+	high school graduate	moderate
+37	CA	female	other	30-44	college graduate	moderate
+38	MN	female	white	45-64	some college	liberal
+39	WV	female	white	45-64	some college	moderate
+40	FL	female	white	45-64	college graduate	moderate
+41	CA	female	white	65+	high school graduate	conservative
+42	CA	female	white	45-64	college graduate	conservative
+43	NC	female	white	30-44	some college	liberal
+44	FL	female	black	18-29	college graduate	conservative
+45	MO	female	black	45-64	college graduate	moderate
+46	WV	male	white	45-64	some college	liberal
+47	TX	female	black	30-44	high school graduate	conservative
+48	PA	female	hispanic	30-44	some college	liberal
+49	CA	female	white	45-64	college graduate	conservative
+50	PA	male	other	18-29	college graduate	moderate
+51	AL	female	white	45-64	college graduate	liberal
+52	IL	male	white	45-64	college graduate	liberal
+53	VA	male	white	18-29	high school graduate	moderate
+54	CA	female	hispanic	65+	some college	moderate
+55	SC	female	white	18-29	college graduate	moderate
+56	NC	male	white	45-64	college graduate	conservative
+57	NV	male	white	65+	some college	conservative
+58	OH	female	white	18-29	high school graduate	moderate
+59	WA	male	white	30-44	college graduate	liberal
+60	MO	male	white	30-44	some college	moderate
+61	OH	male	white	45-64	college graduate	moderate
+62	AL	female	white	18-29	college graduate	conservative
+63	IL	male	white	65+	didn't graduate from HS	moderate
+64	AZ	male	white	65+	some college	conservative
+65	TX	female	hispanic	18-29	high school graduate	liberal
+66	TX	female	white	65+	high school graduate	conservative
+67	WV	female	white	18-29	college graduate	moderate
+68	CA	female	white	18-29	some college	conservative
+69	CA	female	hispanic	18-29	some college	moderate
+70	CA	male	white	65+	college graduate	conservative
+71	WA	male	white	45-64	college graduate	conservative
+72	NC	female	white	30-44	college graduate	liberal
+73	MI	female	white	45-64	some college	conservative
+74	OH	female	white	45-64	high school graduate	moderate
+75	IL	male	white	45-64	college graduate	moderate
+76	NY	female	white	65+	high school graduate	moderate
+77	CA	male	white	45-64	some college	conservative
+78	MD	female	white	45-64	college graduate	moderate
+79	CA	female	white	65+	college graduate	moderate
+80	MA	female	white	30-44	college graduate	moderate
+81	CA	male	hispanic	30-44	college graduate	moderate
+82	TX	female	white	65+	high school graduate	conservative
+83	MI	female	white	45-64	college graduate	liberal
+84	FL	female	white	45-64	some college	conservative
+85	IN	male	black	30-44	some college	liberal
+86	CA	male	white	45-64	college graduate	moderate
+87	MI	male	white	30-44	college graduate	conservative
+88	IA	female	white	45-64	college graduate	conservative
+89	AL	male	white	30-44	some college	conservative
+90	NJ	male	black	30-44	college graduate	moderate
+91	VA	female	hispanic	30-44	high school graduate	conservative
+92	WV	female	white	18-29	some college	conservative
+93	LA	male	white	30-44	high school graduate	conservative
+94	PA	female	white	45-64	college graduate	moderate
+95	GA	female	white	18-29	didn't graduate from HS	liberal
+96	MA	female	white	30-44	college graduate	liberal
+97	CA	male	white	65+	college graduate	conservative
+98	IL	female	white	30-44	some college	moderate
+99	MI	male	white	45-64	high school graduate	liberal
+100	CA	female	white	45-64	some college	moderate
+101	TN	female	white	18-29	high school graduate	conservative
+102	VA	female	white	30-44	college graduate	moderate
+103	UT	female	white	30-44	college graduate	conservative
+104	MI	female	white	18-29	college graduate	moderate
+105	IL	male	hispanic	18-29	some college	conservative
+106	FL	male	white	45-64	college graduate	moderate
+107	AR	male	white	45-64	high school graduate	liberal
+108	CO	male	white	65+	college graduate	liberal
+109	AL	female	white	18-29	some college	liberal
+110	OH	female	white	65+	college graduate	liberal
+111	IL	male	white	45-64	some college	conservative
+112	SD	male	white	45-64	some college	moderate
+113	IL	male	black	45-64	college graduate	conservative
+114	NC	male	white	45-64	high school graduate	liberal
+115	TX	female	hispanic	30-44	some college	moderate
+116	MD	male	black	45-64	college graduate	liberal
+117	CA	male	hispanic	65+	some college	conservative
+118	CA	male	white	65+	some college	conservative
+119	MS	female	white	30-44	some college	conservative
+120	FL	male	white	45-64	college graduate	moderate
+121	MD	female	white	30-44	college graduate	liberal
+122	GA	female	black	65+	high school graduate	moderate
+123	MN	male	white	45-64	college graduate	liberal
+124	VA	male	white	45-64	college graduate	liberal
+125	NC	female	white	30-44	college graduate	moderate
+126	NJ	female	white	45-64	high school graduate	moderate
+127	MA	male	white	30-44	college graduate	liberal
+128	PA	male	other	45-64	college graduate	moderate
+129	VA	male	black	65+	didn't graduate from HS	liberal
+130	PA	female	white	45-64	college graduate	conservative
+131	NM	male	white	45-64	high school graduate	moderate
+132	WI	female	white	65+	some college	liberal
+133	WV	male	white	45-64	high school graduate	liberal
+134	WI	male	hispanic	18-29	some college	liberal
+135	WI	male	white	65+	some college	conservative
+136	IL	male	white	45-64	some college	conservative
+137	GA	male	white	65+	some college	conservative
+138	CA	male	other	18-29	some college	moderate
+139	GA	male	black	45-64	college graduate	moderate
+140	OH	female	white	65+	some college	conservative
+141	CA	female	white	30-44	college graduate	moderate
+142	TX	female	white	45-64	some college	conservative
+143	NY	male	white	30-44	college graduate	conservative
+144	WI	female	white	18-29	college graduate	liberal
+145	CA	female	hispanic	30-44	high school graduate	moderate
+146	AZ	male	white	18-29	some college	conservative
+147	MA	male	other	45-64	college graduate	moderate
+148	GA	female	black	65+	some college	liberal
+149	CA	male	white	65+	college graduate	conservative
+150	VA	male	white	30-44	college graduate	moderate
+151	NC	male	white	65+	didn't graduate from HS	conservative
+152	IN	female	white	65+	college graduate	moderate
+153	TX	female	white	30-44	college graduate	conservative
+154	CA	female	white	45-64	college graduate	liberal
+155	CT	female	white	45-64	college graduate	moderate
+156	OH	female	white	45-64	some college	liberal
+157	FL	male	hispanic	18-29	high school graduate	moderate
+158	NH	female	white	18-29	college graduate	liberal
+159	FL	male	hispanic	30-44	some college	conservative
+160	IN	male	white	30-44	college graduate	conservative
+161	TX	female	white	45-64	some college	moderate
+162	IL	male	hispanic	65+	didn't graduate from HS	moderate
+163	OH	female	white	45-64	some college	moderate
+164	NJ	male	white	30-44	some college	moderate
+165	MA	male	white	45-64	college graduate	liberal
+166	FL	female	white	45-64	college graduate	moderate
+167	AL	male	white	30-44	high school graduate	conservative
+168	PA	male	white	30-44	college graduate	liberal
+169	PA	male	white	18-29	college graduate	moderate
+170	IA	male	white	45-64	some college	conservative
+171	SC	male	white	45-64	college graduate	liberal
+172	IN	male	white	45-64	high school graduate	conservative
+173	NM	female	white	18-29	college graduate	liberal
+174	PA	female	white	18-29	college graduate	moderate
+175	CA	female	white	30-44	college graduate	conservative
+176	NC	female	white	30-44	college graduate	moderate
+177	WI	female	black	30-44	college graduate	conservative
+178	TN	male	white	18-29	high school graduate	conservative
+179	GA	male	black	45-64	some college	moderate
+180	OH	male	white	30-44	high school graduate	conservative
+181	AZ	female	hispanic	30-44	some college	moderate
+182	VA	female	white	65+	didn't graduate from HS	conservative
+183	MA	female	white	45-64	some college	moderate
+184	CA	male	white	65+	high school graduate	moderate
+185	MD	female	white	45-64	some college	conservative
+186	OH	female	white	45-64	college graduate	conservative
+187	FL	male	black	18-29	didn't graduate from HS	conservative
+188	MO	female	white	30-44	college graduate	liberal
+189	IL	male	white	18-29	college graduate	moderate
+190	MA	female	hispanic	45-64	high school graduate	liberal
+191	TX	female	white	30-44	college graduate	conservative
+192	GA	male	hispanic	18-29	high school graduate	conservative
+193	NY	female	black	18-29	some college	liberal
+194	NY	male	white	45-64	some college	conservative
+195	NY	female	white	30-44	college graduate	liberal
+196	TX	male	black	45-64	college graduate	liberal
+197	KS	female	white	45-64	some college	conservative
+198	LA	male	white	30-44	college graduate	conservative
+199	SD	male	hispanic	45-64	some college	conservative
+200	MA	male	white	65+	some college	moderate
+201	MI	female	white	30-44	college graduate	conservative
+202	WI	male	white	45-64	some college	conservative
+203	CA	female	black	30-44	high school graduate	moderate
+204	MN	male	white	18-29	college graduate	liberal
+205	FL	male	white	65+	didn't graduate from HS	conservative
+206	IL	female	black	18-29	some college	conservative
+207	FL	female	hispanic	45-64	some college	moderate
+208	MN	female	white	45-64	college graduate	moderate
+209	VA	female	black	18-29	some college	conservative
+210	NC	male	white	65+	high school graduate	moderate
+211	AL	female	white	65+	some college	moderate
+212	CO	female	white	45-64	high school graduate	liberal
+213	LA	female	white	65+	college graduate	moderate
+214	KS	female	white	45-64	college graduate	moderate
+215	IA	female	white	30-44	high school graduate	moderate
+216	VA	male	white	65+	high school graduate	moderate
+217	FL	female	white	45-64	high school graduate	moderate
+218	NJ	male	white	45-64	college graduate	moderate
+219	IL	male	hispanic	45-64	high school graduate	liberal
+220	NY	female	white	45-64	college graduate	moderate
+221	TX	male	white	65+	college graduate	conservative
+222	NC	female	white	18-29	college graduate	moderate
+223	MD	female	black	30-44	college graduate	moderate
+224	OK	female	black	30-44	college graduate	moderate
+225	MA	female	white	45-64	high school graduate	moderate
+226	CA	male	white	45-64	college graduate	conservative
+227	CA	male	white	30-44	college graduate	liberal
+228	TX	female	white	65+	high school graduate	conservative
+229	FL	female	hispanic	45-64	college graduate	conservative
+230	CT	male	white	18-29	some college	liberal
+231	NC	female	black	30-44	some college	conservative
+232	CA	female	black	30-44	high school graduate	conservative
+233	FL	male	white	45-64	high school graduate	conservative
+234	GA	female	white	65+	college graduate	conservative
+235	OH	female	white	18-29	high school graduate	conservative
+236	OH	female	white	30-44	high school graduate	moderate
+237	WI	female	white	45-64	high school graduate	moderate
+238	NM	female	white	65+	college graduate	moderate
+239	OH	female	black	45-64	some college	liberal
+240	CA	female	white	45-64	college graduate	moderate
+241	CA	male	hispanic	30-44	some college	moderate
+242	CA	male	white	45-64	college graduate	moderate
+243	GA	male	white	30-44	some college	moderate
+244	NC	male	black	45-64	high school graduate	moderate
+245	CA	male	white	45-64	college graduate	conservative
+246	CA	female	hispanic	45-64	some college	moderate
+247	LA	male	black	45-64	college graduate	moderate
+248	NJ	female	white	45-64	college graduate	moderate
+249	FL	female	white	45-64	college graduate	moderate
+250	TX	male	hispanic	18-29	some college	moderate
+251	IA	male	white	45-64	some college	moderate
+252	MO	male	black	18-29	some college	liberal
+253	NM	male	hispanic	18-29	high school graduate	conservative
+254	FL	male	hispanic	45-64	some college	liberal
+255	MS	female	hispanic	65+	high school graduate	moderate
+256	NY	male	white	45-64	some college	liberal
+257	FL	male	white	65+	college graduate	moderate
+258	NM	female	hispanic	30-44	college graduate	moderate
+259	MN	female	white	45-64	college graduate	liberal
+260	NM	male	other	18-29	some college	liberal
+261	CT	female	white	45-64	high school graduate	liberal
+262	CA	female	white	65+	college graduate	moderate
+263	WA	male	white	45-64	some college	moderate
+264	OK	female	white	30-44	some college	conservative
+265	VA	female	other	30-44	college graduate	liberal
+266	TX	female	hispanic	30-44	high school graduate	moderate
+267	CA	male	white	65+	college graduate	liberal
+268	NM	female	white	30-44	college graduate	moderate
+269	CA	male	hispanic	18-29	college graduate	liberal
+270	AZ	male	hispanic	30-44	some college	moderate
+271	SC	female	black	45-64	some college	liberal
+272	NV	male	other	65+	some college	moderate
+273	FL	female	white	30-44	high school graduate	moderate
+274	CT	male	white	45-64	high school graduate	liberal
+275	CA	male	hispanic	30-44	college graduate	moderate
+276	AL	male	white	18-29	some college	liberal
+277	FL	female	white	65+	some college	conservative
+278	WV	male	white	30-44	didn't graduate from HS	conservative
+279	MD	female	black	30-44	high school graduate	moderate
+280	NY	male	black	45-64	college graduate	conservative
+281	AL	female	black	18-29	college graduate	liberal
+282	TX	female	hispanic	45-64	high school graduate	liberal
+283	NY	female	white	45-64	college graduate	moderate
+284	CA	female	white	18-29	college graduate	moderate
+285	IN	female	white	18-29	high school graduate	moderate
+286	TX	female	white	45-64	high school graduate	conservative
+287	WV	male	white	65+	high school graduate	liberal
+288	WV	female	white	18-29	some college	conservative
+289	MS	female	white	45-64	high school graduate	moderate
+290	WI	female	white	30-44	college graduate	liberal
+291	MI	male	white	45-64	some college	moderate
+292	MA	male	white	30-44	college graduate	moderate
+293	WA	male	white	45-64	college graduate	liberal
+294	CA	male	white	30-44	college graduate	moderate
+295	MN	male	white	45-64	some college	moderate
+296	GA	male	white	30-44	some college	moderate
+297	MI	male	white	30-44	high school graduate	conservative
+298	MD	male	white	45-64	didn't graduate from HS	moderate
+299	NJ	female	white	45-64	college graduate	moderate
+300	IL	female	black	30-44	some college	liberal
+301	CA	female	white	45-64	some college	moderate
+302	OH	female	white	65+	college graduate	moderate
+303	IA	female	white	65+	high school graduate	conservative
+304	IL	female	white	45-64	college graduate	liberal
+305	OH	male	white	45-64	some college	liberal
+306	VA	male	white	18-29	some college	moderate
+307	GA	female	white	65+	high school graduate	conservative
+308	MN	female	white	30-44	college graduate	liberal
+309	VA	female	white	45-64	college graduate	moderate
+310	NC	male	other	45-64	college graduate	conservative
+311	OR	male	white	45-64	college graduate	conservative
+312	NC	male	white	45-64	college graduate	conservative
+313	CA	female	other	45-64	some college	conservative
+314	IL	female	white	30-44	some college	moderate
+315	OH	female	white	45-64	college graduate	moderate
+316	TN	female	white	45-64	some college	moderate
+317	TX	female	white	65+	some college	moderate
+318	AL	male	white	30-44	high school graduate	conservative
+319	VA	male	white	45-64	college graduate	moderate
+320	WI	female	black	30-44	college graduate	moderate
+321	CA	female	white	45-64	college graduate	liberal
+322	MD	female	other	65+	didn't graduate from HS	moderate
+323	NY	female	white	45-64	some college	moderate
+324	WA	male	white	65+	some college	conservative
+325	OK	female	black	30-44	some college	conservative
+326	NY	male	white	18-29	college graduate	moderate
+327	NY	male	black	45-64	college graduate	moderate
+328	OH	male	white	30-44	some college	conservative
+329	MN	female	white	30-44	some college	conservative
+330	CA	male	white	45-64	high school graduate	moderate
+331	NJ	male	white	30-44	college graduate	conservative
+332	TX	male	hispanic	45-64	college graduate	moderate
+333	MD	female	white	45-64	college graduate	moderate
+334	MA	female	white	65+	college graduate	liberal
+335	IN	female	white	18-29	some college	conservative
+336	IN	female	black	18-29	some college	conservative
+337	NY	male	white	45-64	college graduate	liberal
+338	KY	male	white	18-29	college graduate	conservative
+339	CA	male	white	65+	college graduate	moderate
+340	NJ	female	white	18-29	college graduate	liberal
+341	CT	male	white	18-29	college graduate	moderate
+342	OK	male	hispanic	30-44	some college	liberal
+343	OH	female	white	65+	some college	conservative
+344	NJ	female	white	45-64	college graduate	moderate
+345	CA	male	black	18-29	college graduate	moderate
+346	KS	female	white	30-44	college graduate	conservative
+347	PA	male	white	30-44	some college	conservative
+348	MD	female	black	65+	some college	moderate
+349	MI	female	white	30-44	some college	conservative
+350	LA	male	white	18-29	some college	conservative
+351	VT	female	white	45-64	some college	conservative
+352	AL	female	hispanic	45-64	college graduate	conservative
+353	IA	female	white	30-44	college graduate	moderate
+354	IL	male	white	65+	some college	moderate
+355	OH	female	white	18-29	some college	conservative
+356	NC	male	white	45-64	college graduate	conservative
+357	FL	female	white	30-44	high school graduate	conservative
+358	OH	female	white	45-64	didn't graduate from HS	conservative
+359	NC	female	white	65+	some college	moderate
+360	PA	male	white	45-64	high school graduate	liberal
+361	IL	male	other	65+	college graduate	conservative
+362	MD	male	white	45-64	college graduate	liberal
+363	TX	female	black	30-44	some college	moderate
+364	GA	female	white	18-29	didn't graduate from HS	moderate
+365	WI	female	white	18-29	some college	moderate
+366	KY	female	black	30-44	high school graduate	moderate
+367	WI	female	hispanic	30-44	some college	moderate
+368	CA	male	white	45-64	college graduate	conservative
+369	WI	female	black	30-44	some college	conservative
+370	CA	male	white	18-29	some college	moderate
+371	MO	female	black	30-44	college graduate	moderate
+372	MN	male	white	65+	college graduate	moderate
+373	ND	male	white	45-64	some college	conservative
+374	NC	female	white	45-64	college graduate	liberal
+375	RI	male	white	45-64	college graduate	liberal
+376	AL	male	white	30-44	some college	conservative
+377	CA	male	white	45-64	some college	moderate
+378	IN	female	black	18-29	some college	conservative
+379	CT	male	white	45-64	college graduate	moderate
+380	NC	female	white	65+	college graduate	conservative
+381	TX	female	white	45-64	college graduate	liberal
+382	NY	female	white	18-29	high school graduate	moderate
+383	MA	female	white	18-29	college graduate	moderate
+384	KY	female	white	30-44	college graduate	moderate
+385	GA	female	white	30-44	high school graduate	moderate
+386	PA	male	white	30-44	some college	conservative
+387	OR	male	white	65+	college graduate	conservative
+388	CA	female	white	30-44	college graduate	moderate
+389	OH	male	black	30-44	high school graduate	liberal
+390	WA	female	white	65+	some college	conservative
+391	TX	male	hispanic	45-64	some college	conservative
+392	MA	male	white	45-64	high school graduate	moderate
+393	VA	female	white	45-64	college graduate	moderate
+394	TX	female	white	65+	college graduate	moderate
+395	NY	female	white	30-44	college graduate	moderate
+396	MN	male	white	45-64	high school graduate	moderate
+397	TX	female	white	45-64	some college	conservative
+398	MO	female	white	65+	college graduate	moderate
+399	NY	female	white	45-64	college graduate	moderate
+400	MN	male	white	18-29	college graduate	conservative
+401	FL	female	white	30-44	college graduate	moderate
+402	MA	female	white	65+	some college	moderate
+403	NC	female	white	45-64	some college	moderate
+404	PA	female	hispanic	30-44	didn't graduate from HS	moderate
+405	NJ	female	white	45-64	some college	moderate
+406	CA	female	white	45-64	high school graduate	moderate
+407	IL	female	white	18-29	college graduate	conservative
+408	FL	male	white	65+	college graduate	moderate
+409	WV	female	white	30-44	high school graduate	moderate
+410	NY	male	white	45-64	college graduate	conservative
+411	IL	male	white	65+	college graduate	moderate
+412	CA	female	white	30-44	college graduate	moderate
+413	VA	male	black	45-64	some college	moderate
+414	TX	male	white	30-44	college graduate	moderate
+415	VA	female	black	30-44	college graduate	moderate
+416	NJ	male	black	30-44	high school graduate	moderate
+417	NY	female	white	45-64	college graduate	conservative
+418	TN	male	black	30-44	some college	moderate
+419	CA	female	white	45-64	college graduate	moderate
+420	WY	female	white	30-44	some college	moderate
+421	CA	male	white	45-64	some college	liberal
+422	IL	female	black	30-44	some college	liberal
+423	UT	male	white	65+	college graduate	liberal
+424	TX	male	white	18-29	some college	moderate
+425	ME	female	white	65+	high school graduate	moderate
+426	TX	male	hispanic	18-29	didn't graduate from HS	conservative
+427	VA	female	white	30-44	some college	conservative
+428	CA	female	other	18-29	college graduate	liberal
+429	LA	female	black	18-29	some college	conservative
+430	IL	male	white	18-29	college graduate	conservative
+431	TN	female	white	65+	some college	moderate
+432	NY	female	white	30-44	college graduate	moderate
+433	TX	female	hispanic	65+	college graduate	conservative
+434	IL	female	white	45-64	some college	conservative
+435	NY	female	black	18-29	high school graduate	moderate
+436	LA	female	white	30-44	didn't graduate from HS	liberal
+437	CA	male	white	65+	college graduate	conservative
+438	CA	female	hispanic	30-44	college graduate	moderate
+439	NY	female	white	45-64	high school graduate	conservative
+440	IA	male	white	45-64	high school graduate	moderate
+441	NY	male	white	30-44	college graduate	moderate
+442	OH	female	white	30-44	college graduate	moderate
+443	MA	male	white	65+	college graduate	conservative
+444	GA	male	black	30-44	high school graduate	conservative
+445	CA	female	white	18-29	some college	liberal
+446	IL	male	white	30-44	college graduate	moderate
+447	IA	male	white	18-29	college graduate	conservative
+448	IL	male	black	30-44	some college	moderate
+449	FL	male	white	65+	college graduate	moderate
+450	FL	male	white	45-64	some college	conservative
+451	TN	male	white	65+	college graduate	moderate
+452	LA	female	black	45-64	college graduate	liberal
+453	WI	male	white	30-44	college graduate	conservative
+454	CA	male	black	45-64	some college	moderate
+455	WA	male	hispanic	18-29	didn't graduate from HS	moderate
+456	CA	male	white	65+	college graduate	liberal
+457	NC	female	white	30-44	college graduate	moderate
+458	NC	male	white	45-64	some college	conservative
+459	NY	female	white	18-29	college graduate	moderate
+460	MN	male	white	45-64	some college	liberal
+461	IL	male	white	30-44	college graduate	moderate
+462	WI	male	white	45-64	college graduate	liberal
+463	TX	female	white	30-44	college graduate	conservative
+464	GA	male	black	18-29	college graduate	moderate
+465	WA	male	white	65+	some college	conservative
+466	PA	female	white	30-44	some college	moderate
+467	TN	female	white	30-44	some college	conservative
+468	MD	male	black	45-64	some college	conservative
+469	TX	male	hispanic	18-29	didn't graduate from HS	conservative
+470	MI	female	other	18-29	some college	liberal
+471	VA	male	white	18-29	college graduate	conservative
+472	GA	female	black	30-44	high school graduate	moderate
+473	LA	female	black	18-29	high school graduate	liberal
+474	OH	female	black	45-64	some college	moderate
+475	MI	female	white	65+	high school graduate	conservative
+476	MS	male	white	45-64	high school graduate	conservative
+477	TX	female	hispanic	18-29	high school graduate	moderate
+478	MS	female	black	30-44	college graduate	conservative
+479	WI	male	white	45-64	some college	moderate
+480	CA	male	hispanic	30-44	some college	conservative
+481	SC	male	white	65+	some college	conservative
+482	OH	female	white	18-29	didn't graduate from HS	liberal
+483	NY	male	white	30-44	high school graduate	conservative
+484	IN	male	black	18-29	some college	liberal
+485	ND	female	white	65+	college graduate	conservative
+486	GA	female	black	18-29	high school graduate	moderate
+487	PA	female	white	18-29	college graduate	liberal
+488	MD	female	white	45-64	some college	conservative
+489	GA	male	black	45-64	college graduate	moderate
+490	WI	female	white	30-44	college graduate	moderate
+491	NJ	male	white	45-64	college graduate	liberal
+492	KS	male	white	18-29	college graduate	liberal
+493	NY	male	white	30-44	college graduate	moderate
+494	WV	female	white	45-64	didn't graduate from HS	moderate
+495	MD	male	white	65+	high school graduate	moderate
+496	MS	female	white	45-64	some college	moderate
+497	MT	female	other	18-29	some college	liberal
+498	LA	female	black	18-29	some college	moderate
+499	NY	male	white	45-64	college graduate	moderate
+500	KY	female	white	45-64	high school graduate	moderate
+501	TX	female	white	65+	college graduate	moderate
+502	IL	female	white	45-64	high school graduate	moderate
+503	CA	male	hispanic	30-44	college graduate	liberal
+504	CA	female	white	45-64	college graduate	conservative
+505	CA	female	white	45-64	college graduate	moderate
+506	NJ	female	white	45-64	college graduate	conservative
+507	PA	female	white	30-44	some college	moderate
+508	TX	male	hispanic	30-44	high school graduate	conservative
+509	MA	female	white	45-64	college graduate	moderate
+510	PA	male	white	18-29	high school graduate	liberal
+511	VA	female	white	45-64	college graduate	moderate
+512	GA	female	white	45-64	college graduate	moderate
+513	CA	male	other	30-44	some college	moderate
+514	TN	female	white	45-64	high school graduate	moderate
+515	CA	female	hispanic	18-29	some college	liberal
+516	OH	male	white	65+	college graduate	conservative
+517	CA	female	white	65+	high school graduate	moderate
+518	WA	female	white	30-44	college graduate	moderate
+519	MN	female	white	45-64	some college	conservative
+520	FL	female	white	45-64	some college	moderate
+521	IL	male	hispanic	45-64	high school graduate	moderate
+522	SC	female	white	45-64	some college	conservative
+523	MN	female	white	18-29	some college	conservative
+524	PA	male	white	45-64	college graduate	conservative
+525	NY	male	white	30-44	college graduate	conservative
+526	IL	female	hispanic	30-44	high school graduate	moderate
+527	NC	male	white	30-44	high school graduate	conservative
+528	PA	female	white	45-64	college graduate	moderate
+529	KY	male	other	30-44	high school graduate	moderate
+530	NC	male	white	45-64	some college	conservative
+531	TN	female	white	45-64	high school graduate	moderate
+532	AL	female	white	65+	high school graduate	moderate
+533	PA	male	black	45-64	college graduate	moderate
+534	NJ	female	black	18-29	some college	moderate
+535	NC	male	white	45-64	college graduate	moderate
+536	MN	male	other	18-29	some college	conservative
+537	IA	female	white	30-44	college graduate	moderate
+538	CA	male	white	65+	college graduate	conservative
+539	SC	female	white	65+	college graduate	moderate
+540	MI	female	white	30-44	some college	moderate
+541	TN	female	white	45-64	college graduate	moderate
+542	IN	male	white	30-44	college graduate	conservative
+543	WI	female	white	45-64	some college	conservative
+544	UT	male	white	18-29	college graduate	moderate
+545	GA	female	black	18-29	some college	moderate
+546	TX	male	hispanic	45-64	some college	moderate
+547	CA	female	white	45-64	some college	moderate
+548	TX	female	hispanic	18-29	high school graduate	conservative
+549	SD	male	white	30-44	college graduate	moderate
+550	AR	male	black	45-64	high school graduate	moderate
+551	OK	female	white	30-44	college graduate	moderate
+552	OH	male	white	30-44	college graduate	moderate
+553	OH	female	white	45-64	high school graduate	moderate
+554	CA	male	white	45-64	some college	moderate
+555	NY	male	white	45-64	high school graduate	moderate
+556	LA	male	other	18-29	college graduate	moderate
+557	LA	female	black	18-29	college graduate	moderate
+558	LA	female	black	30-44	some college	moderate
+559	FL	female	white	45-64	college graduate	conservative
+560	TN	male	other	65+	high school graduate	moderate
+561	MI	female	white	45-64	high school graduate	liberal
+562	IL	male	other	45-64	college graduate	moderate
+563	OH	female	white	45-64	college graduate	liberal
+564	PA	female	white	45-64	some college	conservative
+565	NC	male	black	45-64	college graduate	moderate
+566	CA	female	white	45-64	college graduate	moderate
+567	MS	female	white	45-64	college graduate	moderate
+568	MO	female	black	45-64	college graduate	moderate
+569	KY	male	white	30-44	didn't graduate from HS	moderate
+570	CA	male	white	45-64	college graduate	liberal
+571	CO	female	white	45-64	some college	moderate
+572	CA	female	white	45-64	college graduate	moderate
+573	IL	male	black	18-29	high school graduate	liberal
+574	MO	female	white	45-64	some college	liberal
+575	PA	female	black	45-64	college graduate	moderate
+576	LA	female	black	18-29	high school graduate	moderate
+577	AR	female	white	30-44	high school graduate	liberal
+578	CA	female	white	45-64	high school graduate	conservative
+579	IL	male	white	45-64	college graduate	conservative
+580	NY	female	white	30-44	college graduate	moderate
+581	IA	female	hispanic	18-29	some college	liberal
+582	FL	female	white	30-44	college graduate	moderate
+583	MD	male	black	45-64	some college	moderate
+584	MI	female	white	30-44	college graduate	liberal
+585	MO	female	white	18-29	college graduate	conservative
+586	CA	male	hispanic	45-64	college graduate	liberal
+587	CA	female	white	45-64	college graduate	conservative
+588	NY	male	white	45-64	college graduate	liberal
+589	FL	female	white	65+	college graduate	conservative
+590	CA	male	black	18-29	some college	moderate
+591	CA	female	white	18-29	college graduate	liberal
+592	CA	male	white	45-64	college graduate	liberal
+593	NY	female	white	18-29	high school graduate	liberal
+594	WA	male	white	45-64	college graduate	moderate
+595	SD	male	white	45-64	high school graduate	conservative
+596	MO	male	white	30-44	college graduate	liberal
+597	AZ	female	other	65+	didn't graduate from HS	liberal
+598	VA	male	white	65+	college graduate	moderate
+599	TX	female	white	30-44	some college	moderate
+600	NM	male	hispanic	30-44	high school graduate	moderate
+601	MD	male	white	30-44	college graduate	liberal
+602	NJ	male	white	30-44	college graduate	moderate
+603	CA	female	white	30-44	college graduate	liberal
+604	PA	female	other	18-29	college graduate	liberal
+605	CT	female	white	18-29	some college	conservative
+606	NC	female	white	45-64	some college	conservative
+607	MD	female	white	45-64	college graduate	moderate
+608	PA	female	white	45-64	some college	moderate
+609	VA	male	white	45-64	college graduate	moderate
+610	TX	male	black	18-29	college graduate	liberal
+611	MN	male	white	45-64	college graduate	moderate
+612	PA	male	white	65+	college graduate	moderate
+613	CA	male	white	45-64	some college	moderate
+614	VA	female	black	18-29	college graduate	conservative
+615	TX	female	white	65+	high school graduate	conservative
+616	GA	female	white	30-44	college graduate	moderate
+617	IN	female	white	18-29	some college	liberal
+618	VA	female	black	45-64	college graduate	moderate
+619	CA	female	hispanic	45-64	college graduate	moderate
+620	KY	male	white	18-29	some college	conservative
+621	OH	female	white	30-44	some college	liberal
+622	IL	female	white	18-29	college graduate	moderate
+623	IL	female	black	45-64	some college	moderate
+624	PA	female	white	45-64	college graduate	liberal
+625	MS	female	white	30-44	college graduate	moderate
+626	CA	male	white	30-44	high school graduate	liberal
+627	MD	female	white	45-64	some college	conservative
+628	TX	female	white	65+	some college	moderate
+629	NY	female	hispanic	18-29	college graduate	moderate
+630	MO	female	white	45-64	some college	conservative
+631	FL	male	white	65+	some college	liberal
+632	WI	male	white	30-44	college graduate	moderate
+633	KY	female	white	18-29	high school graduate	conservative
+634	IA	female	white	30-44	college graduate	moderate
+635	FL	female	hispanic	18-29	college graduate	liberal
+636	AK	female	white	45-64	college graduate	liberal
+637	CA	female	other	18-29	some college	moderate
+638	MD	male	white	30-44	college graduate	conservative
+639	MA	male	white	45-64	some college	moderate
+640	MS	female	black	18-29	high school graduate	liberal
+641	IL	female	black	45-64	some college	moderate
+642	OH	male	white	45-64	some college	moderate
+643	KY	male	white	45-64	college graduate	liberal
+644	IL	male	white	65+	high school graduate	moderate
+645	NY	female	black	45-64	high school graduate	moderate
+646	CA	male	other	30-44	college graduate	moderate
+647	CA	male	white	45-64	college graduate	moderate
+648	PA	male	white	45-64	college graduate	moderate
+649	PA	female	white	30-44	college graduate	liberal
+650	NH	male	white	45-64	college graduate	liberal
+651	TX	male	hispanic	18-29	didn't graduate from HS	liberal
+652	OH	female	white	45-64	college graduate	liberal
+653	KY	male	white	45-64	college graduate	moderate
+654	PA	male	white	45-64	college graduate	liberal
+655	IN	female	white	30-44	some college	moderate
+656	NY	female	white	18-29	high school graduate	liberal
+657	TN	male	white	45-64	college graduate	moderate
+658	IL	female	white	45-64	college graduate	liberal
+659	MS	female	white	30-44	college graduate	conservative
+660	OH	male	white	30-44	college graduate	conservative
+661	MI	male	white	30-44	college graduate	liberal
+662	NY	female	white	30-44	college graduate	liberal
+663	MA	male	white	30-44	high school graduate	moderate
+664	CA	female	hispanic	30-44	some college	liberal
+665	GA	female	black	30-44	high school graduate	conservative
+666	FL	male	white	45-64	college graduate	conservative
+667	AZ	female	hispanic	30-44	high school graduate	liberal
+668	IL	female	white	65+	high school graduate	conservative
+669	NC	male	white	45-64	college graduate	conservative
+670	VA	female	black	45-64	some college	moderate
+671	IL	male	hispanic	30-44	some college	moderate
+672	AR	female	white	30-44	college graduate	liberal
+673	NJ	female	hispanic	45-64	high school graduate	conservative
+674	LA	female	black	45-64	college graduate	moderate
+675	IA	male	white	18-29	college graduate	conservative
+676	TN	female	white	45-64	some college	moderate
+677	KS	male	black	45-64	some college	liberal
+678	NY	male	white	30-44	college graduate	conservative
+679	AR	male	white	45-64	college graduate	conservative
+680	MS	male	white	65+	some college	conservative
+681	GA	female	white	45-64	college graduate	conservative
+682	MN	female	other	45-64	high school graduate	conservative
+683	MA	male	black	30-44	high school graduate	liberal
+684	LA	male	black	30-44	didn't graduate from HS	conservative
+685	MA	female	black	45-64	college graduate	liberal
+686	MA	female	white	30-44	high school graduate	liberal
+687	OH	female	white	45-64	college graduate	liberal
+688	CA	female	hispanic	45-64	college graduate	moderate
+689	NJ	male	white	30-44	some college	liberal
+690	IN	female	white	45-64	high school graduate	conservative
+691	MA	female	white	65+	high school graduate	conservative
+692	MA	female	other	30-44	some college	moderate
+693	MA	male	white	45-64	high school graduate	conservative
+694	NY	male	white	45-64	some college	moderate
+695	TX	female	white	18-29	college graduate	liberal
+696	MS	female	other	18-29	college graduate	liberal
+697	CT	male	white	30-44	some college	moderate
+698	MD	female	white	45-64	some college	moderate
+699	IN	male	white	30-44	some college	moderate
+700	NY	female	white	45-64	college graduate	conservative
+701	VT	male	white	45-64	some college	moderate
+702	GA	female	white	45-64	some college	conservative
+703	CT	female	hispanic	30-44	college graduate	conservative
+704	FL	male	white	30-44	some college	conservative
+705	TX	female	black	45-64	college graduate	conservative
+706	NM	female	white	45-64	college graduate	moderate
+707	OH	female	white	65+	high school graduate	liberal
+708	VA	male	black	65+	college graduate	liberal
+709	CA	male	hispanic	30-44	college graduate	moderate
+710	LA	female	white	45-64	college graduate	conservative
+711	FL	female	white	65+	high school graduate	moderate
+712	CO	male	white	45-64	some college	conservative
+713	AZ	male	hispanic	18-29	high school graduate	liberal
+714	OH	male	black	18-29	high school graduate	moderate
+715	CA	female	white	45-64	some college	liberal
+716	OR	female	hispanic	45-64	college graduate	moderate
+717	SC	male	black	45-64	high school graduate	liberal
+718	WI	female	black	45-64	college graduate	liberal
+719	NY	female	black	45-64	some college	liberal
+720	MA	male	white	30-44	college graduate	moderate
+721	IN	male	white	45-64	college graduate	moderate
+722	VA	female	white	65+	college graduate	moderate
+723	MA	female	white	45-64	college graduate	moderate
+724	NY	female	white	45-64	college graduate	conservative
+725	LA	male	white	45-64	some college	conservative
+726	MN	female	white	45-64	didn't graduate from HS	moderate
+727	NJ	male	white	18-29	college graduate	moderate
+728	LA	male	black	18-29	some college	conservative
+729	GA	male	black	65+	some college	moderate
+730	FL	female	black	65+	some college	moderate
+731	CA	male	white	30-44	college graduate	moderate
+732	PA	male	white	45-64	college graduate	moderate
+733	OH	male	white	45-64	college graduate	conservative
+734	OH	female	white	18-29	high school graduate	conservative
+735	PA	male	other	30-44	college graduate	moderate
+736	CA	female	hispanic	30-44	college graduate	moderate
+737	AL	male	black	18-29	college graduate	conservative
+738	IL	male	white	45-64	college graduate	moderate
+739	TX	male	hispanic	65+	some college	moderate
+740	NY	male	black	45-64	didn't graduate from HS	moderate
+741	IL	female	hispanic	65+	didn't graduate from HS	conservative
+742	MA	female	white	30-44	college graduate	liberal
+743	NJ	female	white	45-64	college graduate	moderate
+744	MN	female	white	30-44	high school graduate	moderate
+745	VT	female	white	65+	some college	liberal
+746	CA	female	white	45-64	college graduate	moderate
+747	KY	female	white	45-64	college graduate	conservative
+748	MA	female	white	45-64	college graduate	moderate
+749	FL	female	hispanic	18-29	some college	conservative
+750	NY	male	white	30-44	college graduate	conservative
+751	OH	female	white	65+	high school graduate	liberal
+752	MI	male	white	18-29	some college	moderate
+753	PA	female	white	65+	college graduate	moderate
+754	MD	female	white	45-64	college graduate	moderate
+755	VA	female	hispanic	45-64	college graduate	moderate
+756	PA	female	black	30-44	some college	moderate
+757	UT	female	white	30-44	some college	moderate
+758	GA	female	black	30-44	college graduate	moderate
+759	MA	male	white	45-64	college graduate	liberal
+760	CA	female	white	30-44	college graduate	moderate
+761	TX	male	white	30-44	some college	conservative
+762	FL	female	white	30-44	college graduate	moderate
+763	MS	female	black	18-29	some college	moderate
+764	MN	female	white	18-29	some college	liberal
+765	CA	female	white	65+	some college	conservative
+766	WI	male	white	65+	some college	moderate
+767	MN	female	white	45-64	college graduate	conservative
+768	AZ	male	white	45-64	some college	conservative
+769	PA	male	white	30-44	college graduate	moderate
+770	VA	female	white	65+	college graduate	conservative
+771	MO	female	white	18-29	high school graduate	liberal
+772	NY	female	black	65+	college graduate	moderate
+773	IN	female	white	45-64	high school graduate	conservative
+774	MD	male	black	30-44	high school graduate	moderate
+775	FL	female	white	45-64	college graduate	moderate
+776	OH	male	white	45-64	college graduate	conservative
+777	IL	male	white	45-64	college graduate	moderate
+778	CA	male	white	65+	college graduate	liberal
+779	FL	male	white	30-44	high school graduate	moderate
+780	KY	male	other	45-64	college graduate	conservative
+781	NC	male	white	65+	college graduate	moderate
+782	CA	female	white	45-64	college graduate	conservative
+783	PA	female	white	65+	some college	conservative
+784	WI	male	white	30-44	some college	conservative
+785	MA	male	white	18-29	some college	conservative
+786	IN	female	white	30-44	high school graduate	conservative
+787	IN	female	white	30-44	college graduate	moderate
+788	NJ	male	white	18-29	college graduate	conservative
+789	FL	male	white	30-44	college graduate	moderate
+790	IA	female	white	18-29	some college	liberal
+791	KS	male	white	18-29	some college	conservative
+792	CA	female	hispanic	30-44	some college	moderate
+793	NJ	female	white	30-44	college graduate	conservative
+794	CA	female	other	30-44	college graduate	moderate
+795	OH	female	white	45-64	high school graduate	moderate
+796	SC	female	white	18-29	college graduate	conservative
+797	CA	male	white	30-44	some college	moderate
+798	TX	male	white	18-29	high school graduate	conservative
+799	MA	female	white	65+	high school graduate	liberal
+800	TN	male	white	30-44	high school graduate	conservative
+801	MN	male	white	30-44	college graduate	conservative
+802	WI	male	white	45-64	high school graduate	moderate
+803	IL	male	white	45-64	high school graduate	moderate
+804	OH	male	white	18-29	college graduate	conservative
+805	CA	female	white	45-64	college graduate	moderate
+806	FL	male	white	65+	high school graduate	moderate
+807	IN	female	white	18-29	college graduate	moderate
+808	NH	female	white	30-44	high school graduate	liberal
+809	MD	male	white	30-44	college graduate	conservative
+810	NY	female	other	18-29	college graduate	moderate
+811	CA	male	white	30-44	college graduate	moderate
+812	NJ	male	white	65+	college graduate	liberal
+813	AR	female	white	30-44	college graduate	moderate
+814	TX	male	hispanic	18-29	high school graduate	conservative
+815	KS	female	white	45-64	high school graduate	moderate
+816	MN	female	white	45-64	college graduate	liberal
+817	TX	female	white	45-64	some college	moderate
+818	AR	female	black	45-64	some college	moderate
+819	OH	female	white	18-29	college graduate	conservative
+820	MO	male	hispanic	18-29	didn't graduate from HS	liberal
+821	VA	female	white	65+	college graduate	moderate
+822	PA	male	white	45-64	some college	conservative
+823	NC	female	white	30-44	college graduate	conservative
+824	NH	female	white	30-44	college graduate	liberal
+825	CT	female	white	65+	some college	moderate
+826	KY	female	white	45-64	high school graduate	moderate
+827	CA	female	white	65+	high school graduate	moderate
+828	CA	male	white	30-44	some college	conservative
+829	OH	female	white	30-44	college graduate	liberal
+830	AL	female	white	30-44	college graduate	moderate
+831	AZ	female	white	65+	some college	moderate
+832	CO	male	white	45-64	college graduate	conservative
+833	MD	male	white	30-44	high school graduate	moderate
+834	CA	female	white	45-64	some college	conservative
+835	TX	male	white	65+	high school graduate	moderate
+836	MO	female	white	30-44	college graduate	conservative
+837	MA	female	other	45-64	some college	liberal
+838	MO	male	white	45-64	some college	moderate
+839	MI	female	white	45-64	high school graduate	conservative
+840	CA	female	other	18-29	college graduate	moderate
+841	CA	male	white	30-44	college graduate	liberal
+842	IL	female	white	30-44	college graduate	moderate
+843	NY	female	white	30-44	college graduate	moderate
+844	TX	male	hispanic	45-64	high school graduate	conservative
+845	CA	female	white	65+	some college	moderate
+846	NY	male	white	45-64	college graduate	moderate
+847	OH	female	white	30-44	some college	moderate
+848	CA	female	hispanic	18-29	some college	conservative
+849	SC	male	white	30-44	college graduate	conservative
+850	IN	female	white	45-64	some college	moderate
+851	UT	female	white	45-64	college graduate	liberal
+852	NJ	male	white	45-64	some college	moderate
+853	MI	male	white	45-64	college graduate	conservative
+854	PA	female	white	45-64	high school graduate	moderate
+855	TN	female	white	30-44	college graduate	moderate
+856	WI	female	black	30-44	high school graduate	moderate
+857	NM	male	other	18-29	some college	liberal
+858	MA	female	white	65+	some college	moderate
+859	TX	male	hispanic	30-44	didn't graduate from HS	moderate
+860	TX	male	hispanic	45-64	some college	moderate
+861	IL	male	white	45-64	college graduate	liberal
+862	MA	female	white	18-29	some college	moderate
+863	VA	female	white	45-64	college graduate	moderate
+864	CA	male	white	45-64	college graduate	moderate
+865	CA	female	hispanic	45-64	high school graduate	conservative
+866	NJ	female	hispanic	30-44	some college	moderate
+867	IA	female	white	30-44	college graduate	moderate
+868	CA	male	white	30-44	college graduate	liberal
+869	MA	female	white	45-64	college graduate	moderate
+870	CA	female	hispanic	18-29	high school graduate	moderate
+871	CA	male	white	45-64	high school graduate	liberal
+872	CA	female	hispanic	65+	didn't graduate from HS	moderate
+873	NY	female	white	45-64	college graduate	moderate
+874	NJ	male	black	30-44	college graduate	moderate
+875	FL	female	other	45-64	college graduate	moderate
+876	PA	male	white	45-64	college graduate	moderate
+877	IL	female	white	30-44	college graduate	liberal
+878	NE	female	white	65+	some college	liberal
+879	IL	male	white	45-64	some college	moderate
+880	IN	female	white	45-64	college graduate	moderate
+881	IL	female	white	65+	college graduate	liberal
+882	CA	female	white	30-44	college graduate	liberal
+883	CA	female	white	65+	some college	conservative
+884	VA	female	black	45-64	some college	conservative
+885	FL	male	white	45-64	some college	conservative
+886	CA	female	white	45-64	college graduate	conservative
+887	MA	male	white	18-29	some college	moderate
+888	FL	male	hispanic	30-44	some college	moderate
+889	CA	female	white	30-44	college graduate	moderate
+890	VA	male	black	18-29	college graduate	conservative
+891	CA	female	black	65+	some college	moderate
+892	ID	male	white	45-64	college graduate	conservative
+893	NY	female	black	45-64	high school graduate	moderate
+894	NY	female	black	45-64	some college	liberal
+895	CA	male	white	30-44	college graduate	moderate
+896	NY	male	black	45-64	high school graduate	conservative
+897	TX	female	white	30-44	some college	moderate
+898	TX	male	white	65+	college graduate	conservative
+899	IN	male	black	30-44	college graduate	liberal
+900	MD	female	white	18-29	college graduate	moderate
+901	VA	male	white	65+	college graduate	moderate
+902	MD	female	white	45-64	college graduate	liberal
+903	NM	female	other	18-29	high school graduate	liberal
+904	LA	male	white	45-64	college graduate	moderate
+905	GA	female	black	45-64	high school graduate	moderate
+906	CA	female	white	45-64	some college	conservative
+907	GA	male	white	18-29	high school graduate	moderate
+908	CA	female	hispanic	18-29	high school graduate	liberal
+909	MN	male	white	30-44	some college	liberal
+910	VT	female	white	45-64	some college	conservative
+911	MD	male	white	45-64	college graduate	moderate
+912	CA	male	white	45-64	college graduate	liberal
+913	NY	male	white	45-64	college graduate	conservative
+914	LA	male	white	30-44	high school graduate	moderate
+915	MI	female	other	18-29	some college	moderate
+916	IL	female	white	30-44	college graduate	moderate
+917	IL	female	black	18-29	high school graduate	moderate
+918	CA	male	hispanic	18-29	some college	moderate
+919	RI	female	white	65+	college graduate	liberal
+920	MI	male	white	45-64	some college	moderate
+921	NJ	male	white	18-29	college graduate	moderate
+922	NY	female	black	65+	high school graduate	moderate
+923	MO	female	white	18-29	didn't graduate from HS	conservative
+924	NC	female	white	45-64	college graduate	moderate
+925	GA	female	white	45-64	college graduate	conservative
+926	TX	female	white	30-44	high school graduate	conservative
+927	IL	male	white	45-64	college graduate	liberal
+928	MO	female	white	18-29	some college	moderate
+929	MD	female	white	30-44	high school graduate	liberal
+930	NY	female	white	30-44	college graduate	conservative
+931	TX	male	white	18-29	high school graduate	conservative
+932	OH	female	white	30-44	college graduate	liberal
+933	PA	female	white	65+	some college	conservative
+934	OK	female	white	30-44	some college	moderate
+935	NH	female	white	30-44	high school graduate	liberal
+936	IN	male	black	30-44	college graduate	liberal
+937	MI	male	white	18-29	high school graduate	conservative
+938	AL	female	white	45-64	some college	moderate
+939	NY	male	black	30-44	college graduate	liberal
+940	FL	male	white	18-29	college graduate	conservative
+941	FL	female	white	45-64	college graduate	moderate
+942	IN	male	black	30-44	college graduate	liberal
+943	NJ	male	black	30-44	high school graduate	conservative
+944	PA	female	white	30-44	college graduate	conservative
+945	MD	female	black	30-44	some college	moderate
+946	MO	female	black	18-29	didn't graduate from HS	moderate
+947	MO	female	white	45-64	college graduate	conservative
+948	WA	female	white	65+	college graduate	moderate
+949	OH	female	white	18-29	college graduate	conservative
+950	CA	female	white	65+	college graduate	liberal
+951	IN	female	white	45-64	some college	moderate
+952	KS	female	black	45-64	some college	conservative
+953	CA	male	white	30-44	some college	moderate
+954	IL	female	white	30-44	college graduate	liberal
+955	VA	female	white	45-64	college graduate	moderate
+956	FL	male	hispanic	18-29	high school graduate	liberal
+957	NE	male	white	30-44	some college	moderate
+958	PA	female	white	45-64	high school graduate	conservative
+959	GA	female	white	45-64	college graduate	moderate
+960	MA	male	white	18-29	high school graduate	conservative
+961	NY	female	white	30-44	college graduate	liberal
+962	TX	female	white	45-64	college graduate	moderate
+963	MO	male	white	18-29	high school graduate	conservative
+964	IL	female	hispanic	30-44	college graduate	moderate
+965	GA	male	white	18-29	college graduate	conservative
+966	CA	female	hispanic	30-44	some college	conservative
+967	PA	male	white	45-64	some college	conservative
+968	MD	female	white	18-29	high school graduate	liberal
+969	CA	female	white	18-29	some college	liberal
+970	PA	male	white	18-29	high school graduate	conservative
+971	NY	female	white	45-64	college graduate	conservative
+972	NC	female	other	45-64	college graduate	moderate
+973	CA	male	white	18-29	some college	moderate
+974	OH	male	white	45-64	high school graduate	moderate
+975	CA	female	white	65+	some college	conservative
+976	ND	female	white	30-44	some college	moderate
+977	FL	female	black	18-29	high school graduate	moderate
+978	IL	male	white	65+	college graduate	conservative
+979	AZ	female	white	30-44	college graduate	conservative
+980	MI	female	white	65+	high school graduate	conservative
+981	FL	male	hispanic	18-29	some college	moderate
+982	OR	female	white	65+	high school graduate	liberal
+983	NY	male	white	30-44	college graduate	moderate
+984	WI	female	white	30-44	some college	moderate
+985	NY	female	white	45-64	some college	moderate
+986	MA	male	white	65+	college graduate	moderate
+987	VA	female	white	30-44	college graduate	conservative
+988	IN	male	white	30-44	high school graduate	moderate
+989	CA	female	white	65+	college graduate	conservative
+990	FL	male	white	30-44	didn't graduate from HS	moderate
+991	TX	female	hispanic	18-29	some college	liberal
+992	OH	male	white	18-29	some college	moderate
+993	CA	female	white	65+	college graduate	conservative
+994	NY	male	white	30-44	high school graduate	moderate
+995	IL	male	white	45-64	some college	conservative
+996	MD	female	white	45-64	college graduate	liberal
+997	KS	male	white	18-29	college graduate	moderate
+998	CA	male	hispanic	30-44	some college	liberal
+999	MN	female	white	18-29	high school graduate	moderate
+1000	MA	female	white	45-64	some college	moderate

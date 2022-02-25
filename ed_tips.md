@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Debugging tips and Ed posting norms 
+nav_exclude: true
 ---
 
 # Debugging tips and Ed posting norms 

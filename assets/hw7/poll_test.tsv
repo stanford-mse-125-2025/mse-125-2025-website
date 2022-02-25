@@ -1,0 +1,401 @@
+state	sex	race	age	education	party	ideology	vote_2008	state_contestedness
+AK	male	white	45-64	college graduate	democrat	liberal	barack obama	solid romney
+AK	female	white	30-44	some college	republican	conservative	john mcCain	solid romney
+AL	female	black	30-44	college graduate	democrat	liberal	barack obama	solid romney
+AL	male	white	18-29	college graduate	republican	conservative	john mcCain	solid romney
+AR	male	white	18-29	some college	republican	conservative	john mcCain	solid romney
+AR	female	black	18-29	high school graduate	democrat	moderate	barack obama	solid romney
+AZ	female	hispanic	30-44	some college	other	moderate	john mcCain	solid romney
+AZ	male	white	65+	some college	republican	conservative	john mcCain	solid romney
+CA	male	white	45-64	college graduate	other	liberal	john mcCain	solid obama
+CA	male	other	18-29	college graduate	democrat	liberal	john mcCain	solid obama
+CO	female	white	30-44	some college	republican	conservative	john mcCain	battleground
+CO	male	white	65+	high school graduate	republican	moderate	john mcCain	battleground
+CT	male	white	45-64	high school graduate	other	conservative	barack obama	solid obama
+CT	male	white	18-29	college graduate	republican	conservative	john mcCain	solid obama
+DE	female	hispanic	65+	high school graduate	democrat	moderate	barack obama	solid obama
+DE	female	white	65+	some college	democrat	moderate	barack obama	solid obama
+FL	male	hispanic	30-44	college graduate	republican	conservative	john mcCain	battleground
+FL	male	white	65+	college graduate	democrat	moderate	john mcCain	battleground
+GA	male	black	30-44	college graduate	democrat	moderate	barack obama	solid romney
+GA	male	white	65+	high school graduate	democrat	conservative	john mcCain	solid romney
+IA	male	white	30-44	college graduate	republican	conservative	john mcCain	battleground
+IA	female	white	30-44	some college	republican	conservative	john mcCain	battleground
+ID	female	hispanic	30-44	some college	republican	conservative	john mcCain	solid romney
+ID	female	white	18-29	college graduate	other	liberal	barack obama	solid romney
+IL	female	white	45-64	some college	republican	moderate	barack obama	solid obama
+IL	male	white	30-44	college graduate	republican	moderate	john mcCain	solid obama
+IN	female	white	30-44	some college	other	liberal	barack obama	solid romney
+IN	male	black	30-44	some college	democrat	liberal	barack obama	solid romney
+KS	male	white	45-64	college graduate	other	conservative	john mcCain	solid romney
+KS	male	black	45-64	some college	democrat	liberal	john mcCain	solid romney
+KY	male	white	45-64	college graduate	republican	moderate	john mcCain	solid romney
+KY	male	white	30-44	some college	republican	conservative	john mcCain	solid romney
+LA	female	white	30-44	high school graduate	republican	conservative	john mcCain	solid romney
+LA	male	white	30-44	high school graduate	other	moderate	barack obama	solid romney
+MA	male	white	45-64	didn't graduate from HS	republican	liberal	barack obama	solid obama
+MA	male	white	18-29	college graduate	other	liberal	john mcCain	solid obama
+MD	female	black	45-64	some college	democrat	conservative	barack obama	solid obama
+MD	female	white	45-64	college graduate	republican	moderate	john mcCain	solid obama
+ME	female	white	65+	didn't graduate from HS	democrat	conservative	barack obama	solid obama
+ME	female	white	65+	didn't graduate from HS	democrat	conservative	barack obama	solid obama
+MI	female	white	18-29	some college	democrat	liberal	barack obama	quasi-battleground
+MI	male	black	30-44	high school graduate	other	moderate	barack obama	quasi-battleground
+MN	male	white	65+	high school graduate	democrat	moderate	barack obama	quasi-battleground
+MN	female	white	45-64	some college	democrat	liberal	barack obama	quasi-battleground
+MO	male	white	18-29	didn't graduate from HS	republican	conservative	john mcCain	solid romney
+MO	female	white	30-44	college graduate	other	conservative	john mcCain	solid romney
+MS	male	white	45-64	college graduate	other	conservative	john mcCain	solid romney
+MS	male	white	45-64	high school graduate	republican	conservative	john mcCain	solid romney
+MT	male	white	45-64	college graduate	republican	liberal	barack obama	solid romney
+MT	male	white	18-29	high school graduate	republican	conservative	john mcCain	solid romney
+NC	female	other	30-44	college graduate	other	moderate	barack obama	quasi-battleground
+NC	female	black	45-64	high school graduate	democrat	conservative	barack obama	quasi-battleground
+ND	male	white	18-29	college graduate	republican	conservative	john mcCain	solid romney
+ND	female	white	18-29	high school graduate	republican	moderate	barack obama	solid romney
+NE	female	white	30-44	some college	republican	conservative	john mcCain	solid romney
+NE	female	white	30-44	college graduate	republican	conservative	john mcCain	solid romney
+NH	male	white	45-64	college graduate	democrat	liberal	barack obama	battleground
+NH	female	white	45-64	some college	democrat	liberal	barack obama	battleground
+NJ	female	white	30-44	college graduate	republican	conservative	john mcCain	solid obama
+NJ	male	black	30-44	college graduate	other	moderate	barack obama	solid obama
+NM	female	hispanic	30-44	high school graduate	other	moderate	barack obama	quasi-battleground
+NM	female	other	45-64	some college	democrat	conservative	barack obama	quasi-battleground
+NV	female	black	30-44	some college	other	liberal	barack obama	quasi-battleground
+NV	female	white	45-64	college graduate	democrat	conservative	john mcCain	quasi-battleground
+NY	male	white	45-64	college graduate	republican	liberal	barack obama	solid obama
+NY	male	white	45-64	college graduate	other	moderate	barack obama	solid obama
+OH	male	white	45-64	some college	republican	moderate	john mcCain	battleground
+OH	female	black	45-64	some college	democrat	liberal	barack obama	battleground
+OK	female	white	45-64	some college	republican	conservative	john mcCain	solid romney
+OK	male	white	65+	college graduate	other	conservative	john mcCain	solid romney
+OR	female	white	45-64	college graduate	other	liberal	barack obama	solid obama
+OR	male	hispanic	30-44	some college	democrat	moderate	barack obama	solid obama
+PA	female	white	45-64	college graduate	republican	conservative	john mcCain	quasi-battleground
+PA	female	white	30-44	some college	republican	moderate	john mcCain	quasi-battleground
+RI	female	white	45-64	college graduate	other	moderate	barack obama	solid obama
+RI	male	white	45-64	college graduate	other	moderate	john mcCain	solid obama
+SC	male	black	30-44	high school graduate	democrat	liberal	barack obama	solid romney
+SC	female	white	45-64	college graduate	republican	conservative	john mcCain	solid romney
+SD	male	white	45-64	high school graduate	democrat	moderate	john mcCain	solid romney
+SD	male	white	45-64	some college	other	moderate	john mcCain	solid romney
+TN	female	white	18-29	some college	other	liberal	barack obama	solid romney
+TN	female	white	18-29	didn't graduate from HS	republican	moderate	john mcCain	solid romney
+TX	female	white	45-64	college graduate	other	moderate	john mcCain	solid romney
+TX	male	white	18-29	some college	other	conservative	john mcCain	solid romney
+UT	female	white	45-64	some college	democrat	liberal	john mcCain	solid romney
+UT	male	white	18-29	some college	other	liberal	barack obama	solid romney
+VA	male	white	30-44	college graduate	republican	conservative	john mcCain	battleground
+VA	female	white	65+	high school graduate	republican	conservative	john mcCain	battleground
+VT	male	white	65+	high school graduate	republican	moderate	john mcCain	solid obama
+VT	male	white	45-64	high school graduate	democrat	moderate	john mcCain	solid obama
+WA	male	white	30-44	college graduate	other	moderate	john mcCain	solid obama
+WA	male	black	30-44	college graduate	democrat	liberal	barack obama	solid obama
+WI	female	white	30-44	some college	republican	conservative	john mcCain	quasi-battleground
+WI	male	white	18-29	some college	other	moderate	barack obama	quasi-battleground
+WV	female	white	45-64	some college	democrat	moderate	barack obama	solid romney
+WV	male	white	45-64	some college	democrat	liberal	john mcCain	solid romney
+WY	female	white	45-64	some college	republican	conservative	john mcCain	solid romney
+WY	male	white	65+	college graduate	republican	conservative	john mcCain	solid romney
+ID	female	other	45-64	college graduate	republican	conservative	john mcCain	solid romney
+GA	female	white	45-64	some college	democrat	moderate	john mcCain	solid romney
+NY	male	white	18-29	college graduate	other	moderate	barack obama	solid obama
+VA	female	white	18-29	some college	other	moderate	barack obama	battleground
+NC	male	white	45-64	some college	republican	conservative	john mcCain	quasi-battleground
+MI	male	white	30-44	some college	other	conservative	john mcCain	quasi-battleground
+RI	male	white	45-64	college graduate	republican	moderate	john mcCain	solid obama
+NJ	female	white	45-64	college graduate	other	moderate	barack obama	solid obama
+NY	female	white	65+	college graduate	democrat	liberal	barack obama	solid obama
+CA	male	white	18-29	college graduate	other	moderate	barack obama	solid obama
+FL	male	white	45-64	college graduate	republican	moderate	barack obama	battleground
+MN	female	white	30-44	some college	other	moderate	john mcCain	quasi-battleground
+CA	female	white	18-29	some college	other	liberal	barack obama	solid obama
+CA	male	black	65+	college graduate	other	moderate	barack obama	solid obama
+NJ	male	white	30-44	college graduate	republican	conservative	john mcCain	solid obama
+VT	male	other	45-64	high school graduate	republican	conservative	john mcCain	solid obama
+OK	male	white	18-29	college graduate	republican	conservative	john mcCain	solid romney
+CA	female	black	18-29	some college	democrat	moderate	barack obama	solid obama
+AR	male	white	30-44	college graduate	democrat	liberal	barack obama	solid romney
+VA	female	hispanic	18-29	high school graduate	democrat	liberal	barack obama	battleground
+CA	female	hispanic	65+	didn't graduate from HS	democrat	liberal	barack obama	solid obama
+OH	female	white	65+	some college	republican	moderate	john mcCain	battleground
+CA	female	hispanic	30-44	college graduate	republican	conservative	john mcCain	solid obama
+CA	female	white	65+	some college	republican	moderate	john mcCain	solid obama
+CT	female	white	45-64	college graduate	other	moderate	john mcCain	solid obama
+NY	female	black	30-44	college graduate	other	moderate	barack obama	solid obama
+LA	male	white	18-29	high school graduate	republican	conservative	john mcCain	solid romney
+NM	female	other	45-64	college graduate	democrat	moderate	barack obama	quasi-battleground
+CA	female	white	65+	college graduate	democrat	liberal	barack obama	solid obama
+NY	female	black	45-64	college graduate	democrat	moderate	barack obama	solid obama
+IL	female	black	18-29	some college	other	moderate	barack obama	solid obama
+CT	female	white	18-29	some college	other	moderate	barack obama	solid obama
+VA	female	hispanic	18-29	high school graduate	democrat	liberal	barack obama	battleground
+ND	female	white	30-44	college graduate	democrat	moderate	barack obama	solid romney
+CA	female	white	45-64	high school graduate	democrat	moderate	barack obama	solid obama
+MN	male	white	45-64	college graduate	democrat	liberal	barack obama	quasi-battleground
+VA	female	white	45-64	college graduate	other	moderate	barack obama	battleground
+MO	female	white	30-44	college graduate	democrat	moderate	john mcCain	solid romney
+TX	male	hispanic	45-64	high school graduate	other	conservative	john mcCain	solid romney
+MA	female	white	65+	high school graduate	other	liberal	barack obama	solid obama
+WA	male	white	45-64	some college	other	moderate	barack obama	solid obama
+MS	male	white	45-64	college graduate	other	conservative	john mcCain	solid romney
+WI	female	white	45-64	some college	democrat	liberal	barack obama	quasi-battleground
+OK	female	white	45-64	some college	democrat	moderate	barack obama	solid romney
+OH	female	white	18-29	high school graduate	republican	moderate	john mcCain	battleground
+NC	male	black	45-64	some college	democrat	liberal	barack obama	quasi-battleground
+CA	female	white	65+	college graduate	democrat	liberal	barack obama	solid obama
+UT	female	white	18-29	some college	republican	conservative	john mcCain	solid romney
+CA	male	white	45-64	some college	republican	moderate	barack obama	solid obama
+NJ	female	hispanic	30-44	some college	democrat	moderate	barack obama	solid obama
+TX	female	white	45-64	college graduate	republican	conservative	john mcCain	solid romney
+NY	female	white	45-64	some college	democrat	liberal	barack obama	solid obama
+NY	male	white	18-29	college graduate	democrat	liberal	barack obama	solid obama
+CA	male	other	18-29	some college	democrat	liberal	barack obama	solid obama
+CA	female	white	18-29	high school graduate	republican	conservative	john mcCain	solid obama
+MS	male	white	30-44	high school graduate	republican	conservative	john mcCain	solid romney
+OH	male	white	30-44	some college	republican	conservative	john mcCain	battleground
+ID	female	white	18-29	some college	republican	conservative	john mcCain	solid romney
+UT	female	white	65+	some college	other	conservative	john mcCain	solid romney
+KS	female	white	30-44	college graduate	republican	conservative	john mcCain	solid romney
+NJ	female	white	45-64	some college	other	moderate	barack obama	solid obama
+MN	female	white	30-44	college graduate	other	moderate	barack obama	quasi-battleground
+CA	female	white	45-64	college graduate	republican	liberal	barack obama	solid obama
+NC	male	white	30-44	didn't graduate from HS	democrat	liberal	barack obama	quasi-battleground
+AZ	female	white	30-44	high school graduate	democrat	moderate	barack obama	solid romney
+FL	female	hispanic	65+	some college	other	moderate	barack obama	battleground
+NE	male	white	30-44	college graduate	democrat	liberal	barack obama	solid romney
+TX	male	white	30-44	college graduate	other	conservative	john mcCain	solid romney
+IN	female	white	18-29	college graduate	republican	conservative	john mcCain	solid romney
+ND	female	white	65+	college graduate	republican	conservative	john mcCain	solid romney
+AL	female	white	65+	high school graduate	democrat	moderate	barack obama	solid romney
+MO	male	white	30-44	college graduate	democrat	liberal	barack obama	solid romney
+IN	male	hispanic	45-64	some college	other	moderate	barack obama	solid romney
+FL	female	hispanic	30-44	high school graduate	democrat	liberal	barack obama	battleground
+VA	male	white	18-29	college graduate	other	moderate	barack obama	battleground
+AK	male	white	30-44	some college	republican	moderate	john mcCain	solid romney
+WI	male	white	18-29	college graduate	republican	conservative	john mcCain	quasi-battleground
+NY	female	white	45-64	college graduate	republican	conservative	john mcCain	solid obama
+NY	female	white	18-29	college graduate	democrat	liberal	barack obama	solid obama
+CA	male	white	30-44	college graduate	other	conservative	john mcCain	solid obama
+MO	male	white	30-44	college graduate	republican	conservative	john mcCain	solid romney
+MD	female	white	45-64	some college	republican	conservative	barack obama	solid obama
+NY	male	black	18-29	college graduate	democrat	moderate	barack obama	solid obama
+CA	female	white	30-44	college graduate	democrat	moderate	barack obama	solid obama
+IN	female	white	45-64	high school graduate	republican	conservative	john mcCain	solid romney
+MD	male	white	45-64	college graduate	democrat	moderate	barack obama	solid obama
+MD	female	black	30-44	college graduate	other	moderate	barack obama	solid obama
+NY	female	white	45-64	college graduate	democrat	moderate	barack obama	solid obama
+NJ	female	other	18-29	college graduate	other	moderate	barack obama	solid obama
+MA	female	white	65+	college graduate	democrat	moderate	barack obama	solid obama
+CA	female	white	30-44	college graduate	democrat	liberal	barack obama	solid obama
+WI	female	white	18-29	high school graduate	other	moderate	barack obama	quasi-battleground
+CA	female	hispanic	45-64	college graduate	republican	conservative	john mcCain	solid obama
+CA	female	white	65+	college graduate	republican	conservative	john mcCain	solid obama
+VA	male	white	45-64	some college	republican	conservative	john mcCain	battleground
+NJ	male	white	30-44	some college	other	moderate	john mcCain	solid obama
+TX	male	hispanic	65+	didn't graduate from HS	democrat	moderate	barack obama	solid romney
+PA	female	white	30-44	college graduate	democrat	moderate	barack obama	quasi-battleground
+DE	female	white	18-29	college graduate	republican	moderate	barack obama	solid obama
+TX	female	black	30-44	college graduate	democrat	liberal	barack obama	solid romney
+MO	male	other	18-29	college graduate	democrat	liberal	barack obama	solid romney
+NC	female	black	18-29	some college	democrat	moderate	barack obama	quasi-battleground
+CA	female	white	30-44	some college	republican	moderate	john mcCain	solid obama
+TX	male	white	45-64	college graduate	republican	moderate	john mcCain	solid romney
+CA	female	black	18-29	some college	democrat	moderate	barack obama	solid obama
+IL	male	white	45-64	some college	republican	conservative	john mcCain	solid obama
+MN	male	white	30-44	college graduate	republican	moderate	john mcCain	quasi-battleground
+FL	female	black	18-29	college graduate	republican	conservative	barack obama	battleground
+IL	male	white	65+	some college	republican	conservative	barack obama	solid obama
+AZ	male	white	45-64	college graduate	republican	conservative	john mcCain	solid romney
+IL	female	white	18-29	college graduate	republican	moderate	john mcCain	solid obama
+VA	male	white	18-29	college graduate	republican	conservative	john mcCain	battleground
+IA	male	white	65+	high school graduate	democrat	moderate	barack obama	battleground
+CO	female	white	45-64	high school graduate	democrat	liberal	barack obama	battleground
+NJ	female	hispanic	18-29	some college	democrat	liberal	barack obama	solid obama
+IL	male	black	30-44	high school graduate	democrat	conservative	barack obama	solid obama
+NC	female	white	30-44	college graduate	other	liberal	barack obama	quasi-battleground
+TN	male	white	30-44	college graduate	republican	moderate	john mcCain	solid romney
+NJ	female	white	30-44	college graduate	republican	moderate	barack obama	solid obama
+PA	male	white	45-64	college graduate	republican	moderate	john mcCain	quasi-battleground
+CA	female	white	65+	college graduate	republican	conservative	john mcCain	solid obama
+NM	female	white	45-64	college graduate	democrat	moderate	john mcCain	quasi-battleground
+CA	male	white	45-64	college graduate	republican	moderate	john mcCain	solid obama
+PA	male	white	30-44	college graduate	democrat	moderate	barack obama	quasi-battleground
+WV	female	white	45-64	high school graduate	democrat	moderate	john mcCain	solid romney
+NY	female	white	18-29	high school graduate	democrat	liberal	barack obama	solid obama
+KS	female	white	18-29	college graduate	democrat	moderate	barack obama	solid romney
+NY	male	hispanic	30-44	some college	republican	conservative	john mcCain	solid obama
+MS	female	white	65+	high school graduate	other	conservative	john mcCain	solid romney
+CA	male	white	45-64	high school graduate	republican	liberal	john mcCain	solid obama
+NY	female	white	45-64	college graduate	republican	conservative	john mcCain	solid obama
+NJ	female	white	18-29	some college	democrat	liberal	barack obama	solid obama
+WI	female	white	45-64	some college	republican	moderate	john mcCain	quasi-battleground
+FL	female	hispanic	30-44	college graduate	democrat	conservative	barack obama	battleground
+MO	female	other	18-29	some college	democrat	liberal	barack obama	solid romney
+AR	female	white	30-44	college graduate	republican	conservative	john mcCain	solid romney
+MD	male	black	45-64	college graduate	democrat	moderate	barack obama	solid obama
+OH	female	white	45-64	college graduate	other	moderate	barack obama	battleground
+TX	male	white	30-44	college graduate	democrat	moderate	john mcCain	solid romney
+MA	male	white	18-29	high school graduate	republican	conservative	john mcCain	solid obama
+GA	male	black	45-64	college graduate	democrat	moderate	barack obama	solid romney
+MN	male	white	30-44	high school graduate	democrat	moderate	barack obama	quasi-battleground
+WI	male	white	30-44	college graduate	republican	conservative	john mcCain	quasi-battleground
+CA	female	white	45-64	some college	other	conservative	john mcCain	solid obama
+NY	male	white	30-44	college graduate	democrat	moderate	barack obama	solid obama
+IL	female	white	45-64	some college	republican	moderate	john mcCain	solid obama
+SC	male	black	65+	some college	democrat	moderate	barack obama	solid romney
+GA	female	white	30-44	high school graduate	republican	moderate	john mcCain	solid romney
+MA	male	hispanic	45-64	some college	democrat	moderate	john mcCain	solid obama
+TX	female	white	18-29	high school graduate	democrat	moderate	barack obama	solid romney
+NY	male	white	30-44	college graduate	republican	conservative	john mcCain	solid obama
+GA	female	black	18-29	high school graduate	democrat	moderate	barack obama	solid romney
+TX	female	white	18-29	high school graduate	republican	conservative	john mcCain	solid romney
+CA	female	white	45-64	college graduate	democrat	moderate	barack obama	solid obama
+CA	male	white	45-64	college graduate	republican	moderate	john mcCain	solid obama
+CA	male	hispanic	30-44	college graduate	democrat	moderate	barack obama	solid obama
+CA	female	white	45-64	college graduate	democrat	liberal	barack obama	solid obama
+CA	female	hispanic	18-29	high school graduate	democrat	liberal	barack obama	solid obama
+OK	female	black	45-64	college graduate	democrat	moderate	barack obama	solid romney
+NE	male	white	45-64	college graduate	other	moderate	barack obama	solid romney
+MN	female	hispanic	65+	some college	democrat	conservative	barack obama	quasi-battleground
+NY	male	black	45-64	some college	other	conservative	barack obama	solid obama
+AK	female	white	45-64	college graduate	democrat	liberal	barack obama	solid romney
+OH	male	white	45-64	high school graduate	other	moderate	barack obama	battleground
+KY	male	white	45-64	college graduate	republican	moderate	john mcCain	solid romney
+AZ	female	white	30-44	some college	other	moderate	john mcCain	solid romney
+FL	female	hispanic	18-29	college graduate	other	liberal	barack obama	battleground
+CA	male	white	65+	didn't graduate from HS	democrat	moderate	barack obama	solid obama
+WI	female	white	18-29	some college	other	moderate	john mcCain	quasi-battleground
+OH	female	hispanic	65+	didn't graduate from HS	democrat	conservative	barack obama	battleground
+OK	male	white	45-64	college graduate	republican	conservative	john mcCain	solid romney
+MN	male	hispanic	45-64	college graduate	other	moderate	barack obama	quasi-battleground
+IL	male	white	45-64	college graduate	democrat	liberal	barack obama	solid obama
+NY	male	white	30-44	some college	democrat	moderate	barack obama	solid obama
+CO	female	white	65+	high school graduate	republican	conservative	john mcCain	battleground
+GA	female	white	45-64	college graduate	republican	conservative	john mcCain	solid romney
+GA	female	black	65+	some college	democrat	liberal	barack obama	solid romney
+NY	female	black	30-44	college graduate	democrat	conservative	barack obama	solid obama
+FL	male	white	18-29	college graduate	republican	conservative	john mcCain	battleground
+CA	female	hispanic	45-64	some college	other	conservative	barack obama	solid obama
+TN	female	white	45-64	college graduate	democrat	moderate	barack obama	solid romney
+OH	female	other	18-29	high school graduate	other	moderate	barack obama	battleground
+MA	male	hispanic	30-44	high school graduate	democrat	moderate	barack obama	solid obama
+WA	female	white	45-64	some college	other	liberal	barack obama	solid obama
+PA	female	white	18-29	college graduate	democrat	liberal	barack obama	quasi-battleground
+TX	female	white	65+	high school graduate	democrat	conservative	barack obama	solid romney
+NJ	male	white	18-29	high school graduate	democrat	conservative	barack obama	solid obama
+NY	male	white	30-44	some college	democrat	liberal	john mcCain	solid obama
+OH	female	white	45-64	college graduate	democrat	liberal	barack obama	battleground
+AL	female	black	45-64	college graduate	democrat	moderate	barack obama	solid romney
+MI	male	white	30-44	some college	other	conservative	john mcCain	quasi-battleground
+DE	female	white	18-29	college graduate	democrat	moderate	barack obama	solid obama
+CA	male	white	45-64	high school graduate	republican	conservative	john mcCain	solid obama
+NY	female	black	18-29	some college	other	liberal	barack obama	solid obama
+NY	female	white	30-44	some college	other	moderate	barack obama	solid obama
+NY	female	white	45-64	college graduate	democrat	liberal	barack obama	solid obama
+OK	female	white	45-64	college graduate	democrat	liberal	barack obama	solid romney
+CA	female	hispanic	18-29	some college	other	moderate	barack obama	solid obama
+MA	female	white	45-64	some college	democrat	moderate	barack obama	solid obama
+OH	female	white	45-64	college graduate	other	moderate	barack obama	battleground
+CA	male	white	65+	college graduate	republican	conservative	john mcCain	solid obama
+FL	female	black	45-64	high school graduate	democrat	moderate	barack obama	battleground
+MA	female	black	45-64	college graduate	other	liberal	barack obama	solid obama
+NC	male	white	45-64	college graduate	other	moderate	barack obama	quasi-battleground
+MI	female	white	45-64	some college	democrat	liberal	barack obama	quasi-battleground
+MD	female	white	45-64	college graduate	democrat	liberal	barack obama	solid obama
+MN	male	other	30-44	some college	democrat	liberal	barack obama	quasi-battleground
+NV	male	white	45-64	college graduate	other	moderate	barack obama	quasi-battleground
+CA	female	white	45-64	some college	republican	conservative	john mcCain	solid obama
+NY	female	white	65+	college graduate	democrat	liberal	barack obama	solid obama
+OH	female	white	18-29	high school graduate	republican	conservative	john mcCain	battleground
+NY	female	black	30-44	college graduate	democrat	liberal	barack obama	solid obama
+NY	male	black	45-64	college graduate	republican	conservative	barack obama	solid obama
+MN	male	white	45-64	high school graduate	other	moderate	john mcCain	quasi-battleground
+NY	female	black	65+	high school graduate	democrat	liberal	barack obama	solid obama
+IL	female	black	30-44	college graduate	democrat	moderate	barack obama	solid obama
+MI	male	white	65+	college graduate	other	moderate	john mcCain	quasi-battleground
+LA	male	white	18-29	high school graduate	republican	conservative	john mcCain	solid romney
+CA	male	other	45-64	college graduate	republican	conservative	john mcCain	solid obama
+WI	female	white	30-44	college graduate	other	moderate	barack obama	quasi-battleground
+NJ	male	white	30-44	some college	other	conservative	john mcCain	solid obama
+OR	male	white	65+	some college	other	moderate	barack obama	solid obama
+NY	male	white	30-44	college graduate	republican	conservative	john mcCain	solid obama
+NY	male	white	30-44	college graduate	democrat	liberal	barack obama	solid obama
+TX	female	hispanic	65+	didn't graduate from HS	democrat	liberal	barack obama	solid romney
+WI	female	white	65+	some college	democrat	liberal	john mcCain	quasi-battleground
+MS	female	white	30-44	some college	republican	conservative	john mcCain	solid romney
+WI	female	white	18-29	some college	other	moderate	barack obama	quasi-battleground
+MA	female	white	45-64	some college	other	moderate	barack obama	solid obama
+GA	female	white	45-64	college graduate	republican	moderate	john mcCain	solid romney
+CA	female	white	45-64	college graduate	other	liberal	barack obama	solid obama
+GA	female	white	65+	college graduate	democrat	moderate	barack obama	solid romney
+CA	male	white	65+	college graduate	republican	conservative	john mcCain	solid obama
+CA	female	hispanic	30-44	some college	democrat	moderate	barack obama	solid obama
+NY	female	other	18-29	college graduate	other	liberal	barack obama	solid obama
+FL	male	hispanic	30-44	some college	republican	conservative	john mcCain	battleground
+TX	female	white	45-64	college graduate	republican	moderate	john mcCain	solid romney
+TX	female	white	30-44	college graduate	republican	conservative	john mcCain	solid romney
+NY	female	black	45-64	some college	democrat	liberal	barack obama	solid obama
+MO	male	white	45-64	college graduate	democrat	conservative	barack obama	solid romney
+PA	male	white	65+	some college	democrat	moderate	barack obama	quasi-battleground
+MO	male	white	30-44	some college	republican	conservative	john mcCain	solid romney
+OH	female	white	65+	high school graduate	democrat	moderate	john mcCain	battleground
+LA	female	black	18-29	high school graduate	democrat	liberal	barack obama	solid romney
+MN	male	black	45-64	college graduate	democrat	liberal	barack obama	quasi-battleground
+OH	female	white	45-64	high school graduate	republican	moderate	barack obama	battleground
+FL	male	white	65+	college graduate	democrat	moderate	john mcCain	battleground
+MO	female	white	18-29	high school graduate	other	liberal	barack obama	solid romney
+PA	male	white	45-64	college graduate	republican	conservative	barack obama	quasi-battleground
+OH	female	white	30-44	some college	other	moderate	john mcCain	battleground
+FL	male	white	45-64	college graduate	democrat	liberal	barack obama	battleground
+TX	male	hispanic	30-44	high school graduate	other	conservative	john mcCain	solid romney
+IL	male	white	45-64	high school graduate	democrat	conservative	barack obama	solid obama
+CA	female	white	30-44	college graduate	other	moderate	barack obama	solid obama
+CA	male	white	65+	high school graduate	republican	conservative	john mcCain	solid obama
+LA	male	white	30-44	college graduate	republican	conservative	john mcCain	solid romney
+CA	female	hispanic	45-64	didn't graduate from HS	democrat	moderate	barack obama	solid obama
+CA	male	other	30-44	college graduate	republican	moderate	john mcCain	solid obama
+NJ	female	hispanic	18-29	high school graduate	democrat	conservative	barack obama	solid obama
+PA	female	white	65+	college graduate	republican	conservative	john mcCain	quasi-battleground
+NJ	female	black	18-29	some college	democrat	moderate	barack obama	solid obama
+WV	male	white	18-29	high school graduate	republican	moderate	john mcCain	solid romney
+UT	male	black	45-64	some college	other	moderate	john mcCain	solid romney
+KY	female	white	45-64	college graduate	republican	moderate	john mcCain	solid romney
+OH	male	black	30-44	college graduate	democrat	conservative	barack obama	battleground
+OH	female	white	45-64	some college	democrat	moderate	john mcCain	battleground
+PA	female	white	30-44	college graduate	other	moderate	john mcCain	quasi-battleground
+CA	male	hispanic	18-29	high school graduate	democrat	liberal	barack obama	solid obama
+FL	male	white	30-44	some college	republican	moderate	john mcCain	battleground
+IL	male	hispanic	30-44	some college	republican	liberal	barack obama	solid obama
+MA	female	white	30-44	high school graduate	other	moderate	barack obama	solid obama
+IA	male	white	18-29	some college	democrat	liberal	barack obama	battleground
+AR	female	white	65+	didn't graduate from HS	republican	conservative	john mcCain	solid romney
+TN	female	black	45-64	college graduate	democrat	moderate	barack obama	solid romney
+MD	female	white	30-44	college graduate	democrat	liberal	barack obama	solid obama
+UT	female	white	30-44	some college	democrat	moderate	barack obama	solid romney
+TX	female	white	65+	college graduate	other	moderate	john mcCain	solid romney
+SC	female	white	30-44	college graduate	democrat	moderate	barack obama	solid romney
+PA	female	white	45-64	some college	democrat	moderate	barack obama	quasi-battleground
+FL	female	white	18-29	college graduate	democrat	moderate	barack obama	battleground
+OH	female	white	30-44	didn't graduate from HS	other	moderate	barack obama	battleground
+IL	male	white	30-44	college graduate	republican	moderate	barack obama	solid obama
+MD	female	white	18-29	college graduate	republican	moderate	john mcCain	solid obama
+SC	female	black	30-44	college graduate	democrat	moderate	barack obama	solid romney
+CA	male	white	65+	college graduate	republican	conservative	john mcCain	solid obama
+MA	male	white	45-64	college graduate	democrat	liberal	barack obama	solid obama
+CA	female	other	18-29	college graduate	democrat	liberal	barack obama	solid obama
+MI	male	white	65+	some college	democrat	moderate	barack obama	quasi-battleground
+CA	female	white	30-44	college graduate	republican	moderate	john mcCain	solid obama
+FL	female	white	45-64	college graduate	democrat	moderate	barack obama	battleground
+SC	female	white	45-64	college graduate	other	moderate	barack obama	solid romney
+CA	male	white	45-64	college graduate	republican	conservative	john mcCain	solid obama
+MO	male	white	45-64	didn't graduate from HS	other	liberal	john mcCain	solid romney
+OH	female	white	45-64	some college	other	conservative	john mcCain	battleground
+WV	male	white	45-64	high school graduate	democrat	conservative	barack obama	solid romney
+CA	male	black	18-29	high school graduate	republican	conservative	barack obama	solid obama
+OH	female	white	30-44	college graduate	democrat	moderate	barack obama	battleground
+CA	male	hispanic	18-29	high school graduate	other	liberal	barack obama	solid obama
+VA	male	white	45-64	some college	republican	conservative	john mcCain	battleground
+IN	female	hispanic	30-44	some college	democrat	liberal	barack obama	solid romney
+CA	female	hispanic	65+	high school graduate	democrat	moderate	barack obama	solid obama
+NJ	female	black	65+	some college	democrat	liberal	barack obama	solid obama
