@@ -4,6 +4,21 @@ title: HW, quizzes, project
 description: Assignments, quizzes, and project details
 ---
 
+# Assignments, quizzes, and project
+{: .no_toc }
+
+<!-- 1. TOC
+{:toc} -->
+
+## Assignment 0
+
+Due Date: Monday, April 4, TBD
+
+In preparation for the first discussion section,
+install <a href="http://www.rstudio.com/">RStudio</a>
+(which in turn requires installing <a href="http://cran.rstudio.com/">R</a>).
+Feel free to post on [Ed](canvas.stanford.edu) with any installation problems.
+
 ## Assignment 1
 
 Exploring and visualizing data with `dplyr` and `ggplot2`.
@@ -32,7 +47,7 @@ Due date: Thursday, April 21, 9pm PT
 
 Due date: Tuesday, April 26, 9pm PT
 
-In teams of 2-5 people, please complete the [project proposal form](https://forms.gle/diGr9yZT1TRVHuDe9).
+In teams of 2-5 people, please complete the [project proposal form](https://forms.gle/U43xgsifpU3Kng2H7).
 
 You are free to pursue any topic related to applied statistics.
 In previous years, teams have considered
@@ -45,7 +60,7 @@ or a 10-minute video presentation.
 To help assess the feasibility and suitability of your project,
 please discuss your idea with the teaching staff before submitting your proposal.
 Your group should
-sign up for a [15-minute meeting slot](https://docs.google.com/spreadsheets/d/18Epg8PxHLWXZTWMLRf_lAweGtxcwaqg9NU0A8gvP9L8/edit?usp=sharing).
+sign up for a [15-minute meeting slot]().
 It is ideal if all members of your group can attend the meeting but, at a minimum, two members should be present. (This meeting is a required part of the assignment.)
 
 Upon completing the project, we'll ask each student to evaluate the contributions of their team members, and we'll consider these peer-reviews when determining final grades.
@@ -60,7 +75,7 @@ It consists of 5 true/false and 15 multiple-choice questions.
 The quiz is designed to take approximately 1 hour.
 Instructions to access the quiz will be posted on Canvas at 12:01 am.
 
-**You must complete each quiz on your own. Giving or receiving any form of aid on the quiz is a violation of the honor code.**  
+**You must complete the quiz on your own. Giving or receiving any form of aid on the quiz is a violation of the honor code.**  
 
 The first quiz tests the conceptual ideas presented during weeks 1-3 (through parametric inference).
 
@@ -118,6 +133,6 @@ It consists of 5 true/false and 15 multiple-choice questions.
 The quiz is designed to take approximately 1 hour.
 Instructions to access the quiz will be posted on Canvas at 12:01 am.
 
-**You must complete each quiz on your own. Giving or receiving any form of aid on the quiz is a violation of the honor code.**  
+**You must complete the quiz on your own. Giving or receiving any form of aid on the quiz is a violation of the honor code.**  
 
 The second quiz tests the material presented in weeks 4-9.

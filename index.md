@@ -10,17 +10,17 @@ seo:
 
 ---
 
+<img src="assets/msande_logo.jpeg" width="300">
+
 # {{ site.tagline }}
+{: .no_toc }
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }
 {: .no_toc }
 
-# Syllabus
-{: .no_toc }
-
-## Quick links
-{: .no_toc .text-delta }
+<!-- # Syllabus
+{: .no_toc } -->
 
 1. TOC
 {:toc}
@@ -49,54 +49,29 @@ Josh Grossman (Instructor) (jgrossman at stanford dot edu)
 
 ## Class schedule
 
-Lecture: Tuesdays & Thursdays @ 9:45 AM - 11:45 AM PT at TBD Location
+**Lecture**: Tuesdays & Thursdays @ 9:45 AM - 11:45 AM PT at TBD Location
 
-Discussion Section: XX @ XX - XX PT (Zoom)
+* If you would like to request some music to play at the beginning of lecture, please fill out [this form](https://forms.gle/9NcD3YGjs9QH98587)!
 
-Office Hours:
-- XX @ XX - XX PT (Instructor Name)
-- XX @ XX - XX PT (XX, in person at Location)
-- XX @ XX - XX PT (XX, Zoom)
-- XX @ XX - XX PT (XX)
-- XX @ XX - XX PT (rotating instructors, Zoom)
+**Discussion Section**: Mondays @ TBD (in person at TBD and Zoom)
 
-Zoom links posted on [Canvas](https://canvas.stanford.edu/)
+**Office Hours**:
+
+* Mondays @ 10am - 12pm PT (XX, Zoom only)
+
+* Tuesdays @ 4pm - 6pm PT (XX, in person at TBD and Zoom)
+
+* Wednesdays @ 7pm - 9pm PT (Josh, in person at TBD and Zoom)
+
+* Thursdays @ 12pm - 2pm PT (XX, in person at TBD and Zoom)
+
+For security reasons, Zoom links for the discussion section and office hours are posted on [Canvas](https://canvas.stanford.edu/).
 
 Office hours are a great opportunity to discuss not only topics directly related to the course, 
 but also anything else that's on your mind beyond the class, including, for example, 
 questions about career trajectories, and [research opportunities](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research) in MS&E and beyond.
 
 Please note that there are no regular office hours during the first week of class, but feel free to schedule an appointment if you would like to meet.
-
-If you would like to request some music to play at the beginning of lecture, please fill out [this form](https://forms.gle/ECG7nW7ykKQXx5yS6)!
-
-<!-- ## Assignments, quizzes, project, and grading
-
-### Due dates
-
-Assignment 1 due Thursday, April 7, 9pm PT
-
-Assignment 2 due Thursday, April 14, 9pm PT
-
-Assignment 3 due Thursday, April 21, 9pm PT
-
-Project proposal due Tuesday, April 26, 9pm PT
-
-Take-home Quiz 1 on Thursday, April 28, 12:01am PT to 11:59pm PT
-
-Assignment 4 due Thursday, May 5, 9pm PT
-
-Assignment 5 due Thursday, May 12, 9pm PT
-
-Assignment 6 due Thursday, May 19, 9pm PT
-
-Assignment 7 due Thursday, May 26, 9pm PT
-
-Final project due Monday, May 30, 9pm PT
-
-Peer evaluations due Tuesday, May 31, 9pm PT
-
-Take-home Quiz 2 on Thursday, June 2, 12:01am PT to 11:59pm PT -->
 
 ## Grading policies
 
@@ -110,45 +85,12 @@ Late homework will not be accepted, but your lowest homework grade will be dropp
 Unless otherwise stated, assignments are to be done individually.
 You are welcome to work with others to master the principles and approaches used to
 solve the homework problems, but the work you turn in should be your own.
-Under no circumstance should you seek out or look at solutions to assignments given in previous years.
-
-<!-- ### Quiz details
-
-You will have 24 hours to complete each quiz.
-The quizzes are open book/computer.
-They consists of 5 true/false and 15 multiple-choice questions.
-The quizzes is designed to take approximately 1 hour.
-Instructions to access the quiz will be posted on Canvas at 12:01 am.
-
-**You must complete each quiz on your own. Giving or receiving any form of aid on the quizzes is a violation of the honor code.**  
-
-The first quiz tests the conceptual ideas presented during weeks 1-3 (through parametric inference).
-The second quiz tests the material presented in weeks 4-9.
-
-### Project details
-
-In teams of 2-5 people, please complete the [project proposal form](https://forms.gle/diGr9yZT1TRVHuDe9).
-
-You are free to pursue any topic related to applied statistics.
-In previous years, teams have considered
-athletic performance, gender inequality, farming practices, restaurant quality,
-music success, gentrification, and standardized testing, just to name a few.
-Any data-driven investigation is fair game.
-At the end of the quarter, each team will prepare either a 10-page written report
-or a 10-minute video presentation.
-
-To help assess the feasibility and suitability of your project,
-please discuss your idea with the teaching staff before submitting your proposal.
-Your group should
-sign up for a [15-minute meeting slot](https://docs.google.com/spreadsheets/d/18Epg8PxHLWXZTWMLRf_lAweGtxcwaqg9NU0A8gvP9L8/edit?usp=sharing).
-It is ideal if all members of your group can attend the meeting but, at a minimum, two members should be present. (This meeting is a required part of the assignment.)
-
-Upon completing the project, we'll ask each student to evaluate the contributions of their team members, and we'll consider these peer-reviews when determining final grades. -->
+Under no circumstance should you seek out or look at solutions to assignments given in previous years.  
 
 ## Study groups
 
 We encourage you to work together in groups to solidify your understanding of the course material. 
-If you would like assistance forming a study group, please complete [this form](https://forms.gle/j2mvdr3bfBkMcqF3A) by XX at XXpm PT. 
+If you would like assistance forming a study group, please complete [this form](https://forms.gle/1xfXRZ968Xh9XEMY8) by Thursday, March 31 at 9pm PT. 
 Our goal is to form the study groups the following day, 
 so students can begin discussing the first homework assignment.
 
@@ -157,7 +99,7 @@ so students can begin discussing the first homework assignment.
 We use the [Ed platform](https://canvas.stanford.edu/) to manage course questions and discussion.
 
 We highly encourage you to use our (anonymous) 
-[comment box](https://forms.gle/WzuDbpi1H4siTgfz9)
+[comment box](https://forms.gle/XDECx7JKRNrM2BXq6)
 to let us know which aspects of the class
 are going well and which could be improved.
 
@@ -165,6 +107,18 @@ are going well and which could be improved.
 
 We primarily use [R](http://www.r-project.org/), and [RStudio](http://www.rstudio.com/) is the recommended interface.
 We extensively use the suite of [tidyverse](https://www.tidyverse.org/) packages.
+
+## Attendance
+
+* Lectures and office hours are not recorded. The discussion section will be recorded.
+
+* Lecture attendance is mandatory, and lecture attendance is a substantial component of the participation grade. The teaching staff may periodically conduct attendance checks. If you cannot attend a lecture due to an extenuating circumstance, please email the course staff before lecture starts. 
+
+* Laptops and phones are not allowed in lecture, though you are permitted to use a tablet to take handwritten notes. [This article](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html) explains why we have this policy.
+
+* We highly encourage you to attend discussion sections, and be sure to bring your laptop. That being said, attendance is not mandatory.
+
+* Discussion section will be recorded via Zoom. Note that much of the discussion section will consist of one-on-one help with hands-on exercises that prepare you for the homework assignments, and this experience is often much more valuable if attended in person. 
 
 ## Textbooks (Optional)
 

@@ -17,7 +17,7 @@ Please reach out to the teaching team if you have any concerns about report form
 
 *   **Make it easy for us to read your report.** Bullet points and concise comments are encouraged. Rather than hide results in long, single-spaced paragraphs, present them in a table with clear labels. Make sure your handwritten results are legible and easy to follow. If you paste images into your PDF, make them BIG. We should not need to zoom in too far to see your work.
 
-* Avoid using screenshots where possible, as they typically have low resolution. Instead, when possible, use `ggsave()` to save images of your plots. When using `ggsave()`, you should use the minimum image resolution needed to easily understand your plot. 
+* **Avoid using screenshots where possible**, as they typically have low resolution. Instead, when possible, use `ggsave()` to save images of your plots. When using `ggsave()`, you should use the minimum image resolution needed to easily understand your plot. 
 
 *	**All results should be printed and clearly marked in your report PDF.** **We should not have to refer to your code to find your results.** If you decide to store a result in a variable, print the value of the variable in your code AND in the report PDF. Consider underlining, boxing, bolding, and/or highlighting your key results. 
 
@@ -34,11 +34,11 @@ options(digits = 3)
 
 *   **Submit a single report PDF.** Your submissions should only contain two files: your report PDF and your code. There are many free tools available for combining PDFs into a single PDF.
 
-## Code
+## Code tips
 
-* In your code, do your best to follow the [tidyverse style conventions](https://style.tidyverse.org/). Note that we will not dock points for code that runs correctly but isn't formatted nicely. However, you will find that your code is a lot easier to debug when it's formatted nicely.
+* In your code, do your best to **follow the [tidyverse style conventions](https://style.tidyverse.org/)**. Note that we will not dock points for code that runs correctly but isn't formatted nicely. However, you will find that your code is a lot easier to debug when it's formatted nicely.
 
-*  **Do not include `install.packages(),` `View(), ggsave(), or ?<function\_name>` in your submitted script.** You are welcome to leave these functions in your code so long as you `#comment them out`. Note that if you run `install.packages("tidyverse")` once on your machine, you (generally) never need to run it again.
+*  **Do not include `install.packages(),` `View()`, or `ggsave()` in your submitted script.** You are welcome to leave these functions in your code so long as you `#comment them out`. Note that if you run `install.packages("tidyverse")` once on your machine, you (generally) never need to run it again.
 
 *  **Clear your environment and re-run your code before submitting**. Many simple bugs can be avoided by simply re-running code and catching typos. 
 

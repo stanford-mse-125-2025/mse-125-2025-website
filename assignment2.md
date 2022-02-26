@@ -56,13 +56,13 @@ and confidence intervals, both analytically and numerically with simulations in 
 
 <p> Let \(X_1, \dots, X_n \sim \) Uniform\( (0, \theta) \). </p>
 
-### Problem 1, Part 1
+### Problem 1, Part A
 
 <p>Let \(~\tilde{\theta} = 2\bar{X}_n\) where \(\bar{X}_n \) is the sample mean; i.e., \(\bar{X}_n = \frac{1}{n}\sum_{i=1}^nX_i\).</p>
 
 Find the `bias`, `se`, and `MSE` of this estimator.
 
-### Problem 1, Part 2
+### Problem 1, Part B
 
 <p>Let \(~\hat{\theta} = \text{max}\{X_1, \dots, X_n\} \).</p>
 
@@ -71,7 +71,7 @@ Find the `bias`, `se`, and `MSE` of this estimator.
 <p>Hint: First compute the CDF of \(~\hat{\theta}\), and then differentiate to
 find its density.</p>
 
-### Problem 1, Part 3
+### Problem 1, Part C
 
 <p>Simulate 10,000 samples of 500 observations (\(n=500\)) from a
 Uniform\((0, 1)\) distribution (\( \theta = 1 \)).</p>
@@ -93,7 +93,7 @@ Finally, compare the numerical approximations of `bias`, `se`, and
 
 Now we'll construct some confidence intervals, and simulate samples to investigate the true coverage of the intervals.	
 
-### Problem 2, Part 1
+### Problem 2, Part A
 
 Download the [data](../assets/hw2/X.txt).
 
@@ -107,7 +107,7 @@ Download the [data](../assets/hw2/X.txt).
 Compute both the 95% and 80% confidence
 intervals for the estimate \(\tilde{\theta}\).</p>
 
-### Problem 2, Part 2
+### Problem 2, Part B
 
 <p>Simulate 10,000 samples of 50 observations (\(n=50\)) from a
 Uniform\((0, 10)\) distribution (\(\theta = 10\)).

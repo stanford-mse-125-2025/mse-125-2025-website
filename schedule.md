@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topic schedule
+title: Schedule
 description: Tentative course schedule.
 ---
 
@@ -38,7 +38,7 @@ April 18-22, 2022
 
 Correlation, simple linear regression, confidence & prediction intervals
 
-Optional reading: Part III of S]tatistics, and selected topics from Chapter 13 of All of Statistics
+Optional reading: Part III of Statistics, and selected topics from Chapter 13 of All of Statistics
 
 ## Week 5: Career Panel and Quiz
 
