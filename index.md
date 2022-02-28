@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Syllabus
+description: MS&E 125 course homepage.
 nav_exclude: false
 has_toc: true
 nav_order: 1

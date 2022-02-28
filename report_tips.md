@@ -13,7 +13,9 @@ Please reach out to the teaching team if you have any concerns about report form
 
 ## Report tips
 
-*  **A longer answer does not always mean a better answer.** Keep your responses meaningful and concise, and make sure plots convey insightful findings. Do not include extraneous results or findings in your report. Make it easy for the teaching team to follow your line of thinking.
+*  **A longer answer does not always mean a better answer.** Keep your responses meaningful and concise. Do not include extraneous results or findings in your report. Make it easy for the teaching team to follow your line of thinking.
+
+*	**Make sure plots convey insightful findings.** A simple plot with a clear insight is a lot more valuable than a complex plot that does not convey a clear insight.
 
 *   **Make it easy for us to read your report.** Bullet points and concise comments are encouraged. Rather than hide results in long, single-spaced paragraphs, present them in a table with clear labels. Make sure your handwritten results are legible and easy to follow. If you paste images into your PDF, make them BIG. We should not need to zoom in too far to see your work.
 

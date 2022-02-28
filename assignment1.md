@@ -13,13 +13,25 @@ solve the homework problems, but the work you turn in should be your own.
 Under no circumstance should you seek out or look at solutions to assignments given in previous years.
 
 Please install [R](http://cran.rstudio.com/) and [RStudio](http://www.rstudio.com/) before working on this assignment.
+[Section 1.4](https://r4ds.had.co.nz/introduction.html#prerequisites) of R for Data Science has some tips for installation.
 If you're having trouble with the installation, be sure to post on Ed or come to office hours.
 
-If you need help with any problem, be sure to follow the [Ed posting norms](../ed_tips).
+If you need help with any problem on this assignment and would like to post on Ed, be sure to follow the [Ed posting norms](../ed_tips).
+
+## Warm up (Optional)
+
+Read Chapters 1 through 5 of [R for Data Science](https://r4ds.had.co.nz/). You are strongly encouraged to work through the examples in an [R Notebook](https://bookdown.org/yihui/rmarkdown/notebook.html) as you read. 
+
+Complete problem 6 of the [3.6.1 Exercises](https://r4ds.had.co.nz/data-visualisation.html#exercises-3) and problem 5 of the [5.6.7 Exercises](https://r4ds.had.co.nz/transform.html#exercises-12).
+
+We'll be the first to admit that solutions to these problems are freely available online. However, we also want to stress that understanding these five chapters will make future assignments substantially easier.
+
+Completing the warm up will contribute positively to your participation grade. 
+
 
 ## Overview
 
-In this assignment you'll explore the baby name popularity data provided by the [Social Security Administration (SSA)](http://www.ssa.gov/oact/babynames/limits.html).
+For the rest of this assignment, you'll explore the baby name popularity data provided by the [Social Security Administration (SSA)](http://www.ssa.gov/oact/babynames/limits.html).
 You'll make extensive use of the R libraries [ggplot2](https://ggplot2.tidyverse.org/) and [dplyr](http://dplyr.tidyverse.org/).
 In particular, we will be examining relationships between names and sex assigned at birth, which we note is distinct
 from one's gender identity.
