@@ -12,7 +12,7 @@ description: Assignments, quizzes, and project details
 
 ## Assignment 0
 
-Due Date: Monday, April 4, TBD
+Due Date: Thursday, March 31, 11:45am PT
 
 In preparation for the first discussion section,
 install <a href="http://www.rstudio.com/">RStudio</a>
@@ -20,11 +20,14 @@ install <a href="http://www.rstudio.com/">RStudio</a>
 [Section 1.4](https://r4ds.had.co.nz/introduction.html#prerequisites) of R for Data Science has some tips for installation.
 Feel free to post on [Ed](https://canvas.stanford.edu) with any installation problems.
 
+Take a screenshot of RStudio installed on your machine with your full name written in the R console.
+Submit via [Canvas](canvas.stanford.edu).
+
 ## Assignment 1
 
 Exploring and visualizing data with `dplyr` and `ggplot2`.
 
-Due date: Thursday, April 7, 9pm PT
+Due date: Friday, April 8, 5pm PT
 
 [Assignment 1 details](assignment1.md).
 
@@ -32,7 +35,7 @@ Due date: Thursday, April 7, 9pm PT
 
 Statistical estimators and confidence intervals.
 
-Due date: Thursday, April 14, 9pm PT
+Due date: Friday, April 15, 5pm PT
 
 [Assignment 2 details](assignment2.md).
 
@@ -40,7 +43,7 @@ Due date: Thursday, April 14, 9pm PT
 
 The bootstrap, MLEs, and the method of moments.
 
-Due date: Thursday, April 21, 9pm PT
+Due date: Friday, April 22, 5pm PT
 
 [Assignment 3 details](assignment3.md).
 
@@ -84,7 +87,7 @@ The first quiz tests the conceptual ideas presented during weeks 1-3 (through pa
 
 Linear Regression.
 
-Due date: Thursday, May 5, 9pm PT
+Due date: Friday, May 6, 5pm PT
 
 [Assignment 4 details](assignment4.md).
 
@@ -92,7 +95,7 @@ Due date: Thursday, May 5, 9pm PT
 
 Logistic regression.
 
-Due date: Thursday, May 12, 9pm PT
+Due date: Friday, May 13, 5pm PT
 
 [Assignment 5 details](assignment5.md).
 
@@ -100,7 +103,7 @@ Due date: Thursday, May 12, 9pm PT
 
 Bias-variance trade-offs, cross-validation, and regularization.
 
-Due date: Thursday, May 19, 9pm PT
+Due date: Friday, May 20, 5pm PT
 
 [Assignment 6 details](assignment6.md).
 
@@ -108,7 +111,7 @@ Due date: Thursday, May 19, 9pm PT
 
 Causal inference.
 
-Due date: Thursday, May 26, 9pm PT
+Due date: Friday, May 27, 5pm PT
 
 [Assignment 7 details](assignment7.md).
 

@@ -44,29 +44,31 @@ MS&E 120 or equivalent, and CS 106A or equivalent
 
 Josh Grossman (Instructor) (jgrossman at stanford dot edu)
 
-[Will Cai](http://www.whereiswillcai.com/) (TA) (willcai at stanford dot edu)
+[Will Cai](http://www.whereiswillcai.com/) (CA) (willcai at stanford dot edu)
 
-[Alex Chohlas-Wood](https://www.alexchohlaswood.com/) (TA) (alexcw at stanford dot edu)
+[Alex Chohlas-Wood](https://www.alexchohlaswood.com/) (CA) (alexcw at stanford dot edu)
 
 ## Class schedule
 
-**Lecture**: Tuesdays & Thursdays @ 9:45 AM - 11:45 AM PT at TBD Location
+**Lecture**: Tuesdays & Thursdays @ 9:45am - 11:15am PT at 380Y (in the basement of Building 380, the Sloan Math Corner)
 
 * If you would like to request some music to play at the beginning of lecture, please fill out [this form](https://forms.gle/9NcD3YGjs9QH98587)!
 
-**Discussion Section**: Mondays @ TBD (in person at TBD and Zoom)
+**Discussion Section**: Tuesdays @ 11:30am - 1pm (in person at TBD, 15 minutes after lecture)
 
 **Office Hours**:
 
-* Mondays @ 10am - 12pm PT (XX, Zoom only)
+* Tuesdays @ 2pm - 4pm PT (Will, in person at TBD)
 
-* Tuesdays @ 4pm - 6pm PT (XX, in person at TBD and Zoom)
+* Thursdays @ 11:15am - 1:15pm PT (Alex, in person at TBD)
 
-* Wednesdays @ 7pm - 9pm PT (Josh, in person at TBD and Zoom)
+* Thursdays @ 7pm - 9pm PT (Josh, in person at TBD)
 
-* Thursdays @ 12pm - 2pm PT (XX, in person at TBD and Zoom)
+* Fridays @ 10am - 12pm PT (Rotating instructors, Zoom only)
 
-For security reasons, Zoom links for the discussion section and office hours are posted on [Canvas](https://canvas.stanford.edu/).
+* We may add or reschedule office hours based on demand and student availability. Please let the course staff know if you have conflicts with all of the current times. 
+
+For security reasons, the Zoom link for the Friday office hour is posted on [Canvas](https://canvas.stanford.edu/).
 
 Office hours are a great opportunity to discuss not only topics directly related to the course, 
 but also anything else that's on your mind beyond the class, including, for example, 
@@ -111,15 +113,19 @@ We extensively use the suite of [tidyverse](https://www.tidyverse.org/) packages
 
 ## Attendance
 
-* Lectures and office hours are not recorded. The discussion section will be recorded.
+* <!-- Lectures and office hours are not recorded. The discussion section will be recorded. -->
 
-* Lecture attendance is mandatory, and lecture attendance is a substantial component of the participation grade. The teaching staff may periodically conduct attendance checks. If you cannot attend a lecture due to an extenuating circumstance, please email the course staff before lecture starts. 
+* We do not plan on recording any component of the course.
+
+* Lecture attendance is mandatory, and lecture attendance is a substantial component of the participation grade. If you cannot attend a lecture due to an extenuating circumstance, please email Josh before lecture starts. 
+
+<!-- The teaching staff may periodically conduct attendance checks. -->
 
 * Laptops and phones are not allowed in lecture, though you are permitted to use a tablet to take handwritten notes. [This article](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html) explains why we have this policy.
 
-* We highly encourage you to attend discussion sections, and be sure to bring your laptop. That being said, attendance is not mandatory.
+* We highly encourage you to attend discussion sections, and be sure to bring your laptop. That being said, attendance is not mandatory. The discussion section will consist of one-on-one help with hands-on exercises that prepare you for the homework assignments. 
 
-* Discussion section will be recorded via Zoom. Note that much of the discussion section will consist of one-on-one help with hands-on exercises that prepare you for the homework assignments, and this experience is often much more valuable if attended in person. 
+<!-- This experience is typically much more valuable and enjoyable if attended in person, though we will attempt to stream the discussion section via Zoom.  -->
 
 ## Textbooks (Optional)
 
@@ -146,5 +152,5 @@ If you already have an Academic Accommodation Letter, we invite you to share you
 
 ## Diversity statement
 
-It is our intent that students from all backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. We aim to present materials and conduct activities in ways that are respectful of this diversity. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally or for other students or student groups.
+It is our intent that students from all backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. We aim to present materials and conduct activities in ways that are respectful of this diversity. Your suggestions are encouraged and appreciated. Please let us know if yiou have ideas to improve the effectiveness of the course for you personally or for other students or student groups.
 

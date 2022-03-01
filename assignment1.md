@@ -20,13 +20,21 @@ If you need help with any problem on this assignment and would like to post on E
 
 ## Warm up (Optional)
 
-Read Chapters 1 through 5 of [R for Data Science](https://r4ds.had.co.nz/). You are strongly encouraged to work through the examples in an [R Notebook](https://bookdown.org/yihui/rmarkdown/notebook.html) as you read. 
+<!-- Read Chapters 1 through 5 of [R for Data Science](https://r4ds.had.co.nz/). You are strongly encouraged to work through the examples in an [R Notebook](https://bookdown.org/yihui/rmarkdown/notebook.html) as you read. 
 
 Complete problem 6 of the [3.6.1 Exercises](https://r4ds.had.co.nz/data-visualisation.html#exercises-3) and problem 5 of the [5.6.7 Exercises](https://r4ds.had.co.nz/transform.html#exercises-12).
 
-We'll be the first to admit that solutions to these problems are freely available online. However, we also want to stress that understanding these five chapters will make future assignments substantially easier.
+We'll be the first to admit that solutions to these problems are freely available online. However, we also want to stress that understanding these five chapters will make future assignments substantially easier. -->
 
-Completing the warm up will contribute positively to your participation grade. 
+Complete all of the [exercises](https://mybinder.org/v2/gh/stanford-policylab/mse125/HEAD?filepath=week_1%2Fintro-to-dplyr-ggplot2-exercises.ipynb) in the notebook for the first discussion section.
+Fully understanding these exercises will make this assignment, and future assignments, substantially easier.
+
+If you have any questions about the exercises, we encourage you to make a public Ed post so that others can benefit from the answer.
+Please make sure to follow the [Ed posting and debugging guidelines](ed_tips.md), and feel free to post anonymously if you'd prefer.
+
+You can find the answers to the exercises [here](https://mybinder.org/v2/gh/stanford-policylab/mse125/HEAD?filepath=week_1%2Fintro-to-dplyr-ggplot2-answers.ipynb).
+
+<!-- Completing the warm up will contribute positively to your participation grade.  -->
 
 
 ## Overview
