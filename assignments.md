@@ -12,13 +12,13 @@ description: Assignments, quizzes, and project details
 
 ## Assignment 0
 
-Due Date: Thursday, March 31, 11:45am PT
+Due Date: Monday, April 4, 11:30am PT
 
 In preparation for the first discussion section,
 install <a href="http://www.rstudio.com/">RStudio</a>
 (which in turn requires installing <a href="http://cran.rstudio.com/">R</a>).
 [Section 1.4](https://r4ds.had.co.nz/introduction.html#prerequisites) of R for Data Science has some tips for installation.
-Feel free to post on [Ed](https://canvas.stanford.edu) with any installation problems.
+Feel free to post on [Ed](https://canvas.stanford.edu) with any installation problems, and be sure to follow the [Ed posting norms](../ed_tips).
 
 Take a screenshot of RStudio installed on your machine with your full name written in the R console.
 Submit via [Canvas](canvas.stanford.edu).
@@ -49,7 +49,7 @@ Due date: Friday, April 22, 5pm PT
 
 ## Project proposal
 
-Due date: Tuesday, April 26, 9pm PT
+Due date: Tuesday, April 27, 9pm PT
 
 In teams of 2-5 people, please complete the [project proposal form](https://forms.gle/U43xgsifpU3Kng2H7).
 
@@ -69,9 +69,17 @@ It is ideal if all members of your group can attend the meeting but, at a minimu
 
 Upon completing the project, we'll ask each student to evaluate the contributions of their team members, and we'll consider these peer-reviews when determining final grades.
 
+## Assignment 4
+
+Linear Regression.
+
+Due date: Tuesday, May 3, 9pm PT
+
+[Assignment 4 details](assignment4.md).
+
 ## Quiz 1
 
-Thursday, April 28, 12:01am PT to 11:59pm PT
+Thursday, May 5, 12:01am PT to 11:59pm PT
 
 You will have 24 hours to complete the quiz.
 The quiz is open book/computer.
@@ -81,39 +89,33 @@ Instructions to access the quiz will be posted on Canvas at 12:01 am.
 
 **You must complete the quiz on your own. Giving or receiving any form of aid on the quiz is a violation of the honor code.**  
 
-The first quiz tests the conceptual ideas presented during weeks 1-3 (through parametric inference).
+<!-- The first quiz tests the conceptual ideas presented during weeks 1-3 (through parametric inference). -->
 
-## Assignment 4
-
-Linear Regression.
-
-Due date: Friday, May 6, 5pm PT
-
-[Assignment 4 details](assignment4.md).
+The first quiz tests the conceptual ideas presented during weeks 1-4 (approximately through the first two linear regression lectures).
 
 ## Assignment 5 
 
-Logistic regression.
+Logistic regression and bias-variance trade-offs.
 
-Due date: Friday, May 13, 5pm PT
+Due date: Friday, May 20, 5pm PT
 
 [Assignment 5 details](assignment5.md).
 
 ## Assignment 6
 
-Bias-variance trade-offs, cross-validation, and regularization.
+Cross-validation, regularization, and causal inference.
 
-Due date: Friday, May 20, 5pm PT
+Due date: Friday, May 27, 5pm PT
 
 [Assignment 6 details](assignment6.md).
 
-## Assignment 7 
+<!-- ## Assignment 7 
 
 Causal inference.
 
 Due date: Friday, May 27, 5pm PT
 
-[Assignment 7 details](assignment7.md).
+[Assignment 7 details](assignment7.md). -->
 
 ## Final project
 
@@ -139,4 +141,4 @@ Instructions to access the quiz will be posted on Canvas at 12:01 am.
 
 **You must complete the quiz on your own. Giving or receiving any form of aid on the quiz is a violation of the honor code.**  
 
-The second quiz tests the material presented in weeks 4-9.
+The second quiz tests the material presented in weeks 5-9 (linear regression and everything afterwards)

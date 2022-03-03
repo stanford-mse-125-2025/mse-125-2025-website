@@ -40,21 +40,21 @@ Correlation, simple linear regression, confidence & prediction intervals
 
 Optional reading: Part III of Statistics, and selected topics from Chapter 13 of All of Statistics
 
-## Week 5: Career Panel and Quiz
+## Week 5: Linear Regression II
 
 April 25-29, 2022
-
-Panel on data science careers in government, academia, and non-profits; take-home quiz
-
-Optional reading: None
-
-## Week 6: Linear Regression II
-
-May 2-6, 2022
 
 Multiple regression, feature generation, model evaluation, normal equations
 
 Optional reading: Selected topics from Chapter 13 of All of Statistics
+
+## Week 6: Career Panel and Quiz
+
+May 2-6, 2022
+
+Panel on data science careers in government, academia, and non-profits; take-home quiz
+
+Optional reading: None
 
 ## Week 7: Logistic Regression
 

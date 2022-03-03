@@ -23,6 +23,8 @@ seo:
 <!-- # Syllabus
 {: .no_toc } -->
 
+<mark>This course website is actively under construction. The syllabus is subject to change before the first day of class.</mark>
+
 1. TOC
 {:toc}
 
@@ -78,7 +80,7 @@ Please note that there are no regular office hours during the first week of clas
 
 ## Grading policies
 
-- 7 homework assignments (50%)
+- 6 homework assignments (50%)
 - 2 take-home quizzes (25%)
 - Project proposal and final project (20%)
 - Attendance and participation (5%)
