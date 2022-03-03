@@ -16,9 +16,9 @@ seo:
 # {{ site.tagline }}
 {: .no_toc }
 {: .mb-2 }
-{{ site.description }}
+<!-- {{ site.description }}
 {: .fs-6 .fw-300 }
-{: .no_toc }
+{: .no_toc } -->
 
 <!-- # Syllabus
 {: .no_toc } -->
@@ -56,15 +56,15 @@ Josh Grossman (Instructor) (jgrossman at stanford dot edu)
 
 * If you would like to request some music to play at the beginning of lecture, please fill out [this form](https://forms.gle/9NcD3YGjs9QH98587)!
 
-**Discussion Section**: Tuesdays @ 11:30am - 1pm (in person at TBD, 15 minutes after lecture)
+**Discussion Section**: Tuesdays @ 11:30am - 1pm (in person at 200-034, 15 minutes after lecture)
 
 **Office Hours**:
 
-* Tuesdays @ 2pm - 4pm PT (Will, in person at TBD)
+* Tuesdays @ 2pm - 4pm PT (Will, in person at Shriram 052)
 
-* Thursdays @ 11:15am - 1:15pm PT (Alex, in person at TBD)
+* Thursdays @ 11:15am - 1:15pm PT (Alex, in person at 200-124)
 
-* Thursdays @ 7pm - 9pm PT (Josh, in person at TBD)
+* Thursdays @ 7pm - 9pm PT (Josh, in person at Spilker 232)
 
 * Fridays @ 10am - 12pm PT (Rotating instructors, Zoom only)
 
