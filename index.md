@@ -115,7 +115,7 @@ We extensively use the suite of [tidyverse](https://www.tidyverse.org/) packages
 
 ## Attendance
 
-<!-- * Lectures and office hours are not recorded. The discussion section will be recorded. -->
+<!-- Lectures and office hours are not recorded. The discussion section will be recorded. -->
 
 * We do not plan on recording any component of the course.
 
