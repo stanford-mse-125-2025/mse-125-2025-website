@@ -37,7 +37,7 @@ Statistical estimators and confidence intervals.
 
 Due date: Friday, April 15, 5pm PT
 
-[Assignment 2 details](assignment2.md).
+<!-- [Assignment 2 details](assignment2.md). -->
 
 ## Assignment 3 
 
@@ -45,7 +45,7 @@ The bootstrap, MLEs, and the method of moments.
 
 Due date: Friday, April 22, 5pm PT
 
-[Assignment 3 details](assignment3.md).
+<!-- [Assignment 3 details](assignment3.md). -->
 
 ## Project proposal
 
@@ -75,7 +75,7 @@ Linear Regression.
 
 Due date: Tuesday, May 3, 9pm PT
 
-[Assignment 4 details](assignment4.md).
+<!-- [Assignment 4 details](assignment4.md). -->
 
 ## Quiz 1
 
@@ -99,7 +99,7 @@ Logistic regression and bias-variance trade-offs.
 
 Due date: Friday, May 20, 5pm PT
 
-[Assignment 5 details](assignment5.md).
+<!-- [Assignment 5 details](assignment5.md). -->
 
 ## Assignment 6
 
@@ -107,7 +107,8 @@ Cross-validation, regularization, and causal inference.
 
 Due date: Friday, May 27, 5pm PT
 
-[Assignment 6 details](assignment6.md).
+<!-- [Assignment 6 details](assignment6.md). -->
+
 
 <!-- ## Assignment 7 
 
@@ -116,6 +117,7 @@ Causal inference.
 Due date: Friday, May 27, 5pm PT
 
 [Assignment 7 details](assignment7.md). -->
+
 
 ## Final project
 

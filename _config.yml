@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: MS&E 125
 tagline: 'MS&E 125: Applied Statistics'
-description: MS&E Spring 2022
+description: MS&E 125 Spring 2022
 author: Josh Grossman
 baseurl: '/mse125' # the subpath of your site, e.g. /blog
 url: 'https://jdgrossman.com' # the base hostname & protocol for your site, e.g. http://example.com
