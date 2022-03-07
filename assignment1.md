@@ -26,13 +26,13 @@ Complete problem 6 of the [3.6.1 Exercises](https://r4ds.had.co.nz/data-visualis
 
 We'll be the first to admit that solutions to these problems are freely available online. However, we also want to stress that understanding these five chapters will make future assignments substantially easier. -->
 
-Complete all of the [exercises](https://mybinder.org/v2/gh/stanford-policylab/mse125/HEAD?filepath=week_1%2Fintro-to-dplyr-ggplot2-exercises.ipynb) in the notebook for the first discussion section.
+Complete all of the [exercises](https://colab.research.google.com/github/stanford-policylab/mse125/blob/main/week_1/intro-to-dplyr-ggplot2-exercises.ipynb) in the notebook for the first discussion section.
 Fully understanding these exercises will make this assignment, and future assignments, substantially easier.
 
 If you have any questions about the exercises, we encourage you to make a public Ed post so that others can benefit from the answer.
 Please make sure to follow the [Ed posting and debugging guidelines](ed_tips.md), and feel free to post anonymously if you'd prefer.
 
-You can find the answers to the exercises [here](https://mybinder.org/v2/gh/stanford-policylab/mse125/HEAD?filepath=week_1%2Fintro-to-dplyr-ggplot2-answers.ipynb).
+You can find the answers to the exercises [here](https://colab.research.google.com/github/stanford-policylab/mse125/blob/main/week_1/intro-to-dplyr-ggplot2-answers.ipynb).
 
 <!-- Completing the warm up will contribute positively to your participation grade.  -->
 

@@ -80,7 +80,7 @@ Please note that there are no regular office hours during the first week of clas
 
 ## Grading policies
 
-- 6 homework assignments (50%)
+- 7 homework assignments (50%)
 - 2 take-home quizzes (25%)
 - Project proposal and final project (20%)
 - Attendance and participation (5%)

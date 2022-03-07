@@ -28,5 +28,5 @@ and <a href="../r/visualization_code.html">code examples</a>.
 
 <div>
 <a href="https://colab.research.google.com/github/stanford-policylab/mse125/blob/main/week_1/intro-to-dplyr-ggplot2-exercises.ipynb">Exercises</a>
-|<a href="https://colab.research.google.com/github/stanford-policylab/mse125/blob/main/week_1/intro-to-dplyr-ggplot2-answers.ipynb">Answers</a>
+| <a href="https://colab.research.google.com/github/stanford-policylab/mse125/blob/main/week_1/intro-to-dplyr-ggplot2-answers.ipynb">Answers</a>
 </div>
