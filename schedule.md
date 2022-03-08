@@ -48,11 +48,11 @@ Multiple regression, feature generation, model evaluation, normal equations, log
 
 Optional reading: Selected topics from Chapter 13 of All of Statistics
 
-## Week 6: Quiz
+## Week 6: Quiz 1
 
 May 2-6, 2022
 
-Panel on data science careers in government, academia, and non-profits; take-home quiz
+Take-home quiz
 
 Optional reading: None
 
@@ -72,13 +72,15 @@ Rubin causal model, response surface modeling, instrumental variables, diff-in-d
 
 Optional reading: None
 
-## Week 8: Review
+## Week 9: Review and Career Panel
 
 May 23-27, 2022
 
+Review of course material; panel on data science careers in government, academia, and non-profits; 
+
 Optional reading: None
 
-## Week 10: More review and Quiz
+## Week 10: Review and Quiz 2
 
 May 30-June 3, 2022
 
