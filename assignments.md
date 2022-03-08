@@ -49,9 +49,9 @@ Due date: Friday, April 22, 5pm PT
 
 ## Project proposal
 
-Due date: Tuesday, April 27, 9pm PT
+Due date: Tuesday, April 26, 9pm PT
 
-In teams of 2-5 people, please complete the [project proposal form](https://forms.gle/U43xgsifpU3Kng2H7).
+In teams of 3-5 people, please complete the [project proposal form](https://forms.gle/U43xgsifpU3Kng2H7).
 
 You are free to pursue any topic related to applied statistics.
 In previous years, teams have considered
@@ -64,7 +64,7 @@ or a 10-minute video presentation.
 To help assess the feasibility and suitability of your project,
 please discuss your idea with the teaching staff before submitting your proposal.
 Your group should
-sign up for a [15-minute meeting slot]().
+sign up for a [15-minute meeting slot](https://docs.google.com/spreadsheets/d/1gOcAYn8pYtPeHvUYM9wq8JrmJb_oFxBvd97vADZ9Pgs/edit?usp=sharing).
 It is ideal if all members of your group can attend the meeting but, at a minimum, two members should be present. (This meeting is a required part of the assignment.)
 
 Upon completing the project, we'll ask each student to evaluate the contributions of their team members, and we'll consider these peer-reviews when determining final grades.
@@ -73,7 +73,7 @@ Upon completing the project, we'll ask each student to evaluate the contribution
 
 Linear Regression.
 
-Due date: Tuesday, May 3, 9pm PT
+Due date: Friday, April 29, 5pm PT
 
 <!-- [Assignment 4 details](assignment4.md). -->
 
@@ -125,11 +125,13 @@ Due date: Monday, May 30, 9pm PT
 
 Submit via Canvas.
 
+
 ## Peer evaluations for final project
 
 Due date: Tuesday, May 31, 9pm PT
 
 Form link TBD. 
+
 
 ## Quiz 2
 

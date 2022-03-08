@@ -40,15 +40,15 @@ Correlation, simple linear regression, confidence & prediction intervals
 
 Optional reading: Part III of Statistics, and selected topics from Chapter 13 of All of Statistics
 
-## Week 5: Linear Regression II
+## Week 5: Linear Regression II and Logistic Regression
 
 April 25-29, 2022
 
-Multiple regression, feature generation, model evaluation, normal equations
+Multiple regression, feature generation, model evaluation, normal equations, logistic regression, model evaluation
 
 Optional reading: Selected topics from Chapter 13 of All of Statistics
 
-## Week 6: Career Panel and Quiz
+## Week 6: Quiz
 
 May 2-6, 2022
 
@@ -56,31 +56,29 @@ Panel on data science careers in government, academia, and non-profits; take-hom
 
 Optional reading: None
 
-## Week 7: Logistic Regression
+## Week 7: Bias-Variance Tradeoff
 
 May 9-13, 2022
-
-Logistic regression, model evaluation
-
-Optional reading: Selected topics from Chapter 13 of All of Statistics
-
-## Week 8: Bias-Variance Tradeoff
-
-May 16-20, 2022
 
 Overfitting, under-fitting, cross-validation, regularization
 
 Optional reading: None
 
-## Week 9: Causal Inference
+## Week 8: Causal Inference
 
-May 23-27, 2022
+May 16-20, 2022
 
 Rubin causal model, response surface modeling, instrumental variables, diff-in-diff
 
 Optional reading: None
 
-## Week 10: Review and Quiz
+## Week 8: Review
+
+May 23-27, 2022
+
+Optional reading: None
+
+## Week 10: More review and Quiz
 
 May 30-June 3, 2022
 
