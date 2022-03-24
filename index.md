@@ -23,7 +23,7 @@ seo:
 <!-- # Syllabus
 {: .no_toc } -->
 
-<mark>This course website is actively under construction. The syllabus is subject to change before the first day of class.</mark>
+<mark>[Birthday poll for Lecture 1](https://forms.gle/HD31q74acUfYNroV7) </mark> (closed until lecture starts!)
 
 1. TOC
 {:toc}
