@@ -46,7 +46,7 @@ from one's gender identity.
 
 ## Problem 1
 
-Download the [female](assets/hw1/female_names.tsv.gz) and [male](assets/hw1/male_names.tsv.gz) baby name popularity data, which
+Download the [female](assets/hw1/female_names.tsv) and [male](assets/hw1/male_names.tsv) baby name popularity data, which
 gives the number of times each name was registered in the United States,
 annually, from 1880 to 2013.
 Join the two datasets into a single dataset with the following header:
@@ -78,12 +78,12 @@ The final result should be a data frame with one row per name, and the following
 `name | female | male | proportion_female | proportion_male`
 
 Explore the augmented data using the methods introduced in class 
-(e.g., descriptive summary statistics and scatterplots).
+(e.g., descriptive summary statistics and plots).
 Briefly comment on your methods and findings.
 
 ## Problem 3
 
-Examine the distribution of letter frequencies in the names of males and females with four histograms that show:
+Examine the distribution of letter frequencies in the names of males and females with four separate histogram plots that show, respectively:
 
 - Among females, the distribution of the first letter of their names
 - Among males, the distribution of the first letter of their names
@@ -91,7 +91,7 @@ Examine the distribution of letter frequencies in the names of males and females
 - Among males, the distribution of the last letter of their names
 
 To make it easier to compare the results, normalize the
-y-axis of the histograms to be a proportion (not a raw count).
+y-axis of the four histograms to be a proportion (not a raw count).
 For example, from your plots you should be able to easily see what proportion of
 women have first names that start with "a".
 
@@ -117,9 +117,11 @@ Please submit the following:
 1. your report as a single PDF file
 2. a single, fully functional R script or R markdown file that we can run to reproduce all the numerical results and plots in your report.
 
-We will put the original data files (`female_names.tsv.gz` and `male_names.tsv.gz`) into 
+We will put the original data files (`female_names.tsv` and `male_names.tsv`) into 
 the same directory as your script before running it, 
 so your script should load the data from the local directory using relative path names.
+<!-- Your code should import and unzip the gzipped TSV files.
+If you're using Safari, be sure to right click on the data links to save the data as a zipped TSV file (Safari unzips linked files by default). -->
 
 Please submit your work on Canvas.
 

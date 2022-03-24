@@ -56,7 +56,7 @@ Josh Grossman (Instructor) (jgrossman at stanford dot edu)
 
 * If you would like to request some music to play at the beginning of lecture, please fill out [this form](https://forms.gle/9NcD3YGjs9QH98587)!
 
-**Discussion Section**: Tuesdays @ 11:30am - 1pm (in person at 200-034, 15 minutes after lecture)
+**Discussion Section**: Tuesdays @ 11:30am - 1pm (in person at 200-034, classroom inside the History Corner, 15 minutes after lecture)
 
 **Office Hours**:
 
@@ -64,7 +64,7 @@ Josh Grossman (Instructor) (jgrossman at stanford dot edu)
 
 * Thursdays @ 11:15am - 1:15pm PT (Alex, in person at 200-124)
 
-* Thursdays @ 7pm - 9pm PT (Josh, in person at Spilker 232)
+* Thursdays @ 7pm - 9pm PT (Josh, in person at Huang 305)
 
 * Fridays @ 10am - 12pm PT (Rotating instructors, Zoom only)
 
@@ -80,9 +80,9 @@ Please note that there are no regular office hours during the first week of clas
 
 ## Grading policies
 
-- 7 homework assignments (50%)
+- 7 homework assignments + project proposal (50%)
 - 2 take-home quizzes (25%)
-- Project proposal and final project (20%)
+- Final project (20%)
 - Attendance and participation (5%)
 
 Late homework will not be accepted, but your lowest homework grade will be dropped.
@@ -101,7 +101,7 @@ so students can begin discussing the first homework assignment.
 
 ## Course communication 
 
-We use the [Ed platform](https://canvas.stanford.edu/) to manage course questions and discussion.
+We use the [Ed platform](https://edstem.org/us/courses/20790/discussion/) to manage course questions and discussion.
 
 We highly encourage you to use our (anonymous) 
 [comment box](https://forms.gle/XDECx7JKRNrM2BXq6)
@@ -119,7 +119,7 @@ We extensively use the suite of [tidyverse](https://www.tidyverse.org/) packages
 
 * We do not plan on recording any component of the course.
 
-* Lecture attendance is mandatory, and lecture attendance is a substantial component of the participation grade. If you cannot attend a lecture due to an extenuating circumstance, please email Josh before lecture starts. 
+* Lecture attendance is mandatory, and lecture attendance is a substantial component of the participation grade. We will periodically conduct attendance checks. If you cannot attend a lecture due to an extenuating circumstance, please email Josh before lecture starts. 
 
 <!-- The teaching staff may periodically conduct attendance checks. -->
 
@@ -148,7 +148,7 @@ through which students may request financial assistance to purchase any necessar
 
 Stanford is committed to providing equal educational opportunities for students with disabilities. 
 
-If you experience disability, please register with the Office of Accessible Education (OAE). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty. To get started, or to re-initiate services, please visit [oae.stanford.edu](oae.stanford.edu).
+If you experience disability, please register with the Office of Accessible Education (OAE). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty. To get started, or to re-initiate services, please visit [oae.stanford.edu](https://oae.stanford.edu).
 
 If you already have an Academic Accommodation Letter, we invite you to share your letter with us. Academic Accommodation Letters should be shared at the earliest possible opportunity so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.
 

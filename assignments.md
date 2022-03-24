@@ -91,7 +91,7 @@ Instructions to access the quiz will be posted on Canvas at 12:01 am.
 
 <!-- The first quiz tests the conceptual ideas presented during weeks 1-3 (through parametric inference). -->
 
-The first quiz tests the conceptual ideas presented during weeks 1-4 (through linear regression).
+The first quiz tests the conceptual ideas presented during weeks 1-4.
 
 ## Assignment 5 
 
@@ -145,4 +145,4 @@ Instructions to access the quiz will be posted on Canvas at 12:01 am.
 
 **You must complete the quiz on your own. Giving or receiving any form of aid on the quiz is a violation of the honor code.**  
 
-The second quiz tests the material presented in weeks 5-9 (linear regression and everything afterwards)
+The second quiz tests the material presented in weeks 5-9. Note that some of the concepts presented in weeks 5–9 draw on material from weeks 1–4, so you should be familiar with the week 1–4 material to the extent needed to understand the material from weeks 5–9.
