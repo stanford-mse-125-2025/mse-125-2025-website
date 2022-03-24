@@ -23,7 +23,7 @@ seo:
 <!-- # Syllabus
 {: .no_toc } -->
 
-<mark>[Birthday poll for Lecture 1](https://forms.gle/HD31q74acUfYNroV7) </mark> (closed until lecture starts!)
+[Birthday poll for Lecture 1](https://forms.gle/HD31q74acUfYNroV7) (closed until lecture starts!)
 
 1. TOC
 {:toc}
