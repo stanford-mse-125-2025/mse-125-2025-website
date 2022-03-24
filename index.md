@@ -23,7 +23,13 @@ seo:
 <!-- # Syllabus
 {: .no_toc } -->
 
-[Birthday poll for Lecture 1](https://forms.gle/HD31q74acUfYNroV7) (closed until lecture starts!)
+### [Birthday poll for Lecture 1](https://forms.gle/HD31q74acUfYNroV7) (closed until first lecture starts)
+{: .no_toc }
+
+### [Study group form](https://forms.gle/1xfXRZ968Xh9XEMY8) (complete by Thursday, March 31 at 9pm PT)
+{: .no_toc }
+
+<br>
 
 1. TOC
 {:toc}
