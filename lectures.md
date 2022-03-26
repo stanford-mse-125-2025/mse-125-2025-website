@@ -27,7 +27,7 @@ and <a href="../r/visualization_code.html">code examples</a>.
 ## Learn R with the birthday problem 
 
 <div>
-<!-- <a href="">Getting started video</a> | -->
+<a href="https://drive.google.com/file/d/1CUomty216z3-PJkAPrQayrNLz2W5dv64/view?usp=sharing">Getting started video</a> |
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_1/birthday-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_1/birthday-answers.ipynb">Answers</a>
 </div>
