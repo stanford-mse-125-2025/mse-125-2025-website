@@ -21,7 +21,7 @@ install <a href="http://www.rstudio.com/">RStudio</a>
 Feel free to post on [Ed](https://canvas.stanford.edu) with any installation problems, and be sure to follow the [Ed posting norms](../ed_tips).
 
 Take a screenshot of RStudio installed on your machine with your full name written in the R console.
-Submit via [Canvas](canvas.stanford.edu).
+Submit via [Canvas](https://canvas.stanford.edu).
 
 ## Assignment 1
 

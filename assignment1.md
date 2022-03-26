@@ -16,7 +16,7 @@ Please install [R](http://cran.rstudio.com/) and [RStudio](http://www.rstudio.co
 [Section 1.4](https://r4ds.had.co.nz/introduction.html#prerequisites) of R for Data Science has some tips for installation.
 If you're having trouble with the installation, be sure to post on Ed or come to office hours.
 
-If you need help with any problem on this assignment and would like to post on Ed, be sure to follow the [Ed posting norms](../ed_tips).
+If you need help with any problem on this assignment and would like to post on Ed, be sure to follow the [Ed posting norms](ed_tips.md).
 
 ## Warm up (Optional)
 

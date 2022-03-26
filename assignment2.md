@@ -15,7 +15,7 @@ You are welcome to work with others to master the principles and approaches used
 solve the homework problems, but the work you turn in should be your own.
 Under no circumstance should you seek out or look at solutions to assignments given in previous years.
 
-If you need help with any problem, be sure to follow the [Ed posting norms](../ed_tips).
+If you need help with any problem, be sure to follow the [Ed posting norms](ed_tips.md).
 
 ## Overview
 
