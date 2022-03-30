@@ -157,7 +157,7 @@ If you already have an Academic Accommodation Letter, we invite you to share you
 
 ## Diversity statement
 
-It is our intent that students from all backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. We aim to present materials and conduct activities in ways that are respectful of this diversity. Your suggestions are encouraged and appreciated. Please let us know if yiou have ideas to improve the effectiveness of the course for you personally or for other students or student groups.
+It is our intent that students from all backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. We aim to present materials and conduct activities in ways that are respectful of this diversity. Your suggestions are encouraged and appreciated. Please let us know if you have ideas to improve the effectiveness of the course for you personally or for other students or student groups.
 
 ## Acknowledgements
 
