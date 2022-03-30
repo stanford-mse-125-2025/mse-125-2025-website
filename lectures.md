@@ -38,3 +38,10 @@ and <a href="../r/visualization_code.html">code examples</a>.
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_1/intro-to-dplyr-ggplot2-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_1/intro-to-dplyr-ggplot2-answers.ipynb">Answers</a>
 </div>
+
+## Lecture 3: Intro to statistical inference
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPuyKFbxU3dC413n57XYWxGxw8AWvroxvPXA-EE7y3uKwSydUNfk8IMFMEI4yxrPWgEAzwraAJK16S/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+View <a href="https://docs.google.com/presentation/d/1f6fnbhkSuvxdQZPf_T0IVHeWzt4Y2PVRDdBWJEMIaz0/edit?usp=sharing">printable version</a>
+and <a href="../r/statistical_inference_1_code.html">code examples</a>.
