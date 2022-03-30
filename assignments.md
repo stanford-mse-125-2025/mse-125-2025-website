@@ -14,7 +14,7 @@ description: Assignments, quizzes, and project details
 
 Due Date: Monday, April 4, 11:30am PT
 
-In preparation for the first discussion section, first install <a href="http://cran.rstudio.com/">R, and then
+In preparation for the first discussion section, first install <a href="http://cran.rstudio.com/">R</a>, and then
 install <a href="http://www.rstudio.com/">RStudio</a>
 (you'll get an error if you install RStudio first!).
 [Section 1.4](https://r4ds.had.co.nz/introduction.html#prerequisites) of R for Data Science has some tips for installation.
