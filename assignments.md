@@ -14,9 +14,9 @@ description: Assignments, quizzes, and project details
 
 Due Date: Monday, April 4, 11:30am PT
 
-In preparation for the first discussion section,
+In preparation for the first discussion section, first install <a href="http://cran.rstudio.com/">R, and then
 install <a href="http://www.rstudio.com/">RStudio</a>
-(which in turn requires installing <a href="http://cran.rstudio.com/">R</a>).
+(you'll get an error if you install RStudio first!).
 [Section 1.4](https://r4ds.had.co.nz/introduction.html#prerequisites) of R for Data Science has some tips for installation.
 Feel free to post on [Ed](https://canvas.stanford.edu) with any installation problems, and be sure to follow the [Ed posting norms](../ed_tips).
 
