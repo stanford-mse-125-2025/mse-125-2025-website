@@ -45,3 +45,13 @@ and <a href="../r/visualization_code.html">code examples</a>.
 <div>
 View <a href="https://docs.google.com/presentation/d/1f6fnbhkSuvxdQZPf_T0IVHeWzt4Y2PVRDdBWJEMIaz0/edit?usp=sharing">printable version</a>
 and <a href="../r/statistical_inference_1_code.html">code examples</a>.
+</div>
+
+## Lecture 4: Confidence intervals
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXRLFJGrCXlxoZTeLpUsp89zwZS9a_8TRcPByQHzGttVIPKgj7ztipE_USYLLM-AlHvo6z3Cz1aKL_/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+View <a href="https://docs.google.com/presentation/d/1fqXg1N3jKjMrX-8VH8qRh5JqwU50vhIEHhNOCQiczDQ/edit?usp=sharing">printable version</a>
+and <a href="../r/statistical_inference_2_code.html">code examples</a>.
+</div>
+

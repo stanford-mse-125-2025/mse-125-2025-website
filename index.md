@@ -23,7 +23,10 @@ seo:
 <!-- # Syllabus
 {: .no_toc } -->
 
-### [Study group form](https://forms.gle/1xfXRZ968Xh9XEMY8) (complete by Thursday, March 31 at 9pm PT)
+<!-- ### [Study group form](https://forms.gle/1xfXRZ968Xh9XEMY8) (complete by Thursday, March 31 at 9pm PT)
+{: .no_toc } -->
+
+## Alex's Thursday 4/7 office hours have been moved to 3:15-5:15 @ Huang 315, and Will is filling in!
 {: .no_toc }
 
 <br>
