@@ -12,7 +12,7 @@ description: Assignments, quizzes, and project details
 
 ## Assignment 0
 
-Due Date: Monday, April 4, 11:30am PT
+Due Date: Tuesday, April 5, 11:30am PT
 
 In preparation for the first discussion section, first install <a href="http://cran.rstudio.com/">R</a>, and then
 install <a href="http://www.rstudio.com/">RStudio</a>
