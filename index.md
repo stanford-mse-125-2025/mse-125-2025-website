@@ -26,7 +26,7 @@ seo:
 <!-- ### [Study group form](https://forms.gle/1xfXRZ968Xh9XEMY8) (complete by Thursday, March 31 at 9pm PT)
 {: .no_toc } -->
 
-## Alex's Thursday 4/7 office hours have been moved to 3:15-5:15 @ Huang 315, and Will is filling in!
+## Alex's Thursday 4/7 office hours have been moved to 3:15-5:15 @ Huang B029, and Will is filling in! We may move to a bigger room, and we will announce on Ed if there is a room change.
 {: .no_toc }
 
 <br>
