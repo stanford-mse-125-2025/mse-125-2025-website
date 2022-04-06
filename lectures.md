@@ -59,3 +59,9 @@ View <a href="https://docs.google.com/presentation/d/1fqXg1N3jKjMrX-8VH8qRh5JqwU
 and <a href="../r/statistical_inference_2_code.html">code examples</a>.
 </div>
 
+## Week 2 discussion section: Estimators
+
+<div>
+<a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_2/estimators-exercises.ipynb">Exercises</a>
+| <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_2/estimators-answers.ipynb">Answers</a>
+<div>
