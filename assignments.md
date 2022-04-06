@@ -37,7 +37,7 @@ Statistical estimators and confidence intervals.
 
 Due date: Friday, April 15, 5pm PT
 
-<!-- [Assignment 2 details](assignment2.md). -->
+[Assignment 2 details](assignment2.md).
 
 ## Assignment 3 
 
