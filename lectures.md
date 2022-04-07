@@ -27,19 +27,23 @@ and <a href="../r/visualization_code.html">code examples</a>.
 ## Learn R with the birthday problem 
 
 <div>
-<a href="https://drive.google.com/file/d/1ESRLdNZIm37uKvySiX7sy57YbD6IWWBv/view?usp=sharing">Getting started video</a> |
+<!-- <a href="https://drive.google.com/file/d/1ESRLdNZIm37uKvySiX7sy57YbD6IWWBv/view?usp=sharing">Getting started video</a>  -->|
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_1/birthday-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_1/birthday-answers.ipynb">Answers</a>
 </div>
+
+A getting started with R video is available via Panopto on Canvas.
 
 ## Week 1 discussion section: Intro to R and tidyverse
 
 <div>
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_1/intro-to-dplyr-ggplot2-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_1/intro-to-dplyr-ggplot2-answers.ipynb">Answers</a>
-| <a href="https://drive.google.com/file/d/1wZn7-kgybRSpTJEUF8is8kzHUd9rAPB8/view?usp=sharing">Recording 1</a>
-| <a href="https://drive.google.com/file/d/1pR0ReqVHSHCFE1yi1NbO1KAXd1iJr88Q/view?usp=sharing">Recording 2</a>
+<!-- | <a href="https://drive.google.com/file/d/1wZn7-kgybRSpTJEUF8is8kzHUd9rAPB8/view?usp=sharing">Recording 1</a>
+| <a href="https://drive.google.com/file/d/1pR0ReqVHSHCFE1yi1NbO1KAXd1iJr88Q/view?usp=sharing">Recording 2</a> -->
 </div>
+
+Recordings of Discussion 1 are available via Panopto on Canvas.
 
 ## Lecture 3: Intro to statistical inference
 
