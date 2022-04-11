@@ -53,7 +53,7 @@ View <a href="https://docs.google.com/presentation/d/1f6fnbhkSuvxdQZPf_T0IVHeWzt
 and <a href="../r/statistical_inference_1_code.html">code examples</a>.
 </div>
 
-[Annotated slides (unfinished)](https://drive.google.com/file/d/1eyF3rLJ5zmTAbvUMMuVX7gt42LUOsqvq/view?usp=sharing)
+[Annotated slides](https://drive.google.com/file/d/1gQRaGgWKNPVZmSa7C0krHrBQXZYpq_fT/view?usp=sharing)
 
 ## Lecture 4: Confidence intervals
 
@@ -63,9 +63,28 @@ View <a href="https://docs.google.com/presentation/d/1fqXg1N3jKjMrX-8VH8qRh5JqwU
 and <a href="../r/statistical_inference_2_code.html">code examples</a>.
 </div>
 
+[Annotated slides](https://drive.google.com/file/d/12Us1ZrcBC0iSp7ilqjEF-TEWcVUQpJnW/view?usp=sharing)
+
+
 ## Week 2 discussion section: Estimators
 
 <div>
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_2/estimators-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_2/estimators-answers.ipynb">Answers</a>
+</div>
+
+## Lecture 5: The bootstrap
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR-VYNcFzwbLJ5Qp5AZ9jff-BcIeU2uIAK2lyZZ5TZDykFwFVRt6L68a3A4GyvpDunpeOF9zpnsG9N9/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <div>
+	View <a href="https://docs.google.com/presentation/d/1NuzSLs7hTgt8qqlZQr8ozbJKtiJE37Rg5crUEYp_qAg/edit?usp=sharing">printable version</a>
+	and <a href="../r/bootstrap_code.html">code examples</a>.
+</div>
+
+## Lecture 6: Parametric inference
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS68_K-LUHAnLq8LKjwn5bqoaL0km7Xe8b24p_hTrP-5j8-2NiOaq1juLnRLEbIz9WP_biG-yzaH4Dk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/1FFtcHE-oImpLkb8GjtXX3ocA5-ZQz13Xqa2xIUpOdWU/edit?usp=sharing">printable version</a>
+	and <a href="../r/parametric_inference_code.html">code examples</a>.
+</div>

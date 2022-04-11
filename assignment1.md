@@ -95,6 +95,8 @@ y-axis of the four histograms to be a proportion (not a raw count).
 For example, from your plots you should be able to easily see what proportion of
 women have first names that start with "a".
 
+Briefly comment on your methods and findings.
+
 Note that you can extract the first and last letters from a string in `R` using the [stringr](http://cran.r-project.org/web/packages/stringr/) package. For example,
 
 ```
