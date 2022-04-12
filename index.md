@@ -29,6 +29,9 @@ seo:
 ## Lecture on Tuesday 4/12 and Thursday 4/14 will be on Zoom. Zoom links are posted on Canvas. See Ed for more details. 
 {: .no_toc }
 
+## Discussion section on Tuesday 4/12 will also be on Zoom!
+{: .no_toc }
+
 <br>
 
 1. TOC
