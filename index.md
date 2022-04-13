@@ -20,17 +20,11 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-<!-- # Syllabus
-{: .no_toc } -->
-
-<!-- ### [Study group form](https://forms.gle/1xfXRZ968Xh9XEMY8) (complete by Thursday, March 31 at 9pm PT)
-{: .no_toc } -->
-
 ## Lecture on Tuesday 4/12 and Thursday 4/14 will be on Zoom. Zoom links are posted on Canvas. See Ed for more details. 
 {: .no_toc }
 
-<!-- ## Discussion section on Tuesday 4/12 will also be on Zoom!
-{: .no_toc } -->
+## All office hours on Thursday 4/14 (both Alex's and Josh's office hours) will also be on Zoom. 
+{: .no_toc }
 
 <br>
 
