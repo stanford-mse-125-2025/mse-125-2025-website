@@ -31,6 +31,8 @@ Due date: Friday, April 8, 5pm PT
 
 [Assignment 1 details](assignment1.md).
 
+Solutions posted on Canvas.
+
 ## Assignment 2
 
 Statistical estimators and confidence intervals.
@@ -45,7 +47,7 @@ The bootstrap, MLEs, and the method of moments.
 
 Due date: Friday, April 22, 5pm PT
 
-<!-- [Assignment 3 details](assignment3.md). -->
+[Assignment 3 details](assignment3.md).
 
 ## Project proposal
 
