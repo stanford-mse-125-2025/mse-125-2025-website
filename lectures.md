@@ -81,6 +81,8 @@ and <a href="../r/statistical_inference_2_code.html">code examples</a>.
 	and <a href="../r/bootstrap_code.html">code examples</a>.
 </div>
 
+[Annotated slides](https://drive.google.com/file/d/1bz4KMUUUYg4kb8tcOgrV1KasUiLNvWM8/view?usp=sharing)
+
 Recording on Canvas.
 
 ## Lecture 6: Parametric inference
@@ -90,5 +92,7 @@ Recording on Canvas.
 	View <a href="https://docs.google.com/presentation/d/1FFtcHE-oImpLkb8GjtXX3ocA5-ZQz13Xqa2xIUpOdWU/edit?usp=sharing">printable version</a>
 	and <a href="../r/parametric_inference_code.html">code examples</a>.
 </div>
+
+[Annotated slides](https://drive.google.com/file/d/10FD8P50DBjtf5JzL2AVEUeR1zMN0NeS5/view?usp=sharing)
 
 Recording on Canvas.

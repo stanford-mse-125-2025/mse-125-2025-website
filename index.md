@@ -20,10 +20,7 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-## Lecture on Tuesday 4/12 and Thursday 4/14 will be on Zoom. Zoom links are posted on Canvas. See Ed for more details. 
-{: .no_toc }
-
-## For the rest of the quarter, the discussion section and all office hours will take place on Zoom. 
+## For the rest of the quarter, the discussion section and all office hours will take place on Zoom. See Ed for more details.
 {: .no_toc }
 
 <br>
