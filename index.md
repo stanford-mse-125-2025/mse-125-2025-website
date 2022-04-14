@@ -23,7 +23,7 @@ seo:
 ## Lecture on Tuesday 4/12 and Thursday 4/14 will be on Zoom. Zoom links are posted on Canvas. See Ed for more details. 
 {: .no_toc }
 
-## All office hours on Thursday 4/14 (both Alex's and Josh's office hours) will also be on Zoom. 
+## For the rest of the quarter, the discussion section and all office hours will take place on Zoom. 
 {: .no_toc }
 
 <br>
@@ -59,21 +59,29 @@ Josh Grossman (Instructor) (jgrossman at stanford dot edu)
 
 * If you would like to request some music to play at the beginning of lecture, please fill out [this form](https://forms.gle/9NcD3YGjs9QH98587)!
 
-**Discussion Section**: Tuesdays @ 11:30am - 1pm (in person at 200-034, classroom inside the History Corner, 15 minutes after lecture)
+<!-- **Discussion Section**: Tuesdays @ 11:30am - 1pm (in person at 200-034, classroom inside the History Corner, 15 minutes after lecture) -->
+
+**Discussion Section**: Tuesdays @ 11:30am - 1pm on Zoom
 
 **Office Hours**:
 
-* Tuesdays @ 2pm - 4pm PT (Will, in person at Shriram 052)
+* Tuesdays @ 2pm - 4pm PT (Will, on Zoom)
+
+* Thursdays @ 11:15am - 1:15pm PT (Alex, on Zoom)
+
+* Thursdays @ 7pm - 9pm PT (Josh, on Zoom)
+
+<!-- * Tuesdays @ 2pm - 4pm PT (Will, in person at Shriram 052)
 
 * Thursdays @ 11:15am - 1:15pm PT (Alex, in person at 200-124)
 
-* Thursdays @ 7pm - 9pm PT (Josh, in person at Huang 305)
+* Thursdays @ 7pm - 9pm PT (Josh, in person at Huang 305) -->
 
-* Fridays @ 10am - 12pm PT (Rotating instructors, Zoom only)
+* Fridays @ 10am - 12pm PT (Rotating instructors, on Zoom)
 
 * We may add or reschedule office hours based on demand and student availability. Please let the course staff know if you have conflicts with all of the current times. 
 
-For security reasons, the Zoom link for the Friday office hour is posted on [Canvas](https://canvas.stanford.edu/).
+For security reasons, the Zoom links for the discussion section and office hours are posted on [Canvas](https://canvas.stanford.edu/).
 
 Office hours are a great opportunity to discuss not only topics directly related to the course, 
 but also anything else that's on your mind beyond the class, including, for example, 
@@ -95,12 +103,12 @@ You are welcome to work with others to master the principles and approaches used
 solve the homework problems, but the work you turn in should be your own.
 Under no circumstance should you seek out or look at solutions to assignments given in previous years.  
 
-## Study groups
+<!-- ## Study groups
 
 We encourage you to work together in groups to solidify your understanding of the course material. 
 If you would like assistance forming a study group, please complete [this form](https://forms.gle/1xfXRZ968Xh9XEMY8) by Thursday, March 31 at 9pm PT. 
 Our goal is to form the study groups the following day, 
-so students can begin discussing the first homework assignment.
+so students can begin discussing the first homework assignment. -->
 
 ## Course communication 
 
@@ -118,9 +126,9 @@ We extensively use the suite of [tidyverse](https://www.tidyverse.org/) packages
 
 ## Attendance
 
-<!-- Lectures and office hours are not recorded. The discussion section will be recorded. -->
+Lectures and office hours are not recorded. The discussion section will be recorded.
 
-* We do not plan on recording any component of the course.
+<!-- * We do not plan on recording any component of the course. -->
 
 * Lecture attendance is mandatory, and lecture attendance is a substantial component of the participation grade. We will periodically conduct attendance checks. If you cannot attend a lecture due to an extenuating circumstance, please email Josh before lecture starts. 
 
