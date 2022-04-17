@@ -77,7 +77,7 @@ Linear Regression.
 
 Due date: Friday, April 29, 5pm PT
 
-<!-- [Assignment 4 details](assignment4.md). -->
+[Assignment 4 details](assignment4.md).
 
 ## Quiz 1
 

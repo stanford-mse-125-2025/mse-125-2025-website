@@ -96,3 +96,10 @@ Recording on Canvas.
 [Annotated slides](https://drive.google.com/file/d/10FD8P50DBjtf5JzL2AVEUeR1zMN0NeS5/view?usp=sharing)
 
 Recording on Canvas.
+
+## Week 3 discussion section: The bootstrap
+
+<div>
+<a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_3/bootstrap-exercises.ipynb">Exercises</a>
+| <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_3/bootstrap-answers.ipynb">Answers</a>
+</div>
