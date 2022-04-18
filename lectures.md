@@ -97,11 +97,18 @@ Recording on Canvas.
 
 Recording on Canvas.
 
-## Week 3 discussion section: The bootstrap
+## Week 3 discussion section (Part 1): The bootstrap
 
 <div>
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_3/bootstrap-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_3/bootstrap-answers.ipynb">Answers</a>
+</div>
+
+## Week 3 discussion section (Part 2): Parametric inference
+
+<div>
+<a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_4/inference-exercises.ipynb">Exercises</a>
+| <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_4/inference-answers.ipynb">Answers</a>
 </div>
 
 ## Lecture 7: Correlation
@@ -134,4 +141,11 @@ Recording on Canvas.
 <div>
 	View <a href="https://docs.google.com/presentation/d/1uEA5eSn-MDH8Cs-ezfaiJtAPY2UyemilQQMrJzBrqO8/edit?usp=sharing">printable version</a>
 	and <a href="../r/regression_4_code.html">code examples</a>.
+</div>
+
+## Week 4 discussion section: Linear regression
+
+<div>
+<a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_5/regression-exercises.ipynb">Exercises</a>
+| <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_5/regression-answers.ipynb">Answers</a>
 </div>
