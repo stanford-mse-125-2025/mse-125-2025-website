@@ -103,3 +103,35 @@ Recording on Canvas.
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_3/bootstrap-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_3/bootstrap-answers.ipynb">Answers</a>
 </div>
+
+## Lecture 7: Correlation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpaykMoLT-wWdKNA595rAqRaTNvr_5aKx2n6GQLXM5OJJp2z4UwMDo2a7VkYLaSc-mrknDsejRNAtL/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/1TUJK7CM8daNp29YXX22IY0_8SPu4WJk4E0jK22HufNw/edit?usp=sharing">printable version</a>
+	and <a href="../r/regression_1_code.html">code examples</a>.
+</div>
+
+## Lecture 8: Simple linear regression
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSItoHcNX7Ld-XCBqXJT-I_3gLvSnNx0eE8iCyOO_7GBisvfsCsksjc9XcbNj1EFbnEFc_3r_wVDf7H/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/18L5BLfYf65GUHpBUUt0_uWpfF6LgW_SRlxNEQU-FeLM/edit?usp=sharing">printable version</a>
+	and <a href="../r/regression_2_code.html">code examples</a>.
+</div>
+
+## Lecture 9: Uncertainty in regression
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQamKt-WqBIRttN81gCjCSY5jRSgpRaxE0f02dO0NlBxnZqwiPCp7X2EcL92L92ZeDlCDBcv8xWkiOd/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/1C_p6CXodrj3C0mLn7qejBrPgk4QJS-obInefRYGYTgU/edit?usp=sharing">printable version</a>
+	and <a href="../r/regression_3_code.html">code examples</a>.
+</div>
+
+## Lecture 10: Model evaluation and feature generation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1_W-IyMb2jexicSC_nAsGr7a_IuV9CTZ_OtckS70_QQaPAq9YUkWw9kfBVGRxDYMJ2wRJ22x-KeJP/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/1uEA5eSn-MDH8Cs-ezfaiJtAPY2UyemilQQMrJzBrqO8/edit?usp=sharing">printable version</a>
+	and <a href="../r/regression_4_code.html">code examples</a>.
+</div>

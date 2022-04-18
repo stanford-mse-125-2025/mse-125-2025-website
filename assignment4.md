@@ -19,7 +19,8 @@ If you need help with any problem, be sure to follow the [Ed posting norms](../e
 
 ## Overview
 
-In this assignment you'll explore correlation, simple regression, multiple regression, confidence intervals, and prediction intervals.
+In this assignment you'll explore correlation, simple regression, multiple regression, and confidence intervals.
+<!-- and prediction intervals. -->
 
 ## Problem 1
 
@@ -79,13 +80,15 @@ data (i.e., what is the \(R^2\) and RMSE)?
 ### Problem 2, Part B
 
 Given a used Honda Accord with an odometer reading of 50,000 miles,
-compute the model estimated mean price, confidence
-interval for that mean, and the prediction interval of the price (You can use the
+compute the model estimated mean price and confidence
+interval for that mean
+<!-- and the prediction interval of the price  -->
+(You can use the
 <a href="https://stat.ethz.ch/R-manual/R-patched/library/stats/html/predict.lm.html" class="code">
     predict.lm</a> function in <span class="code">R</span>).
 Compute the model estimated mean price for a Honda Accord with an
 odometer reading of <strong>300,000</strong> miles.
-Based on the two results, what is a critical issue in your
+Based on the results, what is a critical issue in your
 current regression model?
 
 ### Problem 2, Part C
