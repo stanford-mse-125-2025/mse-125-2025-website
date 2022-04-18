@@ -41,6 +41,8 @@ Due date: Friday, April 15, 5pm PT
 
 [Assignment 2 details](assignment2.md).
 
+Solutions posted on Canvas.
+
 ## Assignment 3 
 
 The bootstrap, MLEs, and the method of moments.
