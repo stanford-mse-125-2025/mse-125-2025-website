@@ -104,12 +104,16 @@ Recording on Canvas.
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_3/bootstrap-answers.ipynb">Answers</a>
 </div>
 
+Recording on Canvas.
+
 ## Week 3 discussion section (Part 2): Parametric inference
 
 <div>
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_4/inference-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_4/inference-answers.ipynb">Answers</a>
 </div>
+
+Recording on Canvas.
 
 ## Lecture 7: Correlation
 
@@ -119,6 +123,8 @@ Recording on Canvas.
 	and <a href="../r/regression_1_code.html">code examples</a>.
 </div>
 
+[Annotated slides](https://drive.google.com/file/d/1uuUkMw3eRXG5EcsjdgXsojBDIDWmfO4p/view?usp=sharing)
+
 ## Lecture 8: Simple linear regression
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSItoHcNX7Ld-XCBqXJT-I_3gLvSnNx0eE8iCyOO_7GBisvfsCsksjc9XcbNj1EFbnEFc_3r_wVDf7H/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -127,7 +133,9 @@ Recording on Canvas.
 	and <a href="../r/regression_2_code.html">code examples</a>.
 </div>
 
-## Lecture 9: Uncertainty in regression
+[Annotated slides](https://drive.google.com/file/d/1thPHe6wL_XrsH95JMlAIYOUjbGHyxU-8/view?usp=sharing)
+
+## Lecture 9: Uncertainty in regression and multiple regression
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQamKt-WqBIRttN81gCjCSY5jRSgpRaxE0f02dO0NlBxnZqwiPCp7X2EcL92L92ZeDlCDBcv8xWkiOd/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <div>
