@@ -20,7 +20,7 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-## For the rest of the quarter, the discussion section and all office hours will take place on Zoom. See Ed for more details.
+## Required project meetings are happening this week! Sign up [here](https://docs.google.com/spreadsheets/d/1gOcAYn8pYtPeHvUYM9wq8JrmJb_oFxBvd97vADZ9Pgs/edit?usp=sharing).
 {: .no_toc }
 
 <br>
