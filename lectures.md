@@ -73,6 +73,8 @@ and <a href="../r/statistical_inference_2_code.html">code examples</a>.
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_2/estimators-answers.ipynb">Answers</a>
 </div>
 
+Recording on Canvas.
+
 ## Lecture 5: The bootstrap
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR-VYNcFzwbLJ5Qp5AZ9jff-BcIeU2uIAK2lyZZ5TZDykFwFVRt6L68a3A4GyvpDunpeOF9zpnsG9N9/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
