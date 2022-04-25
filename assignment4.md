@@ -43,7 +43,7 @@ causally related.
 Provide justification as to why you think the relationship is causal.
 Give one example of when two random variables are correlated but not
 causally related. Clearly justify why there is a correlation, and
-show that the relationship is not causal by indentifying a confounder.
+show that the relationship is not causal by identifying a confounder.
 
 
 ## Problem 2

@@ -20,8 +20,8 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-## Required project meetings are happening this week! Sign up [here](https://docs.google.com/spreadsheets/d/1gOcAYn8pYtPeHvUYM9wq8JrmJb_oFxBvd97vADZ9Pgs/edit?usp=sharing).
-{: .no_toc }
+<!-- ## announcement template
+{: .no_toc } -->
 
 <br>
 
