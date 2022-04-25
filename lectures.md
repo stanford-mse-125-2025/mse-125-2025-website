@@ -145,6 +145,8 @@ Recording on Canvas.
 	and <a href="../r/regression_3_code.html">code examples</a>.
 </div>
 
+[Annotated slides](https://drive.google.com/file/d/14zcZECwlarDZlpKp5fbYrnEO9mIy7ZIK/view?usp=sharing)
+
 ## Lecture 10: Model evaluation and feature generation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1_W-IyMb2jexicSC_nAsGr7a_IuV9CTZ_OtckS70_QQaPAq9YUkWw9kfBVGRxDYMJ2wRJ22x-KeJP/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -153,9 +155,26 @@ Recording on Canvas.
 	and <a href="../r/regression_4_code.html">code examples</a>.
 </div>
 
+[Annotated slides](https://drive.google.com/file/d/1f5-oALVjUhTdQL5gr26O2dakxYhTAZs-/view?usp=sharing)
+
 ## Week 4 discussion section: Linear regression
 
 <div>
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_5/regression-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_5/regression-answers.ipynb">Answers</a>
+</div>
+
+## Lectures 11 and 12: Logistic regression and classification
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQ7BcVzVnc9vDaazkb_N9rQ6VMF3K14q2DnnKFJXbVyxRiqya5bAM6evCrB8On6TnmVsRdf3eARH_2/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/12-qgCwijL6tSF4NIVoxQCIN6Zyzez1SUg1eOmdzD3_A/edit?usp=sharing">printable version</a>
+	and <a href="../r/classification_1_code.html">code examples</a>.
+</div>
+
+## Week 5 discussion section: Logistic regression
+
+<div>
+<a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_6/logistic-exercises.ipynb">Exercises</a>
+| <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_6/logistic-answers.ipynb">Answers</a>
 </div>
