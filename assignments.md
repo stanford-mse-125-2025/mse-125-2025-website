@@ -95,19 +95,20 @@ Instructions to access the quiz will be posted on Canvas at 12:01 am.
 
 <!-- The first quiz tests the conceptual ideas presented during weeks 1-3 (through parametric inference). -->
 
-The first quiz tests the conceptual ideas presented during weeks 1-4.
+The first quiz tests the conceptual ideas presented during weeks 1-4 (through linear regression).
 
 ## Assignment 5 
 
-Logistic regression and bias-variance trade-offs.
+<!-- Logistic regression and bias-variance trade-offs. -->
+Logistic regression.
 
 Due date: Friday, May 13, 5pm PT
 
-<!-- [Assignment 5 details](assignment5.md). -->
+[Assignment 5 details](assignment5.md).
 
 ## Assignment 6
 
-Cross-validation and regularization.
+Bias-variance trade-offs, cross-validation, and regularization.
 
 Due date: Friday, May 20, 5pm PT
 
