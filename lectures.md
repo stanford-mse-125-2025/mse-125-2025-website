@@ -164,11 +164,19 @@ Recording on Canvas.
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_5/regression-answers.ipynb">Answers</a>
 </div>
 
-## Lectures 11 and 12: Logistic regression and classification
+## Lecture 11: Logistic regression
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQ7BcVzVnc9vDaazkb_N9rQ6VMF3K14q2DnnKFJXbVyxRiqya5bAM6evCrB8On6TnmVsRdf3eARH_2/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <div>
 	View <a href="https://docs.google.com/presentation/d/12-qgCwijL6tSF4NIVoxQCIN6Zyzez1SUg1eOmdzD3_A/edit?usp=sharing">printable version</a>
+	and <a href="../r/classification_1_code.html">code examples</a>.
+</div>
+
+## Lecture 12: Classification error metrics
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpJgAf6Ph_ldBLrJk8oMnl_o8bvS7FKL4OdeMouQX-XGY36XWmuqdWpr8XilxJhW9oXpQQNXEkHxtG/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/1X8T_NpScPGmwb97CfhqwLLQZ7CLmGoCaLFvthF3lSAM/edit?usp=sharing">printable version</a>
 	and <a href="../r/classification_1_code.html">code examples</a>.
 </div>
 
