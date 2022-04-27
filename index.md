@@ -20,8 +20,8 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-<!-- ## announcement template
-{: .no_toc } -->
+## Study for Quiz 1 and get points back! See [this Ed post](https://edstem.org/us/courses/20790/discussion/1451599) for details.
+{: .no_toc }
 
 <br>
 
