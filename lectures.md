@@ -172,6 +172,8 @@ Recording on Canvas.
 	and <a href="../r/classification_1_code.html">code examples</a>.
 </div>
 
+[Annotated slides](https://drive.google.com/file/d/1s2XaTZ-yd7CkT-p4AjDrWfcNh8tD5tTF/view?usp=sharing)
+
 ## Lecture 12: Classification error metrics
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpJgAf6Ph_ldBLrJk8oMnl_o8bvS7FKL4OdeMouQX-XGY36XWmuqdWpr8XilxJhW9oXpQQNXEkHxtG/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -179,6 +181,8 @@ Recording on Canvas.
 	View <a href="https://docs.google.com/presentation/d/1X8T_NpScPGmwb97CfhqwLLQZ7CLmGoCaLFvthF3lSAM/edit?usp=sharing">printable version</a>
 	and <a href="../r/classification_1_code.html">code examples</a>.
 </div>
+
+[Annotated slides](https://drive.google.com/file/d/1SHhz07K8jN_AYmxjVclkfdr3oaZh4D4z/view?usp=sharing)
 
 ## Week 5 discussion section: Logistic regression
 

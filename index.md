@@ -23,6 +23,18 @@ seo:
 ## Study for Quiz 1 and get points back! See [this Ed post](https://edstem.org/us/courses/20790/discussion/1451599) for details.
 {: .no_toc }
 
+## Add topics you want to cover in Tuesday's quiz review [here](https://forms.gle/EmB7YkWFvR1BxgqZ9).
+{: .no_toc }
+
+## There is no lecture on the day of the quiz (Thursday 5/5). Further, we will turn off public posting on Ed while the quiz is released. 
+{: .no_toc }
+
+## Thursday 5/5 office hours have been moved to Wednesday 5/4. Alex's office hours are 11am-1pm on Wednesday 5/4, and Josh's are 7-9pm.
+{: .no_toc }
+
+## Friday 5/6 office hours are cancelled. Enjoy your Friday after the quiz!
+{: .no_toc }
+
 <br>
 
 1. TOC
