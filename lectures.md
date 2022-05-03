@@ -127,6 +127,8 @@ Recording on Canvas.
 
 [Annotated slides](https://drive.google.com/file/d/1uuUkMw3eRXG5EcsjdgXsojBDIDWmfO4p/view?usp=sharing)
 
+Recording on Canvas.
+
 ## Lecture 8: Simple linear regression
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSItoHcNX7Ld-XCBqXJT-I_3gLvSnNx0eE8iCyOO_7GBisvfsCsksjc9XcbNj1EFbnEFc_3r_wVDf7H/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -136,6 +138,8 @@ Recording on Canvas.
 </div>
 
 [Annotated slides](https://drive.google.com/file/d/1thPHe6wL_XrsH95JMlAIYOUjbGHyxU-8/view?usp=sharing)
+
+Recording on Canvas.
 
 ## Lecture 9: Uncertainty in regression and multiple regression
 
@@ -147,6 +151,8 @@ Recording on Canvas.
 
 [Annotated slides](https://drive.google.com/file/d/14zcZECwlarDZlpKp5fbYrnEO9mIy7ZIK/view?usp=sharing)
 
+Recording on Canvas.
+
 ## Lecture 10: Model evaluation and feature generation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1_W-IyMb2jexicSC_nAsGr7a_IuV9CTZ_OtckS70_QQaPAq9YUkWw9kfBVGRxDYMJ2wRJ22x-KeJP/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -157,12 +163,16 @@ Recording on Canvas.
 
 [Annotated slides](https://drive.google.com/file/d/1f5-oALVjUhTdQL5gr26O2dakxYhTAZs-/view?usp=sharing)
 
+Recording on Canvas.
+
 ## Week 4 discussion section: Linear regression
 
 <div>
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_5/regression-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_5/regression-answers.ipynb">Answers</a>
 </div>
+
+Recording on Canvas.
 
 ## Lecture 11: Logistic regression
 
@@ -174,6 +184,8 @@ Recording on Canvas.
 
 [Annotated slides](https://drive.google.com/file/d/1s2XaTZ-yd7CkT-p4AjDrWfcNh8tD5tTF/view?usp=sharing)
 
+Recording on Canvas.
+
 ## Lecture 12: Classification error metrics
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpJgAf6Ph_ldBLrJk8oMnl_o8bvS7FKL4OdeMouQX-XGY36XWmuqdWpr8XilxJhW9oXpQQNXEkHxtG/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -184,9 +196,19 @@ Recording on Canvas.
 
 [Annotated slides](https://drive.google.com/file/d/1SHhz07K8jN_AYmxjVclkfdr3oaZh4D4z/view?usp=sharing)
 
+Recording on Canvas.
+
 ## Week 5 discussion section: Logistic regression
 
 <div>
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_6/logistic-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_6/logistic-answers.ipynb">Answers</a>
 </div>
+
+## Quiz Review Lecture
+
+Notes on Ed.
+
+Recording on Canvas.
+
+
