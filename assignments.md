@@ -112,7 +112,7 @@ Bias-variance trade-offs, cross-validation, and regularization.
 
 Due date: Friday, May 20, 5pm PT
 
-<!-- [Assignment 6 details](assignment6.md). -->
+[Assignment 6 details](assignment6.md).
 
 
 ## Assignment 7 

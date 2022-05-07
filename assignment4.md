@@ -86,7 +86,7 @@ interval for that mean
 (You can use the
 <a href="https://stat.ethz.ch/R-manual/R-patched/library/stats/html/predict.lm.html" class="code">
     predict.lm</a> function in <span class="code">R</span>).
-Compute the model estimated mean price for a Honda Accord with an
+Compute the model estimated mean price and confidence interval for a Honda Accord with an
 odometer reading of <strong>300,000</strong> miles.
 Based on the results, what is a critical issue in your
 current regression model?

@@ -211,4 +211,26 @@ Notes on Ed.
 
 Recording on Canvas.
 
+## Lecture 13: Bias-variance tradeoff
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRefqtCJYMKykaZQx55BfYq3MqtAIwxO3mQ6H5G_yfh12S4_LUcIj_blMjAUgd8BGGZ90lA7J56C8jm/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/13b-tQAy1VcHBPKu8wPdqsZmvZybwBZWdMx_8p8T-StE/edit?usp=sharing">printable version</a>
+	and <a href="../r/bias_variance_code.html">code examples</a>.
+</div>
+
+## Lecture 14: Regularization
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrPAclPdiYQ9OUdMJVOQXry30kG4B5d8WBv6ypscqJbCvJ3vKw_9fz7jRX1SLCn80QwFJOiAH4-UFl/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/1d6W13a1hQCRWYqilCDxaVo6BmLk8NY73xhEs_l0Sd84/edit?usp=sharing">printable version</a>.
+</div>
+
+## Week 7 discussion section: Regularization
+
+<div>
+<a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_7/regularization-exercises.ipynb">Exercises</a>
+| <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_7/regularization-answers.ipynb">Answers</a>
+</div>
+
 

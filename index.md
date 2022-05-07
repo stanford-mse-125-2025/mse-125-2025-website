@@ -20,23 +20,8 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-## Study for Quiz 1 and get points back! See [this Ed post](https://edstem.org/us/courses/20790/discussion/1451599) for details.
-{: .no_toc }
-
-## Add topics you want to cover in Tuesday's quiz review [here](https://forms.gle/EmB7YkWFvR1BxgqZ9).
-{: .no_toc }
-
-## There is no lecture on the day of the quiz (Thursday 5/5). Further, we will turn off public posting on Ed while the quiz is released. 
-{: .no_toc }
-
-## There is no discussion section the week of the quiz.
-{: .no_toc }
-
-## Thursday 5/5 office hours have been moved to Wednesday 5/4. Alex's office hours are 11am-1pm on Wednesday 5/4, and Josh's are 7-9pm.
-{: .no_toc }
-
-## Friday 5/6 office hours are cancelled. Enjoy your Friday after the quiz!
-{: .no_toc }
+<!-- ## Friday 5/6 office hours are cancelled. Enjoy your Friday after the quiz!
+{: .no_toc } -->
 
 <br>
 
@@ -138,7 +123,7 @@ We extensively use the suite of [tidyverse](https://www.tidyverse.org/) packages
 
 ## Attendance
 
-Lectures and office hours are not recorded. The discussion section will be recorded.
+Office hours are not recorded. Lectures and the discussion section will be recorded, though we cannot guarantee audio or video quality.
 
 <!-- * We do not plan on recording any component of the course. -->
 
