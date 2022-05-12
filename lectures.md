@@ -205,6 +205,8 @@ Recording on Canvas.
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_6/logistic-answers.ipynb">Answers</a>
 </div>
 
+Recording on Canvas.
+
 ## Quiz Review Lecture
 
 Notes on Ed.
@@ -219,12 +221,16 @@ Recording on Canvas.
 	and <a href="../r/bias_variance_code.html">code examples</a>.
 </div>
 
+[Annotated slides](https://drive.google.com/file/d/1p_oyyN3Jp1PvWWBONlGCRbEBn40NMEO8/view?usp=sharing)
+
 ## Lecture 14: Regularization
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrPAclPdiYQ9OUdMJVOQXry30kG4B5d8WBv6ypscqJbCvJ3vKw_9fz7jRX1SLCn80QwFJOiAH4-UFl/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <div>
 	View <a href="https://docs.google.com/presentation/d/1d6W13a1hQCRWYqilCDxaVo6BmLk8NY73xhEs_l0Sd84/edit?usp=sharing">printable version</a>.
 </div>
+
+[Annotated slides](https://drive.google.com/file/d/1c7emo6yy8TzSlZ4VTauuWkn7--BVlkje/view?usp=sharing)
 
 ## Week 7 discussion section: Regularization
 

@@ -20,8 +20,8 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-<!-- ## Friday 5/6 office hours are cancelled. Enjoy your Friday after the quiz!
-{: .no_toc } -->
+## Alex's Thursday 5/19 office hours have been moved to 5-7pm on Wednesday 5/18!
+{: .no_toc }
 
 <br>
 
