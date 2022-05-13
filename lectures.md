@@ -223,6 +223,8 @@ Recording on Canvas.
 
 [Annotated slides](https://drive.google.com/file/d/1p_oyyN3Jp1PvWWBONlGCRbEBn40NMEO8/view?usp=sharing)
 
+Recording on Canvas.
+
 ## Lecture 14: Regularization
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrPAclPdiYQ9OUdMJVOQXry30kG4B5d8WBv6ypscqJbCvJ3vKw_9fz7jRX1SLCn80QwFJOiAH4-UFl/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -232,11 +234,38 @@ Recording on Canvas.
 
 [Annotated slides](https://drive.google.com/file/d/1c7emo6yy8TzSlZ4VTauuWkn7--BVlkje/view?usp=sharing)
 
+Recording on Canvas.
+
 ## Week 7 discussion section: Regularization
 
 <div>
 <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_7/regularization-exercises.ipynb">Exercises</a>
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_7/regularization-answers.ipynb">Answers</a>
 </div>
+
+<div class="week-title">Week 7 discussion section: Regularization</div>
+<div>
+<a href="https://mybinder.org/v2/gh/stanford-policylab/mse125/HEAD?filepath=week_7%2Fregularization-exercises.ipynb">Exercises</a>
+| <a href="https://mybinder.org/v2/gh/stanford-policylab/mse125/HEAD?filepath=week_7%2Fregularization-answers.ipynb">Answers</a>
+</div>
+
+## Lecture 15: Causal inference I
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBiyumFzbBqtrSv_d7ZVyJclY7o4yVenUeH2a7Y0Kd90iKpc3yeG6_GN7pGVcMOPjTmiiZJIExHiSc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/1H4vs1Abgm3cL0OxnsNpAqjtnTiN67UNW4SdCX-IUVbE/edit?usp=sharing">printable version</a>.
+</div>
+
+## Lecture 15: Causal inference II
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZ2l1hBVBjMjBAZbdoLybjrdAo1P3r8_plbEWWm3ftqlxFxpo4-bhY_7ANl_J5J2nplK4sWtpPfP2I/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/1H0MufmbOn84ZKJeWRZnVo9LoSjrvoKEPq9AqG6cPNxo/edit?usp=sharing">printable version</a>.
+</div>
+
+## Week 8 discussion section: Extra project office hours
+
+No exercises this week.
+
 
 

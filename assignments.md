@@ -51,6 +51,8 @@ Due date: Friday, April 22, 5pm PT
 
 [Assignment 3 details](assignment3.md).
 
+Solutions posted on Canvas.
+
 ## Project proposal
 
 Due date: Tuesday, April 26, 9pm PT
@@ -81,6 +83,8 @@ Due date: Friday, April 29, 5pm PT
 
 [Assignment 4 details](assignment4.md).
 
+Solutions posted on Canvas.
+
 ## Quiz 1
 
 Thursday, May 5, 12:01am PT to 11:59pm PT
@@ -99,7 +103,6 @@ The first quiz tests the conceptual ideas presented during weeks 1-4 (through li
 
 ## Assignment 5 
 
-<!-- Logistic regression and bias-variance trade-offs. -->
 Logistic regression.
 
 Due date: Friday, May 13, 5pm PT
@@ -121,7 +124,7 @@ Causal inference.
 
 Due date: Friday, May 27, 5pm PT
 
-<!-- [Assignment 7 details](assignment7.md). -->
+[Assignment 7 details](assignment7.md).
 
 
 ## Final project
