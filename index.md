@@ -20,7 +20,10 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-## Alex's Thursday 5/19 office hours have been moved to 5-7pm on Wednesday 5/18!
+## Alex's Thursday 5/19 office hours have been moved to 5-7pm on Wednesday 5/18.
+{: .no_toc }
+
+## Josh's Thursday 5/19 office hours have been moved one hour earlier to 6-8pm.
 {: .no_toc }
 
 <br>
