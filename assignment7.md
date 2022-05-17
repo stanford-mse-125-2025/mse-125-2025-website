@@ -123,15 +123,17 @@ separately,
 among never-treats in the control group. How to do this:
 
 * First, estimate the number of never-treats in the control group
-                who died from breast cancer. Why is this quantity unobserved?
-                What is the rationale for your estimate?
+who died from breast cancer. Why is this quantity unobserved?
+What is the rationale for your estimate?
 
 * Now, use this information to estimate the number of deaths from
-                breast cancer among compliers in the control group. Finally,
-                estimate the death rate per 1,000 women among compliers in the
-                control group,
-                and also estimate the death rate per 1,000 women among
-                never-treats in the control group.
+breast cancer among compliers in the control group. 
+
+* Finally,
+estimate the death rate per 1,000 women among compliers in the
+control group,
+and also estimate the death rate per 1,000 women among
+never-treats in the control group.
 
 ### Problem 2, Part G
 

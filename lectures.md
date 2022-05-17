@@ -243,12 +243,6 @@ Recording on Canvas.
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_7/regularization-answers.ipynb">Answers</a>
 </div>
 
-<div class="week-title">Week 7 discussion section: Regularization</div>
-<div>
-<a href="https://mybinder.org/v2/gh/stanford-policylab/mse125/HEAD?filepath=week_7%2Fregularization-exercises.ipynb">Exercises</a>
-| <a href="https://mybinder.org/v2/gh/stanford-policylab/mse125/HEAD?filepath=week_7%2Fregularization-answers.ipynb">Answers</a>
-</div>
-
 ## Lecture 15: Causal inference I
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBiyumFzbBqtrSv_d7ZVyJclY7o4yVenUeH2a7Y0Kd90iKpc3yeG6_GN7pGVcMOPjTmiiZJIExHiSc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
