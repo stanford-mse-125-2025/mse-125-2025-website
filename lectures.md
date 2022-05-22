@@ -243,6 +243,8 @@ Recording on Canvas.
 | <a href="https://colab.research.google.com/github/joshuagrossman/mse125-discussion/blob/main/week_7/regularization-answers.ipynb">Answers</a>
 </div>
 
+Recording on Canvas.
+
 ## Lecture 15: Causal inference I
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBiyumFzbBqtrSv_d7ZVyJclY7o4yVenUeH2a7Y0Kd90iKpc3yeG6_GN7pGVcMOPjTmiiZJIExHiSc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -250,12 +252,16 @@ Recording on Canvas.
 	View <a href="https://docs.google.com/presentation/d/1H4vs1Abgm3cL0OxnsNpAqjtnTiN67UNW4SdCX-IUVbE/edit?usp=sharing">printable version</a>.
 </div>
 
+[Annotated slides](https://drive.google.com/file/d/16qzfTrjD4InU8Cd1K0QqWWgP3Aga2upK/view?usp=sharing)
+
 ## Lecture 15: Causal inference II
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZ2l1hBVBjMjBAZbdoLybjrdAo1P3r8_plbEWWm3ftqlxFxpo4-bhY_7ANl_J5J2nplK4sWtpPfP2I/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <div>
 	View <a href="https://docs.google.com/presentation/d/1H0MufmbOn84ZKJeWRZnVo9LoSjrvoKEPq9AqG6cPNxo/edit?usp=sharing">printable version</a>.
 </div>
+
+[Annotated slides](https://drive.google.com/file/d/1UDLfom30TXRVLgYvCWbvosnDWimcxGML/view?usp=sharing)
 
 ## Week 8 discussion section: Extra project office hours
 

@@ -20,10 +20,7 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-## Alex's Thursday 5/19 office hours have been moved to 5-7pm on Wednesday 5/18.
-{: .no_toc }
-
-## Josh's Thursday 5/19 office hours have been moved one hour earlier to 6-8pm.
+## Tuesday 5/24 and Thursday 5/26 lecture is on Zoom! Back in person on Tuesday 5/31.
 {: .no_toc }
 
 <br>
