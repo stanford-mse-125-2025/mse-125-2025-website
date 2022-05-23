@@ -157,8 +157,9 @@ This should be identical to your answer in (g).
 Prepare a short report detailing your results.
 
 Please submit the following:
-1. your report as a single PDF file
-2. a single, fully functional `R` script or markdown file that we can run to reproduce all the numerical results and plots in your report.
+1. your report as a single PDF file that shows all work needed to derive your numerical answers. 
+
+There is no need to submit a .Rmd or .R file. 
 
 Be sure to read [these report tips](report_tips.md) before preparing your submission. 
 Reports that are difficult to parse may lose credit. 
