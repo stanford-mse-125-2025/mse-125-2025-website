@@ -20,7 +20,7 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-## Tuesday 5/24 and Thursday 5/26 lecture is on Zoom! Back in person on Tuesday 5/31.
+## Our last lecture is in person on Tuesday 5/31. We will review the sample quiz together!
 {: .no_toc }
 
 <br>

@@ -109,6 +109,8 @@ Due date: Friday, May 13, 5pm PT
 
 [Assignment 5 details](assignment5.md).
 
+Solutions posted on Canvas.
+
 ## Assignment 6
 
 Bias-variance trade-offs, cross-validation, and regularization.
@@ -116,6 +118,8 @@ Bias-variance trade-offs, cross-validation, and regularization.
 Due date: Friday, May 20, 5pm PT
 
 [Assignment 6 details](assignment6.md).
+
+Solutions posted on Canvas.
 
 
 ## Assignment 7 
@@ -131,14 +135,16 @@ Due date: Friday, May 27, 5pm PT
 
 Due date: Monday, May 30, 9pm PT
 
-Submit via Canvas.
+Submit a 10-page written report or a 10-minute video presentation via Canvas.
+
+Only one team member needs to submit, though please list your team members in the submission comment box. 
 
 
 ## Peer evaluations for final project
 
 Due date: Tuesday, May 31, 9pm PT
 
-Form link TBD. 
+Form link is [here](https://forms.gle/rKfgfAsMxMivoGbV6).
 
 
 ## Quiz 2
