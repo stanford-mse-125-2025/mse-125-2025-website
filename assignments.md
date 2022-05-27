@@ -133,12 +133,13 @@ Due date: Friday, May 27, 5pm PT
 
 ## Final project
 
-Due date: Monday, May 30, 9pm PT
+Due date: Tuesday, May 31, 9pm PT
 
 Submit a 10-page written report or a 10-minute video presentation via Canvas.
 
-Only one team member needs to submit, though please list your team members in the submission comment box. 
+Only one team member needs to submit the project, though please list your team members in the submission comment box. 
 
+Confidential peer evaluations are due at the same time, and should be submitted separately by each team member. Please use the form linked below. 
 
 ## Peer evaluations for final project
 
