@@ -267,5 +267,12 @@ Recording on Canvas.
 
 No exercises this week.
 
+## Quiz 2 Review Lecture
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlF-P7GsiWV6Z3DUkVoSTcQLv33VHVShW0fhkfTD6JwIebIO4EXH08fnJP9_TAJ4rrir6DKnCJrlux/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div>
+	View <a href="https://docs.google.com/presentation/d/1bS1qbmZNclaEz8dHuRSFv_1o7eNLYKsmsx0CK26Fvg0/edit?usp=sharing">printable version</a>.
+</div>
+
 
 
