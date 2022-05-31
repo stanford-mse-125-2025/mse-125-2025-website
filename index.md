@@ -20,8 +20,8 @@ seo:
 {: .fs-6 .fw-300 }
 {: .no_toc } -->
 
-## Our last lecture is in person on Tuesday 5/31. We will review the sample quiz together!
-{: .no_toc }
+<!-- ## Our last lecture is in person on Tuesday 5/31. We will review the sample quiz together!
+{: .no_toc } -->
 
 <br>
 

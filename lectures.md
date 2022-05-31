@@ -274,5 +274,8 @@ No exercises this week.
 	View <a href="https://docs.google.com/presentation/d/1bS1qbmZNclaEz8dHuRSFv_1o7eNLYKsmsx0CK26Fvg0/edit?usp=sharing">printable version</a>.
 </div>
 
+[Annotated slides](https://drive.google.com/file/d/1HnG9XRuOyq4K4jRFysadNSZzmOSKmBmZ/view?usp=sharing)
+
+Recording on Canvas.
 
 
