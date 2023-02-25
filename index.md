@@ -166,5 +166,5 @@ It is our intent that students from all backgrounds and perspectives be well ser
 
 ## Acknowledgements
 
-The MS&E 125 materials were originally developed by [Sharad Goel](https://5harad.com/). Thanks Sharad!
+The MS&E 125 materials were adapted from course content developed by [Sharad Goel](https://5harad.com/). Thanks Sharad!
 
