@@ -28,131 +28,120 @@ seo:
 1. TOC
 {:toc}
 
-## Course description
+## Course Description
 
-An increasing amount of data is now generated in a variety of disciplines, 
-ranging from finance and economics, to the natural and social sciences.
-Making use of this information requires both statistical tools and an
-understanding of how the substantive scientific questions should drive
-the analysis. In this hands-on course, we learn to explore and analyze
-real-world datasets. We cover techniques for summarizing and describing data,
-methods for statistical inference, and principles for effectively communicating 
-results.
+Effectively analyzing data plays a crucial role across various disciplines, 
+enabling data-driven decision-making, knowledge discovery, and predictive modeling. 
+This course provides an introduction to many foundational tools in applied data science, 
+including data manipulation, hypothesis testing, and linear regression. 
+The curriculum combines mathematical concepts with practical examples, 
+placing a strong emphasis on developing programming skills in Python.
+
 
 Prerequisites:
 MS&E 120 or equivalent, and CS 106A or equivalent
 
-## Course staff
+## Course Staff
 
-Josh Grossman (Instructor) (jgrossman at stanford dot edu)
+[Mike Van Ness](https://mvanness354.github.io/blog/) (Instructor) (mvanness at stanford dot edu)
 
-[Will Cai](http://www.whereiswillcai.com/) (CA) (willcai at stanford dot edu)
+Alex Patel (CA) (patel24 at stanford dot edu)
 
-[Alex Chohlas-Wood](https://www.alexchohlaswood.com/) (CA) (alexcw at stanford dot edu)
+Cami Nicollier Sanchez (CA) (camilans at stanford dot edu)
 
-## Class schedule
+Elizabeth Griffin (CA) (elizg at stanford dot edu)
 
-**Lecture**: Tuesdays & Thursdays @ 9:45am - 11:15am PT at 380Y (in the basement of Building 380, the Sloan Math Corner)
+Louisa Edwards (CA) (edwardsl at stanford dot edu)
 
-* If you would like to request some music to play at the beginning of lecture, please fill out [this form](https://forms.gle/9NcD3YGjs9QH98587)!
+## Class Schedule
 
-<!-- **Discussion Section**: Tuesdays @ 11:30am - 1pm (in person at 200-034, classroom inside the History Corner, 15 minutes after lecture) -->
+**Lecture**: Tuesdays & Thursdays @ 1:30pm - 2:45pm PT at  Hewlett Teaching Center 201
 
-**Discussion Section**: Tuesdays @ 11:30am - 1pm on Zoom
+In-person lecture attendance is required. 
 
-**Office Hours**:
-
-* Tuesdays @ 2pm - 4pm PT (Will, on Zoom)
-
-* Thursdays @ 11:15am - 1:15pm PT (Alex, on Zoom)
-
-* Thursdays @ 7pm - 9pm PT (Josh, on Zoom)
-
-<!-- * Tuesdays @ 2pm - 4pm PT (Will, in person at Shriram 052)
-
-* Thursdays @ 11:15am - 1:15pm PT (Alex, in person at 200-124)
-
-* Thursdays @ 7pm - 9pm PT (Josh, in person at Huang 305) -->
-
-* Fridays @ 10am - 12pm PT (Rotating instructors, on Zoom)
+**Office Hours**: TBD
 
 * We may add or reschedule office hours based on demand and student availability. Please let the course staff know if you have conflicts with all of the current times. 
 
-For security reasons, the Zoom links for the discussion section and office hours are posted on [Canvas](https://canvas.stanford.edu/).
+## Grading Components
 
-Office hours are a great opportunity to discuss not only topics directly related to the course, 
-but also anything else that's on your mind beyond the class, including, for example, 
-questions about career trajectories, and [research opportunities](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research) in MS&E and beyond.
+The final grade breakdown is as follows:
 
-Please note that there are no regular office hours during the first week of class, but feel free to schedule an appointment if you would like to meet.
-
-## Grading policies
-
-- 7 homework assignments + project proposal (50%)
-- 2 take-home quizzes (25%)
+- Homework (40%)
+- Quizzes (30%)
 - Final project (20%)
-- Attendance and participation (5%)
+- Attendance (10%)
 
-Late homework will not be accepted, but your lowest homework grade will be dropped.
+### Homework
 
-Unless otherwise stated, assignments are to be done individually.
-You are welcome to work with others to master the principles and approaches used to
-solve the homework problems, but the work you turn in should be your own.
-Under no circumstance should you seek out or look at solutions to assignments given in previous years.  
+All homework assignments are to be completely individually unless otherwise stated.
+You may discuss homework assignments at a high level with other students,
+but all final work must be your own.
 
-<!-- ## Study groups
+There will be 6 homework assignments throughout the quarter.
+Homeworks assignments will generally be due Thursdays at 11:59pm. 
 
-We encourage you to work together in groups to solidify your understanding of the course material. 
-If you would like assistance forming a study group, please complete [this form](https://forms.gle/1xfXRZ968Xh9XEMY8) by Thursday, March 31 at 9pm PT. 
-Our goal is to form the study groups the following day, 
-so students can begin discussing the first homework assignment. -->
+Each student is alloted **5 slip days** for homework assignments. 
+- Each slip day adds 24 hours to the original deadline.
+- You may only use a maximum of **2 slip days per assignment**. This ensures that homework solutions can be released in a timely manner.
+- Additional extension will only be granted with an OAE accommodation letter, or extraordinary circumstances.
 
-## Course communication 
+### Quizzes
 
-We use the [Ed platform](https://edstem.org/us/courses/20790/discussion/) to manage course questions and discussion.
+There will be 2 in-lecture quizzes. 
+These quizzes are currently scheduled for **May 1st and June 3rd**. 
+The second quiz will be cumulative and will act as a final exam. 
+There will be a redemption policy for Quiz 2, meaning that if you score higher on Quiz 2 
+than on Quiz 1, your Quiz 2 score will replace your Quiz 1 score.
+There will be no additional exam during the final exam period.
 
-We highly encourage you to use our (anonymous) 
-[comment box](https://forms.gle/XDECx7JKRNrM2BXq6)
-to let us know which aspects of the class
-are going well and which could be improved.
+### Final Project
 
-## Computing environment
+The course final project will give you hands-on experience doing data analysis 
+on a dataset of your choosing.
+The project will completed in teams of 3, and will contain a written report and a presentation.
+The due date will be sometime during the final exam period.
+For more details, see *link to project coming soon*.
 
-We primarily use [R](http://www.r-project.org/), and [RStudio](http://www.rstudio.com/) is the recommended interface.
-We extensively use the suite of [tidyverse](https://www.tidyverse.org/) packages.
+### Attendance 
 
-## Attendance
+In-person attendance is required for all lectures. 
+If you attend all lectures, you will receive a 100% participation grade. 
+To track lecture attendance, there will be an ungraded concept check to complete at the beginning of every class.
 
-Office hours are not recorded. Lectures and the discussion section will be recorded, though we cannot guarantee audio or video quality.
+If you cannot attend a lecture because of an excused absence, please fill out this [Google Form](https://docs.google.com/forms/d/1nSkVoMYxIGgAOCQC8j6HMaOTqqAwu7St-Fi15f_XbR8/edit?usp=drive_web) **before** the lecture.
+Excused asbences include:
+- Illness.
+- Personal emergencies.
+- Important life or professional events.
+- Pre-planned athletic events or travel.
 
-<!-- * We do not plan on recording any component of the course. -->
+Lectures will be recorded and posted on Canvas. However, lecture recordings are only meant to supplement in-person lecture attendance. You should only learn material for the first time via a lecture recording if you needed to miss class with an excused absence.
 
-* Lecture attendance is mandatory, and lecture attendance is a substantial component of the participation grade. We will periodically conduct attendance checks. If you cannot attend a lecture due to an extenuating circumstance, please email Josh before lecture starts. 
+## Course Communication 
 
-<!-- The teaching staff may periodically conduct attendance checks. -->
+We use the [Ed platform](https://edstem.org/us/courses/76656/discussion) to manage course questions and discussion.
+We encourage students to make public Ed posts whenever possible so that all students can learn from the resulting discussion.
+Please make private Ed posts when needed instead of emailing course staff, unless you have a question or concern you'd only like to share with an individual member of the course staff.
 
-* Laptops and phones are not allowed in lecture, though you are permitted to use a tablet to take handwritten notes. [This article](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html) explains why we have this policy.
+## Study Groups
 
-* We highly encourage you to attend discussion sections, and be sure to bring your laptop. That being said, attendance is not mandatory. The discussion section will consist of one-on-one help with hands-on exercises that prepare you for the homework assignments. 
+We encourage you to work together in groups to solidify your understanding of the course material.
+If you would like assistance forming a study group, please complete [this form](https://docs.google.com/forms/d/1CYz_CjkqpF2EHOqD_NArX6RboUCjbrb4DmHY3omI7po/edit) by Monday, April 8 at 5pm PT. Our goal is to form the study groups the following day, so students can begin discussing the first homework assignment.
 
-<!-- This experience is typically much more valuable and enjoyable if attended in person, though we will attempt to stream the discussion section via Zoom.  -->
+## Policy on Large Language Models (LLMs)
 
-## Textbooks (Optional)
+LLMs like ChatGPT are becoming increasingly essential in the workplace. To that end, the use of LLMs is not only permitted in this course, but encouraged. Use this course as an opportunity to learn where LLMs are most useful, and where they fall short.
 
-[All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/), by Larry Wasserman
+Many coding problems from past iterations of the course can now be fully solved by freely-available LLMs. With this advantange in mind, the difficulty and extent of coding required for this course may be increased compared to previous years.
+Other aspects of the course including in-person quizzes and project presentations will not be affected by LLMs.
 
-[R for Data Science](http://r4ds.had.co.nz), by Garrett Grolemund and Hadley Wickham
+Lastly, while we encourage the use of LLMs, we strongly discourage copying the output of an LLM directly to answer a homework question. 
+An increasingly important skill is evaluating the output of an LLM and using only the parts that are correct.
+To that end, we may deduct points from homework assignments if multiple answers appear to be taken directly from the output of an LLM.
+This is especially true for non-coding questions, where writing responses in your own words is critical.
 
-[Statistics](http://books.wwnorton.com/books/webad.aspx?id=11597), by David Freedman, Robert Pisani, and Roger Purves
-
-[Natural Experiments in the Social Sciences](http://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/natural-experiments-social-sciences-design-based-approach), by Thad Dunning
-
-All of the key resources for this class are avilable online, free of charge. 
-However, please note that the MS&E department has an 
-[Opportunity Fund](https://forms.gle/QQKJArhELRVYeFnr7)
-through which students may request financial assistance to purchase any necessary course materials.
-
-## Access and accommodations
+## Access and Accommodations
 
 Stanford is committed to providing equal educational opportunities for students with disabilities. 
 
@@ -160,11 +149,15 @@ If you experience disability, please register with the Office of Accessible Educ
 
 If you already have an Academic Accommodation Letter, we invite you to share your letter with us. Academic Accommodation Letters should be shared at the earliest possible opportunity so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.
 
+## Academic Coaching
+
+Want help navigating the ups and downs of academic life at Stanford? Feeling overwhelmed by your coursework, anxious about exams, or simply curious if the way you’re studying is actually working for you? Sign up for a free 1:1 academic coaching session. Academic Coaches can help you come up with a personalized action plan to address things like procrastination, motivation, focus, time management, exam preparation and anxiety, reading & note-taking, learning as a neurodivergent student, and much more. Sign up at [academicskills.stanford.edu](academicskills.stanford.edu), and check out other free Academic Skills resources at [studentlearning.stanford.edu](academicskills.stanford.edu).
+
 ## Diversity statement
 
 It is our intent that students from all backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. We aim to present materials and conduct activities in ways that are respectful of this diversity. Your suggestions are encouraged and appreciated. Please let us know if you have ideas to improve the effectiveness of the course for you personally or for other students or student groups.
 
 ## Acknowledgements
 
-The MS&E 125 materials were adapted from course content developed by [Sharad Goel](https://5harad.com/). Thanks Sharad!
+The MS&E 125 materials were adapted from course content developed by [Josh Grossman](https://jdgrossman.com), [Madeleine Udell](https://web.stanford.edu/~udell/), and [Sharad Goel](https://5harad.com/).
 

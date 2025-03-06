@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MS&E 125
-tagline: 'MS&E 125: Applied Statistics'
+tagline: 'MS&E 125: Introduction to Applied Statistics'
 description: MS&E 125 Spring 2025
 author: Mike Van Ness
 baseurl: '/mse-125-2025'
@@ -38,8 +38,8 @@ footer_content:
 collections:
   staffers:
   modules:
-  schedules:
-  announcements:
+  # schedules:
+  # announcements:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -53,16 +53,16 @@ defaults:
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
+  # - scope:
+  #     path: ''
+  #     type: schedules
+  #   values:
+  #     layout: schedule
+  # - scope:
+  #     path: ''
+  #     type: announcements
+  #   values:
+  #     layout: announcement
 
 compress_html:
   clippings: all
