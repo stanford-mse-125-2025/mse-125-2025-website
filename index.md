@@ -118,6 +118,15 @@ Excused asbences include:
 
 Lectures will be recorded and posted on Canvas. However, lecture recordings are only meant to supplement in-person lecture attendance. You should only learn material for the first time via a lecture recording if you needed to miss class with an excused absence.
 
+## Lecture Laptops Policy
+
+Laptops and tablets with attached keyboard are not allowed during lectures. 
+This is in response to recent research that suggests that laptop use during lectures, especially for work unrelated to the course, reducing learning outcomes for students (see e.g. [this paper](https://psywebserv.psych.colostate.edu/ResearchPool/Article1.pdf)). 
+You're welcome to use tablets during lecture that lie flat for note taking, reviewing course content, etc.
+If you feel you would benefit from being able to use a tablet but don't own a tablet, consider renting one from [Lanthrop](https://thehub.stanford.edu/borrow-equipment) for the quarter.
+If you need to use a laptop during lecture for OAE-related reasons, place notify the course staff.
+Repeated use of laptops during lecture without excuse will result in a reduced attendance grade.
+
 ## Course Communication 
 
 We use the [Ed platform](https://edstem.org/us/courses/76656/discussion) to manage course questions and discussion.
