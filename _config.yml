@@ -17,8 +17,8 @@ title: MS&E 125
 tagline: 'MS&E 125: Introduction to Applied Statistics'
 description: MS&E 125 Spring 2025
 author: Mike Van Ness
-baseurl: '/mse-125-2025'
-url: 'https://mvanness354.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/mse-125-2025-website'
+url: 'https://stanford-mse-125-2025.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
