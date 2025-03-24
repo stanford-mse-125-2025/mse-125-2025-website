@@ -25,6 +25,11 @@ seo:
 
 <br>
 
+**Quick Links**:
+
+- [Gradescope](https://www.gradescope.com/courses/998456)
+- [Ed Discussion](https://edstem.org/us/courses/76656/discussion)
+
 1. TOC
 {:toc}
 
