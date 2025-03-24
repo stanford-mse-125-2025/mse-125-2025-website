@@ -39,11 +39,17 @@ placing a strong emphasis on developing programming skills in Python.
 
 
 Prerequisites:
-MS&E 120 or equivalent, and CS 106A or equivalent
+Math 51 or CME 100 or equivalent.
+
+Recommended Prerequisites:
+MS&E 120 or equivalent, CS 106A or equivalent.
+
 
 ## Course Staff
 
 [Mike Van Ness](https://mvanness354.github.io/blog/) (Instructor) (mvanness at stanford dot edu)
+
+- You can often find me at my desk on the second floor of Huang.
 
 Alex Patel (CA) (patel24 at stanford dot edu)
 
@@ -59,9 +65,22 @@ Louisa Edwards (CA) (edwardsl at stanford dot edu)
 
 In-person lecture attendance is required. 
 
-**Office Hours**: TBD
+**Office Hours**: 
+
+- Cami: Mon 3:30-4:30pm Huang B007
+- Elizabeth: Tue 4:30-5:30pm Huang B019
+- Alex: Wed 10-11am Huang B019
+- Louisa: Wed 5:30-6:30pm Huang B019
+- Mike: Thu 10-11am Huang B020
 
 * We may add or reschedule office hours based on demand and student availability. Please let the course staff know if you have conflicts with all of the current times. 
+
+**Extra Probability Lecture**:
+
+We will be holding an optional lecture on probability on **Monday April 7th at 8pm on Zoom**. 
+This lecture is intended for students without previous exposure to probability,
+but is worth attending for any students looking to brush up on probability fundamentals.
+The lecture will be recorded and posted to Canvas.
 
 ## Grading Components
 
@@ -85,6 +104,8 @@ Each student is alloted **5 slip days** for homework assignments.
 - Each slip day adds 24 hours to the original deadline.
 - You may only use a maximum of **2 slip days per assignment**. This ensures that homework solutions can be released in a timely manner.
 - Additional extension will only be granted with an OAE accommodation letter, or extraordinary circumstances.
+
+**Extra coding HW0**: An optional HW0 is available now for those looking for an introduction to the Python programming language.
 
 ### Quizzes
 
@@ -116,7 +137,9 @@ Excused asbences include:
 - Important life or professional events.
 - Pre-planned athletic events or travel.
 
-Lectures will be recorded and posted on Canvas. However, lecture recordings are only meant to supplement in-person lecture attendance. You should only learn material for the first time via a lecture recording if you needed to miss class with an excused absence.
+Lecture recordings will be available for a limited time for those who miss lecture with an excused absence.
+
+Note: lecture attendance will not be recorded for week 1 due to fluctuation in enrollment.
 
 ## Lecture Laptops Policy
 

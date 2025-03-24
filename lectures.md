@@ -16,3 +16,4 @@ title: Lectures
 <div>
 View <a href="https://docs.google.com/presentation/d/1Tpyksl3dZy4DUtXbT3X9IjX-ZUWka1xsbnHN0t65W4g/edit?usp=sharing">printable version</a>.
 </div>
+View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/data_manipulation.ipynb">demo notebook </a>.
