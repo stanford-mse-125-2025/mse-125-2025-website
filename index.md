@@ -58,7 +58,7 @@ MS&E 120 or equivalent, CS 106A or equivalent.
 
 Alex Patel (CA) (patel24 at stanford dot edu)
 
-Cami Nicollier Sanchez (CA) (camilans at stanford dot edu)
+Camila Nicollier Sanchez (CA) (camilans at stanford dot edu)
 
 Elizabeth Griffin (CA) (elizg at stanford dot edu)
 
