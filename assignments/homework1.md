@@ -36,7 +36,7 @@ Here are some resources you might find helpful as a starting point:
 
 **Submission**:
 - Upload your screencast to Google Drive.
-- Fill out [this Google form] with a link to your screencast.
+- Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfeTx21z0zXhG5okU66J_pY0g-2jXKtq2gTTXcUYpBmdV96iQ/viewform?usp=dialog) with a link to your screencast.
 - Additionally, put the link to your screencast in your Gradescope submission in the indicated place (see below).
 
 ## Notebook
