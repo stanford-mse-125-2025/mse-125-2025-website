@@ -32,3 +32,9 @@ View <a href="https://docs.google.com/presentation/d/121sHjWQWglSEMEpvL32wpFOU6d
 <div>
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/plotting.ipynb">demo notebook </a>.
 </div>
+
+# Optional Probability Lecture
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkaYpi3subyzb11HvY36iBB7iH1GmxXswmiex8poDGYGdzveoqJjZTvJPcdX8TueeRS8HGjh6DZsW8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Lecture recording available on Canvas.
