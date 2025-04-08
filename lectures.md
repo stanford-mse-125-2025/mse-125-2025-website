@@ -41,8 +41,8 @@ Lecture recording available on Canvas.
 
 ## Lecture 3: Estimation and Standard Error
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4cv9wa9KTAw_bUb331JuVdGLXpdb_4_kDtykYDRUcq1AYrML8POfIUdMI3YJi6E99pKKKscIQ64Zj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzeO_urTr_tWvz5Ssb7h93fShic6E_v0Swq3zXx8tRyTFPmYclbqtdj01wZg_5uY1D0Lc4t1PrIbfe/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <div>
-View <a href="https://docs.google.com/presentation/d/1oJkZRCSwFhy_fMS4DJbFFkHY8VU4F5-ZUeQzKcFOBhk/edit?usp=sharing">printable version</a>.
+View <a href="https://docs.google.com/presentation/d/1k--_3SYNxLu3aKdw-688ZEyd4MEfvfDb3voWD2sA87I/edit?usp=sharing">printable version</a>.
 </div>
