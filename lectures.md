@@ -33,8 +33,16 @@ View <a href="https://docs.google.com/presentation/d/121sHjWQWglSEMEpvL32wpFOU6d
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/plotting.ipynb">demo notebook </a>.
 </div>
 
-# Optional Probability Lecture
+## Optional Probability Lecture
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkaYpi3subyzb11HvY36iBB7iH1GmxXswmiex8poDGYGdzveoqJjZTvJPcdX8TueeRS8HGjh6DZsW8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Lecture recording available on Canvas.
+
+## Lecture 3: Estimation and Standard Error
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4cv9wa9KTAw_bUb331JuVdGLXpdb_4_kDtykYDRUcq1AYrML8POfIUdMI3YJi6E99pKKKscIQ64Zj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1oJkZRCSwFhy_fMS4DJbFFkHY8VU4F5-ZUeQzKcFOBhk/edit?usp=sharing">printable version</a>.
+</div>
