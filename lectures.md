@@ -46,3 +46,15 @@ Lecture recording available on Canvas.
 <div>
 View <a href="https://docs.google.com/presentation/d/1k--_3SYNxLu3aKdw-688ZEyd4MEfvfDb3voWD2sA87I/edit?usp=sharing">printable version</a>.
 </div>
+
+## Lecture 4: Confidence Intervals
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQH_wUil8ElXhgG894312sTc1ZHmGHte8Dhc5XVT4yoyTZVi6F36IYdx1uAjQq5SZZ4TdIu099LYklo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1dfIM-EigE85GAramXIShE1n4lJkkqPE0Es7U-ORLTAc/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/19CfrBMTbDcRm5IInGDKYEjvj1dqYTslV3VrV1Nyj1KQ/edit?usp=sharing">worksheet</a>
+</div>
