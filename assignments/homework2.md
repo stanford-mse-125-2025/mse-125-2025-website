@@ -15,16 +15,16 @@ solve the homework problems, but the work you turn in should be your own.
 
 ## Poll Creation
 
-Create a poll of your choice that your classmates will answer.
+Create a poll of your choice, centered around a topic of your choice that you are interested in learning more about, that your classmates will answer.
 - The poll should be created using Google Forms.
 - The poll should extract some type of quantitative data that can be analyzed further using Python.
-- The poll should have THREE (3) questions, that are straightforward and easily interpretable by your classmates.
+- The poll should have THREE (3) questions, that are straightforward and easily interpretable by your classmates, centered along a central theme.
 
-Here is an example question:
+Suppose I want to learn more about caffeine consumption on campus -- here is an example question I might choose to include in my poll:
 - Question: How many cups of coffee do you drink daily?
 - Answer choices: (A) 0, (B) 1, (C) 2, (D) 3, (E) 4, (F) 5+
 
-Here is another example question:
+Here is another example question, supposing I was interested in learning more about course loads amongst my peers:
 - Question: How many units are you enrolled in right now?
 - Answer choices: (Input Box Requiring Number)
 
