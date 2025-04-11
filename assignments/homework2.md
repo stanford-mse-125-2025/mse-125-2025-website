@@ -18,7 +18,7 @@ solve the homework problems, but the work you turn in should be your own.
 Create a poll of your choice that your classmates will answer.
 - The poll should be created using Google Forms.
 - The poll should extract some type of quantitative data that can be analyzed further using Python.
-- The poll should have THREE (3) questions, that are straightfowrard and easily interpretable by your classmates.
+- The poll should have THREE (3) questions, that are straightforward and easily interpretable by your classmates.
 
 Here is an example question:
 - Question: How many cups of coffee do you drink daily?
