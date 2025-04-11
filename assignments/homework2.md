@@ -24,7 +24,7 @@ Here is an example question:
 - Question: How many cups of coffee do you drink daily?
 - Answer choices: (A) 0, (B) 1, (C) 2, (D) 3, (E) 4, (F) 5+
 
-- Here is another example question:
+Here is another example question:
 - Question: How many units are you enrolled in right now?
 - Answer choices: (Input Box Requiring Number)
 
