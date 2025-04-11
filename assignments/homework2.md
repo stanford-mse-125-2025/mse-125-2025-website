@@ -28,6 +28,8 @@ Here is another example question:
 - Question: How many units are you enrolled in right now?
 - Answer choices: (Input Box Requiring Number)
 
+NOTE: You are not to fill out other polls just yet, we will let you know when.
+
 **Submission**:
 - Fill out [this Google sheet](https://docs.google.com/spreadsheets/d/1NnGaO8c4BHo3Naqw0fyIrykgKp9I0Ipxx5rdpgWbSxg/edit?usp=sharing) with a link to your poll.
 - Additionally, put the link to your poll in your Gradescope submission in the indicated place (see below).
