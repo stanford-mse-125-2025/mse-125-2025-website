@@ -36,7 +36,7 @@ NOTE: You are not to fill out other polls just yet, we will let you know when.
 
 ## Notebook
 
-Complete the [homework 2 notebook](TBD).
+Complete the [homework 2 notebook](https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/homework_notebooks/HW2.ipynb).
 Please make a copy of the notebook to your Google Drive before starting!!
 
 **Submission**:
