@@ -23,3 +23,9 @@ Please make a copy of the [Google Colab Notebook](https://colab.research.google.
 Due Date: Thursday April 10th at 11:59pm
 
 [Homework 1 Details](https://stanford-mse-125-2025.github.io/mse-125-2025-website/assignments/homework1/).
+
+## Homework 2
+
+Due Date: Thursday April 17th at 11:59pm
+
+[Homework 2 Details](https://stanford-mse-125-2025.github.io/mse-125-2025-website/assignments/homework2/).
