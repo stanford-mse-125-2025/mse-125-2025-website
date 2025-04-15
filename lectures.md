@@ -58,3 +58,15 @@ View <a href="https://docs.google.com/presentation/d/1ARBmbVcSjCPMG_bPxTrLPuj93N
 <div>
 View <a href="https://docs.google.com/document/d/19CfrBMTbDcRm5IInGDKYEjvj1dqYTslV3VrV1Nyj1KQ/edit?usp=sharing">worksheet</a>
 </div>
+
+## Lecture 5: Hypothesis Testing
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTH00e_36-DceMNcZZWhT3M4VQ8TV5gib7mISi6uLa_pFxQpi9PBHVPJRzRn7fKWVfvhsxPrGsK42Sf/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1ux65BeLedOxoT_L3RRhEoFhNdxnbklw-lKB9mpb8QGs/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/1gD9FBG00RDHXg3NjTTNJCS4PzNxBP_0z1Y1MsN4iZPA/edit?usp=sharing">worksheet</a>
+</div>
