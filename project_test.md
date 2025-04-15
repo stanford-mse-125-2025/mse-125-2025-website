@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Project
+nav_exclude: true
 ---
 
 # Project
