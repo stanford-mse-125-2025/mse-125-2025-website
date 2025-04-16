@@ -61,10 +61,10 @@ View <a href="https://docs.google.com/document/d/19CfrBMTbDcRm5IInGDKYEjvj1dqYTs
 
 ## Lecture 5: Hypothesis Testing
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTH00e_36-DceMNcZZWhT3M4VQ8TV5gib7mISi6uLa_pFxQpi9PBHVPJRzRn7fKWVfvhsxPrGsK42Sf/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxie4ZCcNZJaEL19oyh6o_HkYZcePaSMI-xnY_2RvwdHsEYEHCLGuoEtKtqhVFAvUE-LocW6TqNZoa/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <div>
-View <a href="https://docs.google.com/presentation/d/1ux65BeLedOxoT_L3RRhEoFhNdxnbklw-lKB9mpb8QGs/edit?usp=sharing">printable version</a>
+View <a href="https://docs.google.com/presentation/d/17g18qVu9Faasi_Mvnm4_QAa-qoP4rUFCk2whDgNY2tg/edit?usp=sharing">printable version</a>
 </div>
 
 <div>
