@@ -5,7 +5,7 @@ description: Details for Homework 3.
 nav_exclude: true
 ---
 
-# Homework 3: # Hypothesis Testing
+# Homework 3: Hypothesis Testing
 
 Due date: **Thursday April 24th at 11:59pm**
 
