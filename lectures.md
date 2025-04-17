@@ -70,3 +70,16 @@ View <a href="https://docs.google.com/presentation/d/17g18qVu9Faasi_Mvnm4_QAa-qo
 <div>
 View <a href="https://docs.google.com/document/d/1gD9FBG00RDHXg3NjTTNJCS4PzNxBP_0z1Y1MsN4iZPA/edit?usp=sharing">worksheet</a>
 </div>
+
+## Lecture 6: Hypothesis Testing II
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQZ7e9NeTqil5_xhT31Ksl-e36tzEUJZvuNgCb5BDhcf4sFT5Io_rXC3enfjBeNrDAD1Vd5xmKxF6k/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1JMrq953pJnN6VnegfgQ34O0kkbc6FjdA7-5fmB_rcyI/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/1I-k4l9k65cQpCWT9D6mhk5VKnKUn-iX71Io3GaNUJk0/edit?usp=sharing">worksheet</a>
+</div>
+
