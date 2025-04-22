@@ -83,3 +83,18 @@ View <a href="https://docs.google.com/presentation/d/1JMrq953pJnN6VnegfgQ34O0kkb
 View <a href="https://docs.google.com/document/d/1I-k4l9k65cQpCWT9D6mhk5VKnKUn-iX71Io3GaNUJk0/edit?usp=sharing">worksheet</a>
 </div>
 
+## Lecture 7: Bootstrapping
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQDwzJvKdR2_jDsMcDHE1Jl6IhiM8Tr8cyWMJmsVuZjklkUrxmZeg5V-vrXprM8CIJ2oRHJ6_sTeyYQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1ZH0d3c-fGZmQJlD0yjsqfVlvSk0dNLvwyVoT_0FrEHk/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/1qk2cA2vmwJ5fEU4wlGf8IHq5poasSl_4ulv9qZg-Vkw/edit?usp=sharing">worksheet</a>
+</div>
+
+
+
+
