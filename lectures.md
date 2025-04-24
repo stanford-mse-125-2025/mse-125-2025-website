@@ -95,6 +95,18 @@ View <a href="https://docs.google.com/presentation/d/1ZH0d3c-fGZmQJlD0yjsqfVlvSk
 View <a href="https://docs.google.com/document/d/1qk2cA2vmwJ5fEU4wlGf8IHq5poasSl_4ulv9qZg-Vkw/edit?usp=sharing">worksheet</a>
 </div>
 
+## Lecture 8: Causality
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzVhwbQhhjn6qOvEBPdtF3FirrG2M7tXZ1BzICrfE6E0T2uk9G3qwsgVWLJGgj_HA5OJDHS9mRTnrd/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1YFFzMmNqbQYFyvWq4YIDKSa7-KKiSvpwTT27IDYsILQ/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/1biscDyoklH3JmGP8QVm6JNRuZieSWlIDgI8YSspPibw/edit?usp=sharing">worksheet</a>
+</div>
+
 
 
 
