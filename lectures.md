@@ -108,5 +108,17 @@ View <a href="https://docs.google.com/document/d/1biscDyoklH3JmGP8QVm6JNRuZieSWl
 </div>
 
 
+## Lecture 9: Simple Linear Regression
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQZQumnQao96xoLBCrvWlQalPvxKBz6k0cfwhb4hFM0i9ujStC4QEqcwJXzecNQr30hhnbkGV9cQ7A/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1gpS0PeyGxuO2r4oqSipoq3LNS4GQAjJbcnm7TID-MQg/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/15c_BSegUt4ndfGAK_kFQFM7oYXkWod9od7EByWcssDI/edit?usp=sharing">worksheet</a>
+</div>
+
 
 
