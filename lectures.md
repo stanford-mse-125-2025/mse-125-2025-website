@@ -124,5 +124,18 @@ View <a href="https://docs.google.com/document/d/15c_BSegUt4ndfGAK_kFQFM7oYXkWod
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/simple_linear_regression.ipynb">demo</a>
 </div>
 
+## Lecture 10: Regression Inference
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfnI2_R1kSao3CoSV8jUmEzLeecjGEbwAetOHnS7nhgVUGmL37_Ew-XuY-HskZxGfeIx_8nYOstF00/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<div>
+View <a href="https://docs.google.com/presentation/d/1I26JKD02MVwmPSERXJzLsIkdhR14tSS-t0FLY9KIsEU/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/1x-loGj36QnnLUBNF_rCeM_RtOxkM4pNl7qgXjc2Mzuc/edit?usp=sharing">worksheet</a>
+</div>
+
+<div>
+View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/simple_linear_regression.ipynb">demo</a>
+</div>
