@@ -42,8 +42,7 @@ Due Date: Tuesday April 29th at 11:59pm
 
 [Homework 4 Details](https://stanford-mse-125-2025.github.io/mse-125-2025-website/assignments/homework4/)
 
-
-## Homework 4
+## Homework 5
 
 Due Date: Thursday May 15th at 11:59pm
 
