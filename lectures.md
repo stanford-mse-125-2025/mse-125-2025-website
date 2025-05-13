@@ -139,3 +139,19 @@ View <a href="https://docs.google.com/document/d/1x-loGj36QnnLUBNF_rCeM_RtOxkM4p
 <div>
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/simple_linear_regression.ipynb">demo</a>
 </div>
+
+## Lecture 11: Multiple Linear Regression
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdymHPlpge-jAMA2rSTJfGJcc4unKJEH3KdHIFJFh2a7ALbpszbDjXR5VR0kPG_EL4CPRx5bK9jAgu/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1B6mT2a4QZh4RgHcCIcrpt25Gk9Ri9jhLb0v_lK1K6pY/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/1LIKq5UB2ntpvsl1DKsKh_p42uC6B7bwC74_gkhB95U0/edit?usp=sharing">worksheet</a>
+</div>
+
+<div>
+View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/multiple_linear_regression.ipynb">demo</a>
+</div>
