@@ -142,10 +142,10 @@ View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse
 
 ## Lecture 11: Multiple Linear Regression
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdymHPlpge-jAMA2rSTJfGJcc4unKJEH3KdHIFJFh2a7ALbpszbDjXR5VR0kPG_EL4CPRx5bK9jAgu/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7GsmgLb1WjE-Vx8pCXiL8-DU6igl4OM5SfNGF2NuCWDeEjznDUCb5yb2U_iQpbMVVz4J7P_vNJayk/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <div>
-View <a href="https://docs.google.com/presentation/d/1B6mT2a4QZh4RgHcCIcrpt25Gk9Ri9jhLb0v_lK1K6pY/edit?usp=sharing">printable version</a>
+View <a href="https://docs.google.com/presentation/d/1EeFE75GNwPKrFJPfye95w_SR0l_1Sc-q02QOc-3loO4/edit?usp=sharing">printable version</a>
 </div>
 
 <div>

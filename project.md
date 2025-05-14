@@ -26,6 +26,8 @@ With your project, we expect you to:
     - Conduct 1 hypothesis test that does not involve a regression model.
     - Fit at least 1 regression model.
 
+Please see the [grading rubric](https://docs.google.com/document/d/1paGNtwNnRozpgDiKvIfR1WVRWqour3tnb5MLb_gvNK4/edit?usp=sharing) for further details.
+
 ## Checkpoints and Deliverables
 
 - **Initial Proposal Meeting**: each team is required to attend a 15 minute project proposal meeting with a member of the course staff. In this meeting, teams should have prepared a research question as well as what dataset(s) they plan to use. The course staff member from this meeting will serve as the team's point of contact for the project for the rest of the quarter. Teams will receive full credit as long as they prepare a reasonable amount for the meeting. Please use [this spreadsheet](https://docs.google.com/spreadsheets/d/151Il9FjwLZeYynqwNDQujtxbwA4bxdO54Z6K3nZXBWA/edit?usp=sharing) to sign up for an initial meeting slot. These meetings will happen the week of April 21st.
