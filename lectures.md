@@ -149,9 +149,20 @@ View <a href="https://docs.google.com/presentation/d/1EeFE75GNwPKrFJPfye95w_SR0l
 </div>
 
 <div>
-View <a href="https://docs.google.com/document/d/1LIKq5UB2ntpvsl1DKsKh_p42uC6B7bwC74_gkhB95U0/edit?usp=sharing">worksheet</a>
+View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/multiple_linear_regression.ipynb">demo</a>
+</div>
+
+## Lecture 12: Model Selection
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7x76uEUXK5t4JquKoRG72UMQS3saZY7qZWcxhtSon17X8PSrpgffuxAiV8R0ToslJfmL54NTbm37J/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/187bZvzV7C1RoZ6qTiBXDg4jl8ZFCTpr2VISJPKbOVYo/edit?usp=sharing">printable version</a>
 </div>
 
 <div>
+View <a href="https://docs.google.com/document/d/1vJJQPOYHPm8Ye98zCfCEbiUu5fJEw2G20K6Q0PeS-1g/edit?usp=sharing">worksheet</a>
+</div>
+
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/multiple_linear_regression.ipynb">demo</a>
 </div>
