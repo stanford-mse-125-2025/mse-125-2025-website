@@ -154,10 +154,10 @@ View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse
 
 ## Lecture 12: Model Selection
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7x76uEUXK5t4JquKoRG72UMQS3saZY7qZWcxhtSon17X8PSrpgffuxAiV8R0ToslJfmL54NTbm37J/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSC3N3pkDjUH-kpluYBL6C6GMALtaBsMViGI-BNELhWaKKjRa5iDfpKv_xFK8C1vcaSaoinmJWkn31V/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <div>
-View <a href="https://docs.google.com/presentation/d/187bZvzV7C1RoZ6qTiBXDg4jl8ZFCTpr2VISJPKbOVYo/edit?usp=sharing">printable version</a>
+View <a href="https://docs.google.com/presentation/d/1qV_STKxsFZL_c2UWl1riKydH3kfHdAWmd3VvfB2DBOw/edit?usp=sharing">printable version</a>
 </div>
 
 <div>
