@@ -5,7 +5,7 @@ description: Details for Homework 6.
 nav_exclude: true
 ---
 
-# Homework 5: Simple Linear Regression
+# Homework 6: Linear Regression
 
 Due date: **Thursday May 22nd at 11:59pm**
 
