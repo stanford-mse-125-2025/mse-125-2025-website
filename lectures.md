@@ -176,7 +176,7 @@ View <a href="https://docs.google.com/presentation/d/1jGTyWoeGGPS3xQ_YgwiZ-kPVuS
 </div>
 
 <div>
-View <a href="https://docs.google.com/document/d/1vJJQPOYHPm8Ye98zCfCEbiUu5fJEw2G20K6Q0PeS-1g/edit?usp=sharing">worksheet</a>
+View <a href="https://docs.google.com/document/d/1RS_LmGRSPLeAr5-dUQzXzn6oe-y9xiv8rOupFJxvR2M/edit?usp=drive_link">worksheet</a>
 </div>
 
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/logistic_regression.ipynb">demo</a>
