@@ -166,3 +166,18 @@ View <a href="https://docs.google.com/document/d/1vJJQPOYHPm8Ye98zCfCEbiUu5fJEw2
 
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/multiple_linear_regression.ipynb">demo</a>
 </div>
+
+## Lecture 13: Logistic Regression
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCpm70uojOF1KSYmACYK6mayi51bAZKbKF64BE-14hSqtGdbJUbhzzX7tlSkR5UtX89ZXeQ6wSvHE4/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1jGTyWoeGGPS3xQ_YgwiZ-kPVuSI4T94BEXLijS3toUA/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/1vJJQPOYHPm8Ye98zCfCEbiUu5fJEw2G20K6Q0PeS-1g/edit?usp=sharing">worksheet</a>
+</div>
+
+View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/logistic_regression.ipynb">demo</a>
+</div>
