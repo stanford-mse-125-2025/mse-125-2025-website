@@ -169,10 +169,10 @@ View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse
 
 ## Lecture 13: Logistic Regression
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCpm70uojOF1KSYmACYK6mayi51bAZKbKF64BE-14hSqtGdbJUbhzzX7tlSkR5UtX89ZXeQ6wSvHE4/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSj4KG3gEGGBWsbz0u2JvPnMQc2SLH7mGVsr-GnIG1xxLjYiaSEMa8_xccd4LPosO4z3etpHGSYAniQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <div>
-View <a href="https://docs.google.com/presentation/d/1jGTyWoeGGPS3xQ_YgwiZ-kPVuSI4T94BEXLijS3toUA/edit?usp=sharing">printable version</a>
+View <a href="https://docs.google.com/presentation/d/1m7SxuTKQmEYy2oyQB0DRgSfWuLuoOdoioYjSR0OreJA/edit?usp=sharing">printable version</a>
 </div>
 
 <div>
