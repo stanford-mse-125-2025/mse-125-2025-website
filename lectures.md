@@ -181,3 +181,19 @@ View <a href="https://docs.google.com/document/d/1RS_LmGRSPLeAr5-dUQzXzn6oe-y9xi
 
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/logistic_regression.ipynb">demo</a>
 </div>
+
+
+## Lecture 14: Classification Error Metrics
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_V3uMHDYlSGF-JXTAkuSx5MZ8SfSCbfkKMx8dyGcyiU9BEWr8Os4bTg1cljUSeCPrpOVMdtKTOlmp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1Azvcggzgc-VSc0tf4atfwJy6gftjLAQET3IY0e7wEmQ/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/1oE6REpIs3XdVO-254nG8ccsPI4HpFPufglaJs-3UxMc/edit?usp=sharing">worksheet</a>
+</div>
+
+View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/logistic_regression.ipynb">demo</a>
+</div>
