@@ -14,7 +14,7 @@ You are welcome to work with others to master the principles and approaches used
 
 ## Notebook
 
-Complete the [homework 6 notebook](https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/homework_notebooks/HW7.ipynb).
+Complete the [homework 7 notebook](https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/homework_notebooks/HW7.ipynb).
 Please make a copy of the notebook to your Google Drive before starting!!
 
 **Submission**:
