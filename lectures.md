@@ -164,6 +164,7 @@ View <a href="https://docs.google.com/presentation/d/1qV_STKxsFZL_c2UWl1riKydH3k
 View <a href="https://docs.google.com/document/d/1vJJQPOYHPm8Ye98zCfCEbiUu5fJEw2G20K6Q0PeS-1g/edit?usp=sharing">worksheet</a>
 </div>
 
+<div>
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/multiple_linear_regression.ipynb">demo</a>
 </div>
 
@@ -179,21 +180,39 @@ View <a href="https://docs.google.com/presentation/d/1m7SxuTKQmEYy2oyQB0DRgSfWuL
 View <a href="https://docs.google.com/document/d/1RS_LmGRSPLeAr5-dUQzXzn6oe-y9xiv8rOupFJxvR2M/edit?usp=drive_link">worksheet</a>
 </div>
 
+<div>
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/logistic_regression.ipynb">demo</a>
 </div>
 
 
 ## Lecture 14: Classification Error Metrics
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_V3uMHDYlSGF-JXTAkuSx5MZ8SfSCbfkKMx8dyGcyiU9BEWr8Os4bTg1cljUSeCPrpOVMdtKTOlmp/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0OPh4UrItLGxadudl0dKQi_naMa0Fxy_udxLIIHc5nMZpbpyYf1qxyWxEjEckJcSl-81qVz_61K7f/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <div>
-View <a href="https://docs.google.com/presentation/d/1Azvcggzgc-VSc0tf4atfwJy6gftjLAQET3IY0e7wEmQ/edit?usp=sharing">printable version</a>
+View <a href="https://docs.google.com/presentation/d/1oYjckybzHyss8wWnbzgBIGTy2z3y93ls8kbt1wUSzdQ/edit?usp=sharing">printable version</a>
 </div>
 
 <div>
 View <a href="https://docs.google.com/document/d/1oE6REpIs3XdVO-254nG8ccsPI4HpFPufglaJs-3UxMc/edit?usp=sharing">worksheet</a>
 </div>
 
+<div>
 View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/logistic_regression.ipynb">demo</a>
+</div>
+
+## Lecture 15: Additive Models
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQkmwwfdzMDpMQY_4rln7aaxCKeWlp1Uas1LxEZ1vDstFsTe_D-PsF7KqcobQpe8geE9IDaOz9jPL1q/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+View <a href="https://docs.google.com/presentation/d/1BzQDM5laiBjsLlSntYJ4GbQDI5HTrSamaST8QJySVDg/edit?usp=sharing">printable version</a>
+</div>
+
+<div>
+View <a href="https://docs.google.com/document/d/1dwvxpfBhtCHJKlQRFYcjKdQGK_T8S_uVqN0nr4Cumr4/edit?usp=sharing">worksheet</a>
+</div>
+
+<div>
+View <a href="https://colab.research.google.com/github/stanford-mse-125-2025/mse-125-2025-public/blob/main/demos/additive_models.ipynb">demo</a>
 </div>
